@@ -1,6 +1,7 @@
 # presten.app.uib.no
 Docker/RAIL erstatning for dagens https://org.uib.no/presten
 Helge
+Test2
 
 Fra nettside eier:
 
