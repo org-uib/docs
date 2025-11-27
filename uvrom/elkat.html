@@ -1,109 +1,146 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html><head>
-
-  
-    <title>UiB internal phonebook</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <link rel="SHORTCUT ICON" href="http://tjinfo.uib.no/favicon.ico">
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UiB Intern Telefonkatalog - UiB internal phonebook</title>
+    <link rel="icon" href="http://tjinfo.uib.no/favicon.ico">
     <link href="TJINFO_var_egentlig_nedlagt_files/012.css" rel="stylesheet" type="text/css">
-    <script language="JavaScript1.2" type="text/javascript">
-       <!--
-         function setFocus() {
-           document.getElementById('enavn').focus();
-         }
-       //-->
+    <script type="text/javascript">
+       function setFocus() {
+         document.getElementById('enavn').focus();
+       }
     </script>
-  </head><body onload="setFocus()">
-  <div class="container">
-    <div class="header" id="elkat">
-      <h3>INTERN TELEFONKATALOG</h3>
-      <p>UiB internal phonebook</p>
-      <div class="it-header">
-        <img src="TJINFO_var_egentlig_nedlagt_files/uib_topp.gif" alt="Universitetet i Bergen">
-        <a href="http://uib.no/" title="Universitetet i Bergen">Universitetet i Bergen</a>
-      </div>
-    </div>
-    <!-- start Menu HTML -->
-    <div class="left">
-      <div id="lang">
-      </div>
-      <div id="menu">
-        <ul>
-          <li>
-            <h2><span>Ansvarlig</span></h2>
-            <a href="http://uib.no/" title="UiB">UiB</a>
-            <a href="http://www.uib.no/poa" title="Personal- og organisasjonsavdelingen">POA</a>
-            <a href="http://it.uib.no/" title="IT-avdelingen">IT</a>
-            <a href="https://bs.uib.no/" title="issue-tracker">Brita</a>
-            <a href="https://sebra.uib.no/" title="Sebra">Sebra</a>
-            <a href="http://webber.uib.no/kind/" title="hmk">hmk</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <div class="content">
-<!--
-   <h1 align="center">INTERN TELEFONKATALOG<br> UiB internal phonebook</h1>
--->
-   <div style="text-align: center;">
-   <em style="">These pages are ©Copyright University of Bergen<br></em>
-   <!-- The addresses found on these pages should not be used for distribution of unsolicited mail. -->
-   <em style="font-style: italic; font-size: 0.6em;">
-   Addresses found here should not be used to distribute unsolicited email.
-   </em>
-   </div>
-   <br>
-<form name="elkat" method="POST">
-   Søk <i>(Search)</i> for <br>
-   <input name="©kat©" value="elkat" checked="checked" type="radio">Ansatte <i>(Employees)</i>
-   <input name="©kat©" value="studkat" type="radio">Studenter <i>(Students)</i>
-   <input name="©kat©" value="ja" type="radio">Begge <i>(Both)</i><p>
-   <b>Vennligst oppgi minst to tegn av personens navn</b><br>
-   <i>Please type in at least two characters of the name of the person:</i>
-   </p><dl><dt>Etternavn <i>(Surname)</i>:
-   </dt><dd><input name="©enavn©" id="enavn" size="30">
-   <br>
-   <em style="font-size: 0.7em;">Bruk * som joker - </em><em style="font-size: 0.7em; font-style: italic;">wildcard with *</em>
-   </dd><dt>Fornavn <i>(Given name)</i>:
-   </dt><dd><input name="©fnavn©" size="30">
-   </dd><dt>Kort listing <i>(Short listing)</i>
-   <input name="©kompakt©" value="JA" type="radio">JA <i>(Yes)</i>
-   <input checked="checked" name="©kompakt©" value="NEI" type="radio">NEI <i>(No)</i>
-   </dt><dt>Prøv eksakt treff først <i>(First try exact match)</i>
-   <input checked="checked" name="©eksakt©" value="JA" type="radio">JA <i>(Yes)</i>
-   <input name="©eksakt©" value="NEI" type="radio">NEI <i>(No)</i>
-   </dt></dl>
-   <input value="Søk/search" type="submit">
-   <input value="Reset" type="reset"><p>
-   </p><dl><dt>Telefonnummer <i>(Phone number)</i>:
-   </dt><dd>+47 <input name="©tlf©" size="13" maxlength="13">
-   </dd><dt>Avdeling <i>(Department)</i>
-   (minst 5 tegn/<i>at least 5 chars</i>):
-   </dt><dd><input name="©avd©" size="30">
-   SpeC: <input name="©speC©" value="JA" type="radio">JA
-   <input checked="checked" name="©speC©" value="NEI" type="radio">NEI
-   </dd><dt>Maildomene <i>(Maildomain)</i>
-   </dt><dd><input name="©mail©" size="8">.uib.no
-   <input name="©dummy©" value="NONE" type="HIDDEN">
-   </dd></dl>
-   Alle søk foregår uavhengig av store og små bokstaver.<br>
-   Maksimalt 100 treff vil bli vist<br>
-   <i>All searches are «case insensitive substring»<br>
-   Maximum 100 hits will be shown
-   </i>.
-   </form>
-  Oppslag nummer <b>3600325</b> siden 19 april 1996
+</head>
+<body onload="setFocus()">
+    <a href="#main-content" class="skip-link">Hopp til hovedinnhold</a>
+    <div class="container">
+        <header class="header" id="elkat">
+            <h1>INTERN TELEFONKATALOG</h1>
+            <p>UiB internal phonebook</p>
+            <div class="it-header">
+                <img src="TJINFO_var_egentlig_nedlagt_files/uib_topp.gif" alt="Universitetet i Bergen">
+                <a href="http://uib.no/" title="Universitetet i Bergen">Universitetet i Bergen</a>
+            </div>
+        </header>
 
+        <nav class="left" aria-label="Hovednavigasjon">
+            <div id="lang">
+            </div>
+            <div id="menu">
+                <ul>
+                    <li>
+                        <h2><span>Ansvarlig</span></h2>
+                        <a href="http://uib.no/" title="UiB">UiB</a>
+                        <a href="http://www.uib.no/poa" title="Personal- og organisasjonsavdelingen">POA</a>
+                        <a href="http://it.uib.no/" title="IT-avdelingen">IT</a>
+                        <a href="https://bs.uib.no/" title="issue-tracker">Brita</a>
+                        <a href="https://sebra.uib.no/" title="Sebra">Sebra</a>
+                        <a href="http://webber.uib.no/kind/" title="hmk">hmk</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <main id="main-content" class="content">
+            <div style="text-align: center;">
+                <p><em>These pages are &copy;Copyright University of Bergen</em></p>
+                <p><em style="font-size: 0.8em;">Addresses found here should not be used to distribute unsolicited email.</em></p>
+            </div>
+            <br>
+
+            <form name="elkat" method="POST" action="">
+                <fieldset>
+                    <legend>SÃ¸k (Search) for</legend>
+
+                    <div class="form-group">
+                        <input name="kat" value="elkat" checked="checked" type="radio" id="ansatte">
+                        <label for="ansatte">Ansatte <i>(Employees)</i></label>
+
+                        <input name="kat" value="studkat" type="radio" id="studenter">
+                        <label for="studenter">Studenter <i>(Students)</i></label>
+
+                        <input name="kat" value="ja" type="radio" id="begge">
+                        <label for="begge">Begge <i>(Both)</i></label>
+                    </div>
+
+                    <p><strong>Vennligst oppgi minst to tegn av personens navn</strong><br>
+                    <i>Please type in at least two characters of the name of the person:</i></p>
+
+                    <div class="form-group">
+                        <label for="enavn">Etternavn <i>(Surname)</i>:</label>
+                        <input name="enavn" id="enavn" size="30" type="text">
+                        <br>
+                        <em style="font-size: 0.7em;">Bruk * som joker - <i>wildcard with *</i></em>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="fnavn">Fornavn <i>(Given name)</i>:</label>
+                        <input name="fnavn" id="fnavn" size="30" type="text">
+                    </div>
+
+                    <div class="form-group">
+                        <span>Kort listing <i>(Short listing)</i></span>
+                        <input name="kompakt" value="JA" type="radio" id="kort-ja">
+                        <label for="kort-ja">JA <i>(Yes)</i></label>
+                        <input checked="checked" name="kompakt" value="NEI" type="radio" id="kort-nei">
+                        <label for="kort-nei">NEI <i>(No)</i></label>
+                    </div>
+
+                    <div class="form-group">
+                        <span>PrÃ¸v eksakt treff fÃ¸rst <i>(First try exact match)</i></span>
+                        <input checked="checked" name="eksakt" value="JA" type="radio" id="eksakt-ja">
+                        <label for="eksakt-ja">JA <i>(Yes)</i></label>
+                        <input name="eksakt" value="NEI" type="radio" id="eksakt-nei">
+                        <label for="eksakt-nei">NEI <i>(No)</i></label>
+                    </div>
+
+                    <div class="form-actions">
+                        <input value="SÃ¸k/search" type="submit">
+                        <input value="Reset" type="reset">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="tlf">Telefonnummer <i>(Phone number)</i>:</label>
+                        +47 <input name="tlf" id="tlf" size="13" maxlength="13" type="tel">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="avd">Avdeling <i>(Department)</i> (minst 5 tegn/<i>at least 5 chars</i>):</label>
+                        <input name="avd" id="avd" size="30" type="text">
+                        <label for="spec-ja">SpeC:</label>
+                        <input name="speC" value="JA" type="radio" id="spec-ja">
+                        <label for="spec-ja">JA</label>
+                        <input checked="checked" name="speC" value="NEI" type="radio" id="spec-nei">
+                        <label for="spec-nei">NEI</label>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="mail">Maildomene <i>(Maildomain)</i>:</label>
+                        <input name="mail" id="mail" size="8" type="email">.uib.no
+                        <input name="dummy" value="NONE" type="hidden">
+                    </div>
+                </fieldset>
+
+                <p>Alle sÃ¸k foregÃ¥r uavhengig av store og smÃ¥ bokstaver.<br>
+                Maksimalt 100 treff vil bli vist<br>
+                <i>All searches are case insensitive substring<br>
+                Maximum 100 hits will be shown</i>.</p>
+            </form>
+
+            <p>Oppslag nummer <strong>3600325</strong> siden 19 april 1996</p>
+        </main>
+
+        <footer class="colophone">
+            <div>
+                <img src="TJINFO_var_egentlig_nedlagt_files/uib_kolofon.gif" alt="Logo for Universitetet i Bergen">
+                <p><strong>&copy;2009 Universitetet i Bergen | IT-avdelingen</strong></p>
+                <p>Adresse: Postboks 7800 5020 Bergen</p>
+                <p>BesÃ¸ksadresse: NygÃ¥rdsgaten 5</p>
+                <p>Telefon: (+47) 55584201 Faks: (+47) 55584299</p>
+                <p>Ansvarlig redaktÃ¸r: FormidlingsdirektÃ¸ren</p>
+            </div>
+        </footer>
     </div>
-    <div class="colophone">
-      <div>
-        <img src="TJINFO_var_egentlig_nedlagt_files/uib_kolofon.gif" alt="Logo for Universitetet i Bergen">
-        <p><strong>©2009 Universitetet i Bergen | IT-avdelingen</strong></p>
-        <p>Adresse: Postboks 7800 5020 Bergen</p>
-        <p>Besøksadresse: Nygårdsgaten 5</p>
-        <p>Telefon: (+47) 55584201 Faks: (+47) 55584299</p>
-        <p>Ansvarlig redaktør: Formidlingsdirektøren</p>
-      </div>
-    </div>
-  </div>
-</body></html>
+</body>
+</html>
