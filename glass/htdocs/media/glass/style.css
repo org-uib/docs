@@ -705,6 +705,126 @@ img { border: none; }
 /*slutt samme verdier*/
 /*slutt om type glass*/
 
+/* Responsive Design */
+@media screen and (max-width: 980px) {
+	#shadow, #wrapper, #header {
+		width: 100%;
+		max-width: 100%;
+	}
+
+	#wrapper {
+		margin: 0;
+		padding: 10px;
+	}
+
+	#content {
+		width: auto;
+		height: auto;
+		margin: 10px 0;
+		padding: 10px;
+	}
+
+	#nav {
+		width: 100%;
+		height: auto;
+		position: static;
+	}
+
+	.info-history {
+		width: 100%;
+		height: auto;
+		float: none;
+		margin-bottom: 20px;
+	}
+
+	.info-history-main {
+		width: 100%;
+		height: auto;
+		float: none;
+		margin-left: 0;
+		padding: 10px;
+	}
+
+	.info-history-individual {
+		width: 100%;
+		height: auto;
+		float: none;
+		margin-left: 0;
+	}
+
+	.introduction p {
+		width: 100%;
+		margin: 10px 0;
+	}
+
+	.image {
+		width: 100%;
+		float: none;
+		margin-right: 0;
+		margin-bottom: 15px;
+	}
+
+	.image_terminologi {
+		width: 100%;
+		float: none;
+	}
+
+	#main-menu {
+		float: none;
+		text-align: center;
+		margin-top: 10px;
+		font-size: 14px;
+	}
+
+	#logo {
+		text-align: center;
+	}
+
+	#logo img {
+		max-width: 100%;
+		height: auto;
+	}
+
+	.gallery_main_mini, .gallery_main_info {
+		width: 100%;
+		float: none;
+		margin: 10px 0;
+	}
+
+	#center img {
+		max-width: 100%;
+		height: auto;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	body {
+		font-size: 14px;
+	}
+
+	#main-menu {
+		font-size: 12px;
+	}
+
+	#main-menu a {
+		display: inline-block;
+		padding: 5px 10px;
+	}
+
+	h2 {
+		font-size: 20px;
+	}
+
+	h3 {
+		font-size: 14px;
+	}
+
+	.info-history .links li a {
+		width: 100%;
+		padding: 10px 5px;
+	}
+}
+
 /*Om hver enkelt dekorteknikk*/
 
 #about_dekor_optisk{
