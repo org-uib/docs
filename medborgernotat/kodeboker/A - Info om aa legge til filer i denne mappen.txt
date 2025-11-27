@@ -1,0 +1,9 @@
+Paa forespoersel gjennom hjelp.uib.no kan IT legge til nye filer i denne mappen (altsaa https://org.uib.no/medborgernotat/kodeb%C3%B8ker). 
+Man kan ogsaa be IT om direkte tilgang til \\project-ita.uib.no\radisson7_org\medborgernotat\, slik at man kan legge til og endre filer selv.
+
+Viktig: Dersom man skal erstatte en fil i denne mappen er det viktig at den nye filen har _samme filnavn som den forrige_, slik at lenken til kodeboekene fortsatt vil fungere der de er oppgitt paa netttsidene.
+Naar man legger til en ny fil er det derfor lurt aa gjoere filnavnet noeytralt, og derfor fjerne versjonsnummeret fra filnavnet, foer filen legges til i mappen og lenken legges ut.
+
+Naar du har faatt tilgang, finner du mappen ved aa skrive \\project-ita.uib.no\radisson7_org\medborgernotat i location feltet i filutforsker paa PCen. Det kan vaere lurt aa feste mappen til hurtigtilgang.
+
+Jeg er usikker paa hvorfor det er to mapper, "kodeboker" og "kodebøker" (med norsk bosktav), men det virker som de er synkronisert og begge oppdateres med endringer man gjoer. Jeg har pleid aa bruke "kodebøker".

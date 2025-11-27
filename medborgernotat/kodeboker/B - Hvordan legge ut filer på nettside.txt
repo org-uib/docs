@@ -1,0 +1,8 @@
+For å legge ut kodebøker og metoderapporter på nettside, fungerer følgende: 
+
+1. åpne filen via denne mappen
+
+2. kopier URL-en etter "/medborgernotat" (eks. "medborgernotat/kodebøker/Kodebok%20-%20NRP%20runde%2011%20-%20no.html")
+
+3. når hyperlenken skal legges til i teksten, bytter du ut [nettverksnavn] med: https://org.uib.no/. 
+URL-en ser da slik ut: https://org.uib.no/medborgernotat/kodeb%C3%B8ker/Codebook%20-%20NRP%20round%2010%20-%20en.html
