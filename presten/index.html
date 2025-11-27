@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Studentprestene i Bergen</title>
+	<link rel="stylesheet" href="https://bootswatch.com/4/journal/bootstrap.min.css">
+	<link href="stilarkprest2.css" rel="stylesheet" type="text/css">
+	<link id="high-contrast-css" rel="stylesheet" type="text/css" href="">
+</head>
+<body>
+<button id="high-contrast-toggle" aria-label="Bytt til høykontrast modus">Høykontrast</button>
+<div class="node-type-uib-article">
+	<div class="container-fluid">
+		<header>
+			<div id="header">
+				<h1>
+					<a href="index.html" style="color: inherit; text-decoration: none;">Studentprestene i Bergen</a>
+				</h1>
+				<p>Når livet blir for stort eller for lite.</p>
+			</div>
+		</header>
+
+		<nav id="navigation" class="container-fluid">
+			<ul>
+				<li><a href="#her-finner-du-oss">Prestekontoret</a></li>
+				<li><a target="_blank" rel="noopener" href="https://studentprestene.no/">Studentprestene i Norge</a></li>
+				<li><a href="engelsk.html">English</a></li>
+			</ul>
+		</nav>
+
+		<main id="content-container">
+			<div id="content">
+				<h2>Velkommen til studentprestene!</h2>
+
+				<p>
+					Studenttiden kan være både fin og krevende. <br>Noen ganger er det godt å snakke med en som lytter med interesse til hvordan det er å være deg akkurat nå.
+				</p>
+
+				<p>
+					Når livet er utfordrende, kan studentpresten være en trygg og støttende samtalepartner. Vi snakker om det som betyr noe for deg, enten det er stort eller lite
+				</p>
+
+				<p>
+					Vi har taushetsplikt, og du trenger ikke å være kristen eller religiøs for å komme til oss.
+				</p>
+
+				<h3>Ta kontakt for å gjøre en avtale</h3>
+
+				<p>
+					Studentprestene er et gratis lavterskeltilbud for alle studenter i Bergen.<br>
+					Send en sms eller mail for å avtale en samtale.<br>
+					Vi svarer snarest mulig innen kontortid. Studentprestene er tilgjengelig for samtale på kontoret, telefon og zoom osv.<br>
+					Samtalene varer ca en time, og du kan komme tilbake flere ganger
+				</p>
+
+				<p>
+					<strong>Marie Grindheim</strong><br>
+					<img src="menigheten/bilder/thumbnail__EIM7931hoy-600px.jpg" alt="Marie Grindheim" width="150" style="border-radius: 8px;"><br>
+					<br>Mobil: <a href="tel:+4797604558">976 04 558</a><br>Epost: <a href="mailto:mg894@kyrkja.no">mg894@kyrkja.no</a>
+				</p>
+
+				<h3 id="her-finner-du-oss">Her finner du oss:</h3>
+
+				<p>
+					Kontorene våre ligger nær Studentsenteret, midt på Nygårdshøyden i <a href="thumbnail_bygning.jpg">Harald Hårfagresgate 1</a>.<br>
+					Du finner oss i 5. etg i mursteinsbygget på hjørnet.<br>
+					Ring på dørtelefonen så åpner vi for deg.
+				</p>
+
+				<h3>Beredskap</h3>
+
+				<p>
+					Studentprestene er en del av kriseberedskapen ved lærestedene. Vi kan bistå i det psykososiale støttearbeidet ved dødsfall, ulykker eller kriser. (f.eks når det skal informeres om dødsfall, minnestund osv).
+				</p>
+
+				<p>
+					Vi er ansatt av <a target="_blank" rel="noopener" href="https://www.kirken.no">Den Norske Kirke</a>.
+				</p>
+
+				<iframe
+					src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2169.069548277697!2d5.32414858340659!3d60.387465523648835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x463cfeaa14774781%3A0x394792b21a875eaf!2sHarald%20H%C3%A5rfagres%20gate%201%2C%205007%20Bergen!5e1!3m2!1sen!2sno!4v1756554480810!5m2!1sen!2sno"
+					width="100%"
+					height="400"
+					style="border:0;"
+					allowfullscreen
+					loading="lazy"
+					referrerpolicy="no-referrer-when-downgrade"
+					title="Kart over Harald Hårfagresgate 1, Bergen">
+				</iframe>
+			</div>
+		</main>
+
+		<footer id="footer">
+			<p>
+				Tilgjengelighet: Denne siden er testet og forbedret i henhold til WCAG 2.2-retningslinjene, etter beste evne fra nettsidens ansvarlige.
+				<br>© <span id="year">2025</span> Studentprestene i Bergen
+			</p>
+		</footer>
+	</div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script>
+// Set current year
+document.getElementById('year').textContent = new Date().getFullYear();
+
+// High Contrast Mode Toggle
+(function() {
+	const toggleButton = document.getElementById('high-contrast-toggle');
+	const highContrastCSS = document.getElementById('high-contrast-css');
+	const body = document.body;
+
+	// Check if user has a saved preference
+	const isHighContrast = localStorage.getItem('highContrast') === 'true';
+
+	// Apply saved preference on page load
+	if (isHighContrast) {
+		enableHighContrast();
+	}
+
+	// Toggle button click event
+	toggleButton.addEventListener('click', function() {
+		if (body.classList.contains('high-contrast')) {
+			disableHighContrast();
+		} else {
+			enableHighContrast();
+		}
+	});
+
+	function enableHighContrast() {
+		body.classList.add('high-contrast');
+		highContrastCSS.href = 'high-contrast.css';
+		toggleButton.textContent = 'Normal visning';
+		toggleButton.setAttribute('aria-label', 'Bytt til normal visning');
+		localStorage.setItem('highContrast', 'true');
+	}
+
+	function disableHighContrast() {
+		body.classList.remove('high-contrast');
+		highContrastCSS.href = '';
+		toggleButton.textContent = 'Høykontrast';
+		toggleButton.setAttribute('aria-label', 'Bytt til høykontrast modus');
+		localStorage.setItem('highContrast', 'false');
+	}
+})();
+
+// StatCounter tracking
+var sc_project=8231956;
+var sc_invisible=1;
+var sc_security="9bc80688";
+</script>
+<script src="https://www.statcounter.com/counter/counter.js"></script>
+<noscript>
+	<div class="statcounter">
+		<a title="Web Analytics" href="https://statcounter.com/" target="_blank" rel="noopener">
+			<img class="statcounter" src="https://c.statcounter.com/8231956/0/9bc80688/1/" alt="Web Analytics">
+		</a>
+	</div>
+</noscript>
+
+</body>
+</html>

@@ -1,0 +1,364 @@
+a {
+        color: #0000EE;
+        border:none;
+	font-weight: bold;
+}
+a:visited {
+        color: #551A8B;
+        border:none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+table {
+    width: 100%;
+}
+
+#header {
+	background: #709FC5 url('menigheten/bilder/prestetop.png') no-repeat right top;
+	padding: 0px;
+	height:135px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#header h1 { 
+	padding: 10px 0 0 15px; 
+	font-size:35px;
+}
+
+#header a:link { 
+/* 	text-decoration:none; */
+	color: #0000EE;
+	border:none;
+}
+
+#header a:visited { 
+/*	text-decoration:none; */
+	color: #551A8B;
+	border:none;
+}
+
+#header p { 
+	padding: 0 0 10px 20px; 
+	position:relative;
+	top:-10px;
+	font-size:19px;
+	font-variant:small-caps;
+ 	letter-spacing:1px;
+}
+
+
+#navigation {
+	float:left;
+/*	background: #647E94; */
+	background: #4A6275;
+	font-size:12pt;
+	width: 100%;
+}
+
+#navigation ul {
+	margin: 0;
+	padding: 0;
+}
+
+#navigation ul li {
+	list-style-type: none;
+	display: inline;
+}
+
+#navigation li a {
+	display: block;
+	float: left;
+	padding: 5px 10px;
+	color: #fff;
+	text-decoration: none;
+	border-right: 1px solid #fff;
+}
+
+#navigation li a:hover { 
+	background: #ADCAE2;
+	color: #000;
+}
+/*
+#content-container {
+	float: left;
+	background: #fff url(menigheten/bilder/bg3.png) repeat-y 100% 0;
+	border-left: 1px solid gray;
+	border-right: 1px solid gray;
+}
+*/
+
+#section-navigation {
+	float: left;
+	padding: 5px 0 20px 0;
+	margin: 0 0 0 15px;
+	display: inline;
+}
+
+#section-navigation h3 {
+	margin: 20px 0;
+	padding: 0 0 0 20px;
+	font-size: 25px;
+	color: #255680;
+}
+
+#section-navigation h3 a:link{
+/*	color: #255680; */
+	text-decoration:none;
+}
+
+#section-navigation h3 a:visited{
+	color: #255680;
+	text-decoration:none;
+}
+
+#section-navigation ul {
+	margin: 20px 0;
+	padding: 0;
+}
+
+#section-navigation ul li {
+	margin: 0 0px 0.5em -5px;
+	padding: 0;
+	list-style-type: none;
+	font-weight:bold;
+}
+
+#section-navigation a:link {
+/*	color: #000; */
+	text-decoration:none;
+	font-weight:bold;
+}
+
+#section-navigation a:visited {
+/*	color: #000; */
+	text-decoration:none;
+	font-weight:bold;
+}
+
+#section-navigation p {
+	text-align:center
+}
+
+#section-navigation p.laligned {
+	text-align:left;
+}
+
+#content {
+	float: left;
+	padding: 10px 0 10px 20px;
+	margin: 0;
+}
+
+/*
+#content h1 { 
+	font-size:30px;
+	margin: 0 0 20px 0;
+	color:#647E94;
+}
+
+#content h2 { 
+	font-size:1.2em;
+	font-weight:bold;
+	color:#647E94;
+	margin-top:2em;
+	margin-bottom:0.5em;
+}
+
+#content h2 a:link {
+	color:#647E94;
+}
+
+#content h2 a:visited {
+	color:#647E94;
+}
+
+#content a:link {
+	color:#647E94;
+}
+
+#content a:visited {
+	color:#647E94;
+}
+*/
+#aside {
+	float: right;
+	padding: 20px 5px;
+	margin: 20px 20px 0 0;
+	display: inline;
+	text-align: right;
+}
+
+#aside img { 
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+/*
+#aside a:link { 
+	color: #255680;
+}
+
+#aside a:visited { 
+	color: #255680;
+}
+*/
+#footer {
+	clear: left;
+	background: #255680;
+	color: #fff;
+	text-align: left;
+	padding: 20px;
+	height: 1%;
+}
+
+#footer img {
+	margin: 0 5px 0 0;
+	padding: 0;
+}
+
+html {
+    overflow-y: scroll;
+}
+
+body {
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+/* Max-width container for better display on wide screens */
+.node-type-uib-article {
+	max-width: 1400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Ensure responsiveness on smaller screens */
+@media (max-width: 1440px) {
+	.node-type-uib-article {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}
+
+.container-fluid {
+	width: 100%;
+}
+
+td {
+	vertical-align:top;
+}
+
+img { 
+	border:none;
+}
+
+hr {
+	color: #000;
+	background-color: #000;
+	height:2px;
+	border:0;
+}
+
+.left {
+	float:left;
+}
+
+.right {
+	float:right;
+}
+
+.sakbilde {
+	float:right;
+	margin-left: 10px;
+}
+
+.digit {
+	text-align:right;
+}
+
+.pad {
+	padding-left:5px;
+}
+
+.disp {
+	position:absolute;
+}
+
+.fix {
+	clear:both;
+}
+
+.imgcenter {
+	display:block;
+	margin: 20px auto 0 auto;
+}
+
+.center {
+	text-align:center;
+}
+
+.btext {
+	text-align:center;
+	position:relative;
+	top:-1em;
+}
+
+/* High Contrast Toggle Button */
+#high-contrast-toggle {
+	position: fixed;
+	top: 10px;
+	right: 10px;
+	z-index: 9999;
+	padding: 10px 15px;
+	background: #000000;
+	color: #FFFF00;
+	border: 2px solid #FFFF00;
+	font-size: 14px;
+	font-weight: bold;
+	cursor: pointer;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+	transition: all 0.2s ease;
+}
+
+#high-contrast-toggle:hover,
+#high-contrast-toggle:focus {
+	background: #FFFF00;
+	color: #000000;
+	border-color: #000000;
+	outline: 2px solid #0000FF;
+	outline-offset: 2px;
+}
+
+/* Desktop - keep button visible near content area on wide screens */
+@media (min-width: 1440px) {
+	#high-contrast-toggle {
+		/* Position button within the content area (max-width 1400px + padding) */
+		right: calc((100vw - 1400px) / 2 + 20px);
+	}
+}
+
+/* Mobile optimizations for high contrast button */
+@media (max-width: 768px) {
+	#high-contrast-toggle {
+		/* Larger touch target for mobile (WCAG 2.2 - min 44x44px) */
+		padding: 12px 18px;
+		font-size: 13px;
+		top: 8px;
+		right: 8px;
+		/* Ensure button doesn't overlap with header on small screens */
+		max-width: calc(100vw - 20px);
+	}
+}
+
+@media (max-width: 480px) {
+	#high-contrast-toggle {
+		/* Even more compact on very small phones */
+		padding: 10px 14px;
+		font-size: 12px;
+		top: 5px;
+		right: 5px;
+	}
+}

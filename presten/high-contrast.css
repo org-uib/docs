@@ -1,0 +1,299 @@
+/* High Contrast Mode for Accessibility */
+/* WCAG AAA compliant - 7:1 contrast ratio */
+
+body {
+	background: #FFFFFF !important;
+	color: #000000 !important;
+	font-family: Arial, Helvetica, sans-serif !important;
+	font-size: 20px !important;
+	line-height: 1.7 !important;
+}
+
+/* Links with high contrast */
+a {
+	color: #0000FF !important;
+	background-color: #FFFF00 !important;
+	text-decoration: underline !important;
+	font-weight: bold !important;
+	border: 2px solid #0000FF !important;
+	padding: 2px 4px !important;
+}
+
+a:hover, a:focus {
+	background-color: #FFFF00 !important;
+	color: #000000 !important;
+	border: 2px solid #000000 !important;
+	outline: 3px solid #0000FF !important;
+}
+
+a:visited {
+	color: #800080 !important;
+	border-color: #800080 !important;
+}
+
+/* Remove background images */
+#header {
+	background: #000000 !important;
+	background-image: none !important;
+	color: #FFFFFF !important;
+	padding: 20px !important;
+	height: auto !important;
+	border: 3px solid #FFFFFF !important;
+}
+
+#header h1 {
+	color: #FFFFFF !important;
+	font-size: 40px !important;
+	font-weight: bold !important;
+}
+
+#header h1 a {
+	color: #FFFFFF !important;
+	background: transparent !important;
+	border: none !important;
+	text-decoration: none !important;
+}
+
+#header p {
+	color: #FFFFFF !important;
+	font-size: 22px !important;
+}
+
+/* Navigation with high contrast */
+#navigation {
+	background: #000000 !important;
+	border: 3px solid #FFFFFF !important;
+	border-top: none !important;
+}
+
+#navigation li a {
+	color: #FFFF00 !important;
+	background: #000000 !important;
+	border-right: 2px solid #FFFF00 !important;
+	font-size: 20px !important;
+	font-weight: bold !important;
+	padding: 10px 15px !important;
+}
+
+#navigation li a:hover,
+#navigation li a:focus {
+	background: #FFFF00 !important;
+	color: #000000 !important;
+	outline: 3px solid #FFFFFF !important;
+}
+
+/* Content area */
+#content-container {
+	background: #FFFFFF !important;
+	background-image: none !important;
+	border: none !important;
+}
+
+#content {
+	color: #000000 !important;
+	background: #FFFFFF !important;
+	padding: 20px !important;
+}
+
+#content h2 {
+	color: #000000 !important;
+	font-size: 32px !important;
+	font-weight: bold !important;
+	border-bottom: 3px solid #000000 !important;
+	padding-bottom: 5px !important;
+	margin-top: 20px !important;
+}
+
+#content h3 {
+	color: #000000 !important;
+	font-size: 26px !important;
+	font-weight: bold !important;
+	margin-top: 15px !important;
+}
+
+#content p {
+	color: #000000 !important;
+	font-size: 20px !important;
+	line-height: 1.8 !important;
+}
+
+#content ul, #content ol {
+	font-size: 20px !important;
+	line-height: 1.8 !important;
+}
+
+#content strong {
+	font-weight: bold !important;
+	color: #000000 !important;
+}
+
+/* Images - add high contrast border */
+img {
+	border: 3px solid #000000 !important;
+	background: #FFFFFF !important;
+}
+
+/* Footer */
+#footer {
+	background: #000000 !important;
+	color: #FFFFFF !important;
+	border: 3px solid #FFFFFF !important;
+	font-size: 18px !important;
+	padding: 20px !important;
+}
+
+/* Iframe (map) */
+iframe {
+	border: 3px solid #000000 !important;
+}
+
+/* Tables */
+table {
+	border: 2px solid #000000 !important;
+	background: #FFFFFF !important;
+}
+
+td, th {
+	border: 1px solid #000000 !important;
+	padding: 8px !important;
+	color: #000000 !important;
+	background: #FFFFFF !important;
+}
+
+/* High contrast toggle button */
+#high-contrast-toggle {
+	position: fixed !important;
+	top: 10px !important;
+	right: 10px !important;
+	z-index: 9999 !important;
+	padding: 12px 20px !important;
+	font-size: 16px !important;
+	font-weight: bold !important;
+	cursor: pointer !important;
+	border-radius: 5px !important;
+}
+
+/* Button in normal mode (shown on regular page) */
+body:not(.high-contrast) #high-contrast-toggle {
+	background: #000000 !important;
+	color: #FFFF00 !important;
+	border: 3px solid #FFFF00 !important;
+}
+
+body:not(.high-contrast) #high-contrast-toggle:hover,
+body:not(.high-contrast) #high-contrast-toggle:focus {
+	background: #FFFF00 !important;
+	color: #000000 !important;
+	outline: 3px solid #000000 !important;
+}
+
+/* Button in high contrast mode */
+body.high-contrast #high-contrast-toggle {
+	background: #000000 !important;
+	color: #FFFF00 !important;
+	border: 3px solid #FFFF00 !important;
+}
+
+body.high-contrast #high-contrast-toggle:hover,
+body.high-contrast #high-contrast-toggle:focus {
+	background: #FFFF00 !important;
+	color: #000000 !important;
+	outline: 3px solid #000000 !important;
+}
+
+/* Remove any shadows or decorative effects */
+* {
+	box-shadow: none !important;
+	text-shadow: none !important;
+}
+
+/* Desktop - keep button visible near content area on wide screens */
+@media (min-width: 1440px) {
+	#high-contrast-toggle {
+		/* Position button within the content area (max-width 1400px + padding) */
+		right: calc((100vw - 1400px) / 2 + 20px) !important;
+	}
+}
+
+/* Mobile optimizations for high contrast mode */
+@media (max-width: 768px) {
+	body {
+		font-size: 19px !important;
+	}
+
+	#header h1 {
+		font-size: 32px !important;
+		padding: 15px 10px 5px 10px !important;
+	}
+
+	#header p {
+		font-size: 18px !important;
+		padding: 5px 10px !important;
+	}
+
+	#content h2 {
+		font-size: 28px !important;
+	}
+
+	#content h3 {
+		font-size: 24px !important;
+	}
+
+	#content p,
+	#content ul,
+	#content ol {
+		font-size: 19px !important;
+		line-height: 1.7 !important;
+	}
+
+	#navigation li a {
+		font-size: 18px !important;
+		padding: 12px 10px !important;
+	}
+
+	/* Ensure links have adequate touch targets on mobile */
+	a {
+		min-height: 44px !important;
+		display: inline-block !important;
+		line-height: 1.5 !important;
+	}
+
+	#footer {
+		font-size: 16px !important;
+		padding: 15px !important;
+	}
+}
+
+@media (max-width: 480px) {
+	body {
+		font-size: 18px !important;
+	}
+
+	#header h1 {
+		font-size: 28px !important;
+	}
+
+	#header p {
+		font-size: 16px !important;
+	}
+
+	#content h2 {
+		font-size: 26px !important;
+	}
+
+	#content h3 {
+		font-size: 22px !important;
+	}
+
+	#content p,
+	#content ul,
+	#content ol {
+		font-size: 18px !important;
+		line-height: 1.7 !important;
+	}
+
+	#navigation li a {
+		font-size: 17px !important;
+		padding: 10px 8px !important;
+	}
+}
