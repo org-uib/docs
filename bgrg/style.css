@@ -488,6 +488,25 @@ main {
     color: #cc9933;
 }
 
+/* Research images */
+.research-image {
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.centered-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+@media (min-width: 768px) {
+    .centered-img {
+        max-width: 90%;
+    }
+}
+
 /* Researcher profiles */
 .researcher {
     margin-bottom: 2rem;
