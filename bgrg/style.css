@@ -512,6 +512,7 @@ main {
     margin-bottom: 2rem;
     padding-bottom: 1.5rem;
     border-bottom: 1px solid #e0e0e0;
+    overflow: auto; /* Clearfix for floated images */
 }
 
 .researcher:last-child {
@@ -538,6 +539,23 @@ main {
 .researcher p {
     margin-bottom: 0;
     color: #555;
+}
+
+.researcher-photo {
+    float: left;
+    width: 80px;
+    height: auto;
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+    border-radius: 50%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    object-fit: cover;
+}
+
+@media (min-width: 768px) {
+    .researcher-photo {
+        width: 100px;
+    }
 }
 
 /* Timeline */
