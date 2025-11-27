@@ -1,0 +1,203 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="../../../media/glass/style2.css" type="text/css">   
+ <!--[if IE 8.000]><!--><link href="../../../media/glass/style.css" rel='stylesheet' type='text/css' /><!--<![endif]-->
+       <title>Glass fra 1300-1700</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="imagetoolbar" content="false">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <style media="screen,projection" type="text/css">
+
+/* begin gallery styling */
+#jgal { list-style: none; width: 250px; }
+#jgal li { opacity: .70; float: left; display: block; width: 90px; height: 90px;  background-position: 50% 50%; cursor: pointer; border: 1px solid #222c3b; outline: 1px solid #3b4e67; margin: 8px 4px 4px 10px; }
+#jgal li img { position: absolute; top: 7px; right: 271px; display: none; border: 2px solid #222c3b; outline: 1px solid #3b4e67;}
+#jgal li .textbox { text-align: justify; border: none; position: absolute; top: 0px; right: 250px; width: 385px; height: 110px; margin-top: 488px; display: none; padding: 0px 15px 0px 5px; /*background: url('/media/glass/info-gradient.jpg') repeat-x scroll ;*/ background: white; border: none;}
+#jgal li.active .textbox { display: block; }
+#jgal li.active img { display: block; }
+#jgal li.active, #jgal li:hover { outline-color: #4d3413; opacity: .99 /* safari bug */ }
+
+/* styling without javascript */
+#gallery { list-style: none; display: block; }
+#gallery li { float: left; margin: 0 10px 10px 0; }
+
+    </style>
+    <!--[if lt IE 8]>
+    <style media="screen,projection" type="text/css">
+        #jgal li { filter: alpha(opacity=50); }
+        #jgal li.active, #jgal li:hover { filter: alpha(opacity=100); }
+    </style>
+	<![endif]-->
+    <script type="text/javascript">document.write("<style type='text/css'> #gallery { display: none; } </style>");</script>
+    <!--[if lt IE 6]><style media="screen,projection" type="text/css">#gallery { display: block; }</style><![endif]-->
+    <script type="text/javascript">
+         function displayPictures()
+         {
+            if (!document.getElementById || !document.createElement || !document.appendChild) return false;
+            if (document.getElementById('gallery')) document.getElementById('gallery').id = 'jgal';
+            var li = document.getElementById('jgal').getElementsByTagName('li');         
+  
+            li[0].className = 'active';
+	    
+            for (i=0; i<li.length; i++)
+            {
+                gal.addEvent(li[i],'click',function() {
+                    var im = document.getElementById('jgal').getElementsByTagName('li');
+                    for (j=0; j<im.length; j++)
+                    {
+                        im[j].className = '';
+                    }
+                    this.className = 'active';
+                });
+            }
+         }
+
+var gal = {
+    init : function()
+    {
+      displayPictures(); 
+    },
+    addEvent : function(obj, type, fn) {
+        if (obj.addEventListener) {
+            obj.addEventListener(type, fn, false);
+        }
+        else if (obj.attachEvent) {
+            obj["e"+type+fn] = fn;
+            obj[type+fn] = function() { obj["e"+type+fn]( window.event ); }
+            obj.attachEvent("on"+type, obj[type+fn]);
+        }
+    }
+}
+
+gal.addEvent(window,'load', function() {
+    gal.init();
+});
+
+</script>
+</head>
+
+<body>
+
+	<!--<div id="logo-shadow">-->
+	<div id="header">
+	<div id="main-menu">
+			<a href ="../../../" id="hjem">Hjem</a> |
+			<a href ="../../../om/" id="om">Om</a> |
+			<a href ="../../../kontakt/" id="kontakt">Kontakt</a>
+		</div><!--end main-menu-->
+		<div id="logo">
+			<a href="../../../" title="Hjem" onfocus="this.blur()">
+					<img src="../../../media/glass/spacer.gif" alt="Glass" width="670" height="100" border="0" id="homelink" /></a>
+		</div> <!--end logo -->	
+
+		
+	</div><!--end header-->
+	<!--</div><!end logo-shadow-->
+	<div id="shadow">
+	<div id="wrapper">
+	
+	<div id="content">
+		
+<body id="paamalt">
+	<div id="nav">
+
+		<div class="info-history">
+			<div class="links">
+				<ul class="menu">
+				<li><a href="../../"><title="">Historie</a></li>
+				<li><a href="../../hvordan/"><title=""/>Hvordan lages glass?</a></li>
+				<li><a href="../../terminologi/"><title=""/>Terminologi</a></li>
+				
+				<li><a href="../" id="teknikk"><span style="float:right; padding-right:15px; color: #334358;">&equiv; </span>Dekorasjonsteknikker</a>
+					<ul class="sub">
+						<li><a href="../optisk/" id="optisk">Optisk dekor</a></li>
+						<li><a href="../paalagt/" id="paalagt">Pålagt dekor</a></li>
+						<li><a href="../filigrandekor/" id="filigran">Filigrandekor</a></li>
+						<li><a href="../isglassdekor/" id="is">Isglassdekor</a></li>
+						<li><a href="index.html" id="paamalt">Påmalt dekor</a></li>
+						<li><a href="../sliptoggravertdekor/" id="slipt">Slipt og gravert dekor</a></li>
+					</ul>
+				</li>
+				
+				<li><a href ="../../skogsglass/"><span style="float:right; padding-right:15px; color: #334358;">+</span>Skogsglass</a>
+					<!--<ul class="sub">
+						<li><a href="/history/skogsglass/nuppenbecher/">Nuppenbecher</a></li>
+						<li><a href="/history/skogsglass/romerogberkemeyer/1/">Rømer- og berkemeyerglass</a></li>
+						<li><a href="/maigelein/1/">Maigeleinglass</a></li>
+						<li><a href="/stangen/1/">Stangenglass</a></li>
+					</ul>-->
+				</li>
+				<li><a href ="../../venetianske-glass/"><span style="float:right; padding-right:15px; color: #334358;">+</span>Venetianske glass</a>
+					<!--<ul class="sub">
+						<li><a href="/history/venetianske-glass/isglass/">Isglass</a></li>
+							<li><a href="/isglass/1/">Isglass</a></li>
+						<li><a href="/history/venetianske-glass/stettglass/">Stettglass</a></li>
+						<li><a href="/history/venetianske-glass/filigranglass/">Filigranglass</a></li>
+					</ul>-->
+				</li>
+				<li><a href ="../../andretyperglass/"><span style="float:right; padding-right:15px; color: #334358;">+</span>Andre typer glass</a>
+				<!--<ul class="sub">
+						<li><a href="/history/andretyperglass/fadenrippenbecher/">Fadenrippenbecher</a></li>
+						<li><a href="/history/andretyperglass/blaattbeger/">Blått beger</a></li>
+						<li><a href="/history/andretyperglass/karaffel/">Karaffel i blått glass</a></li>
+						<li><a href="/history/andretyperglass/lureglass/">Lureglass</a></li>
+					</ul>-->
+				</li>
+				<li><a href ="../../nyglassmote/"><title=""/><span style="float:right; padding-right:15px; color: #334358;">+</span>Den nye glassmoten fra <br/>England og Tyskland</a>
+						<!--<ul class="sub">
+						<li><a href="/history/nyglassmote/tumbler/">Tumbler</a></li>
+						<li><a href="/history/nyglassmote/balusterstett/">Balusterstett</a></li>
+						<li><a href="/history/nyglassmote/pokal/">Pokal</a></li>
+						<li><a href="/history/nyglassmote/blaattbegerhvitdekor/">Blått beger med hvit dekor</a></li>
+						<li><a href="/history/nyglassmote/opak/">Opak</a></li>
+					</ul>-->
+				</li>	
+				<li><a href ="../../lesningogreferanser/"><title=""/>Videre lesning og referanser</a></li>	
+				</ul>
+				
+
+			</div>			
+		</div>
+		
+		<div class="info-history-individual">
+			<h2>Påmalt dekor</h2>				
+				<div class="content-history">
+					<!--<div id="my_CSS3_id"> -->
+							<div class="image_techniques">
+								<img src="../../../media/glass/paamalt.jpg" border="none" title="Påmaltdekor"  /> 
+							
+							</div>
+					
+					
+						<div id="about_dekor_paamalt">
+							<div id="about_dekor_paamalt"><p> Når glasset er nedkjølt kan det males med forskjellige farger. Deretter må det varmes opp igjen slik at emaljefargen herder.</p><p>Her ser vi prikker og streker malt på et beger av blått glass. Emaljefargen er i dag gullig, men kan gjerne ha vært hvit opprinnelig.</p></div> 
+												
+						</div><!--end css3-->
+					</div>
+					
+				</div>
+		</div>
+		<!--<div class="info-history-main2">
+			<a href ="/gallery"> <img src="/media/glass/galleri.jpg" border="none" title="Galleri"/></a>
+		</div>-->
+			<!--<div id="category-bar">
+				<span class="historie">Historie</span>
+			</div>-->
+	</div><!--end nav-->
+	</body>
+
+	</div><!--end content-->
+	        
+    </div><!--end wrapper-->
+</div><!--end shadow-->
+
+<!--
+	    <div id="footer">
+	
+		Arkeologisk Institutt | Universitetet i Bergen
+	
+    </div>end footer-->
+</body>
+</html>

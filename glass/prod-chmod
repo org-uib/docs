@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# When this site runs as 'apache' while the source files are owned
+# by some other user, these chmods are required because photologue
+# likes to update things :-(
+
+chmod 777 mysite/var
+chmod 666 mysite/var/tfl005.sqlite
+chmod 777 mysite/Media/photologue/photos/cache

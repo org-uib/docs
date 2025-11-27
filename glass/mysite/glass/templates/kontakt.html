@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<div id="nav">
+
+		{% include "history_menu.html" %}
+		
+		<div class="info-history-individual">
+			<h2>{{ history_title }}</h2>				
+				<div class="content-history">
+					<h2>{{ kontakt_title }} </h2>
+					<div class="about">
+							{{ kontakt_content|safe }}
+					</div>							
+					
+						
+					</div>
+					
+				</div>
+		</div>
+		<!--<div class="info-history-main2">
+			<a href ="/gallery"> <img src="/media/glass/galleri.jpg" border="none" title="Galleri"/></a>
+		</div>-->
+			<!--<div id="category-bar">
+				<span class="historie">Historie</span>
+			</div>-->
+	</div><!--end nav-->
+{% endblock %}
+

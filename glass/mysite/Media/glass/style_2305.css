@@ -1,0 +1,773 @@
+/*firefox*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+body {
+	font-family: Verdana, Arial, Helvetica, Georgia;
+	font-size: 12px;
+	background: url('/media/glass/stripes.png') repeat;
+	
+}
+
+
+
+a {
+	text-decoration: none;
+	font-family: verdana, arial, helvetica, georgia;
+	color: #334358;
+}
+
+p {
+	color: black;
+}
+
+h2{
+	font-size: 24px;
+	font-family: arial, verdana, helvetica, georgia;
+	margin-bottom: 5px;
+	color: #38506f;
+	font-style: none;
+}
+
+h3{
+	font-size: 16px;
+	font-family: arial, verdana, helvetica, georgia;
+	margin-bottom: 5px;
+	color: #38506f;
+	font-style: none;
+}
+
+
+.info-history h2{
+	font-size: 24px;
+	font-family: verdana, arial, helvetica, georgia;
+	margin: 0 0 10px 0px;
+	color: #38506f;
+
+}
+
+#info-menu {
+	height: 15px;
+	border-bottom: 1px solid black;
+	font-size: 11px;
+	padding: 10px 0 1px 0px;
+	margin-bottom: 2px;
+	background: url('/media/glass/gradient_info.png') repeat-x;
+	background-color: #4f6889;
+
+	}
+
+
+#right-menu a:link {color: #fff; text-decoration: none; }
+#right-menu a:visited {color: #fff; text-decoration: none;}
+#right-menu a:active {color: grey;}	
+
+
+
+
+.menu ul li {margin-left:15px;}
+
+
+.hidden {
+	display:none;
+}
+
+#main-menu{
+	float:right;
+	font-size: 16px;
+	margin-top: 42px;
+	font-family: verdana, arial, helvetica, georgia;
+	
+}
+
+#main-menu a{
+	font-family: verdana, arial, helvetica, georgia ;
+	/*text-transform: uppercase;*/
+}
+
+#main-menu a:link {color: black; text-decoration: none; }
+#main-menu a:visited {color: black; text-decoration: none;}
+#main-menu a:hover {color: #4f6889; }
+#main-menu a:active {color: #4f6889;}	
+
+#hjem a#hjem, #om  a#om, #kontakt a#kontakt{
+	color: #4f6889; 
+}
+		
+	
+#wrapper {
+	margin: 0 auto;
+	width: 960px;
+	margin-bottom: 20px;
+	padding-top: 2px;
+	padding-bottom: 10px;
+	background-color: #1e2c40;
+	
+	}	
+
+#shadow{
+	margin: 0 auto;
+	width: 980px;
+	height: 642px;
+	background: transparent url('/media/glass/wrapper.png') repeat-y top center;
+}	
+
+#header {
+	margin: 0 auto;
+	width: 960px;
+	height: 70px;
+	margin-top: 15px;
+	background: url('/media/glass/logo.png') no-repeat;
+	
+	}
+
+
+#logo{
+	
+
+}
+
+/*#logo-shadow{
+	margin: 0 auto;
+	height: 100px;
+	width: 980px;
+	background: transparent url('/media/glass/wrapper.png') repeat-y top center;
+}*/
+	
+#content {
+	width: 920px;
+	margin: 10px 10px 0 10px;
+	background-color: #fff;
+	padding: 10px;
+	height: 600px;
+	/*background-color: #948a72;*/
+	background: url('/media/glass/stripes.png') repeat;
+	}	
+	
+#nav{
+	width: 920px;
+	height: 600px;
+	background-color: ;
+	position:absolute;
+	background: url('/media/glass/stripes.png') repeat;
+
+}
+
+
+#footer {
+	height: 55px;
+	border-top: 1px solid black;
+	background: url('/media/glass/gradient_footer.png') repeat-x scroll ;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+	margin-top: 80px;
+	position: absolute;
+	width: 100%;
+	bottom: 0px; 
+}	
+
+#bottom {
+	height: 20px;
+	border-top: 1px solid black;
+	background: transparent url('/media/glass/gradient-bottom.png') repeat-x scroll;
+	color: white;
+	width: 100%;
+}	
+
+
+
+/*Hovedsiden*/
+
+
+
+#path2{
+	width: 610px;
+	height: 520px;
+	background-color: blue;
+	float: left;
+	margin-left: 30px;
+	position:relative;
+	border: 1px solid #1e2c40;
+	
+	/*outline: 1px solid #3b4e67;*/
+}
+
+
+/*Galleri-siden*/
+.gallery_main_mini{
+	margin-left: 6px;
+	width: 212px;
+	height: 590px;
+	float: right;
+	border: 1px solid #ded8c9;
+	font-size: 12px;
+	padding: 10px 16px 0 10px;
+	background: white;
+	position:relative;
+}
+
+.gallery_main_info{
+	width: 395px;
+	height: 580px;
+	background-color: white;
+	border: 1px solid #ded8c9;
+	float: left;
+	margin-left: 7px;
+	position:relative;
+	padding: 10px 15px 10px 15px;
+	/*background: url('/media/glass/info-gradient.jpg') repeat-x scroll ;*/
+	text-align: justify;
+	
+}
+
+#linker_hoved {
+	margin-left: 45px;
+	font-size: 11px;
+	padding: 10px;
+	margin-top: 530px;
+}
+
+#linker_hoved a{
+color: black;
+}
+
+#linker_hoved a:hover{
+	color: #334358;
+}
+
+
+
+.gallery{
+	width: 190px;
+	height: 520px;
+	float: left;
+	font-size: 12px;
+	padding: 0 20px 0 0;
+	background: url('/media/glass/info.jpg') no-repeat;
+	position:relative;
+	background-color: red;
+	
+}
+
+.gallery .gallery-mini{
+	/*height: 90px;
+	width: 70px;*/
+	background-color: yellow;
+	/*margin: 0 15px 15px 0;
+	float: left;
+	background: url('/media/glass/main_gallery_mini.jpg') no-repeat;*/
+}
+
+.gallery .gallery-mini ul{
+	list-style: none; 
+	float: left;
+	
+}
+
+.gallery .gallery-mini li{
+	list-style: none; 
+	width: 75px;
+	list-style: none; 
+	margin: 0 0 10px 10px;
+	float: left;
+	
+}
+
+
+
+#image-nav{
+	margin-top: 525px;
+	margin-left: 10px;
+	
+}
+
+.shield{
+	position: relative;
+	display:inline;
+}
+
+#image-nav a {
+	margin-left: 1px;
+	margin-right: 10px;
+}
+
+#image-nav a:hover {
+	margin-left: 1px;
+	margin-right: 10px;
+
+}
+
+.nav{
+	position: absolute;
+	bottom: 5px;
+	left: 7px;
+}
+
+img { border: none; } 
+
+#main-image{
+	width: 365px;
+	height: 520px;
+	background-color: red;
+	float: left;
+	position:relative;
+	margin-left: 10px;
+	background: url('/media/glass/main_gallery_test.jpg') no-repeat;
+	border: 1px solid #4f6889;
+}
+
+.main-image-info{
+	width: 240px;
+	height: 520px;
+	float: right;
+	padding-left: 10px;
+	position:relative;
+}
+
+.main-image-info .info{
+	padding: 20px 5px 0 0;
+	font-size: 14px;
+
+}
+
+.historie{
+	font-size: 20px;
+	margin-left: 90px;
+	color: white;
+}
+
+.datering{
+	font-size: 13px;
+	display: block;
+}
+
+.type{
+	font-size: 13px;
+	display: block;
+	margin-bottom: 10px;
+}
+
+.info{
+	text-align: justify;
+	width: 220px;
+}
+
+#zoom-icon{
+	width: 35px;
+	height: 35px;
+	background-color: blue;
+	float: right;
+	margin: 485px 0 0 330px;
+	position:relative;
+}
+
+
+/*Historie-siden*/
+
+.info-history{
+	width: 212px;
+	height: 600px;
+	float: left;
+	border: 1px solid #ded8c9;
+	font-size: 12px;
+	padding: 0px 16px 0 10px;
+	background: url('/media/glass/info.jpg') no-repeat;
+	position:relative;
+
+}
+
+.info-history .links a:link {color: black; text-decoration: none;}
+.info-history .links a:visited {color: black; text-decoration: none;}
+.info-history .links a:hover {color: #4f6889; }
+.info-history .links a:active {color: #4f6889; }	
+.info-history .links li a:hover { color: #4f6889; background-color: #f7f3ea; }
+
+.info-history .links li a { display: block; margin-left: 0px; padding:  8px 0px 8px 5px; text-decoration: none; border-bottom: 1px dotted #c3b9a3; width: 214px;}
+
+.info-history .links{
+	font-size: 13px;
+}
+
+.info-history .links ul{
+	list-style: none;  
+	margin-left: 0px;
+	padding-top: 10px;
+}
+
+.info-history .links ul li{
+	padding-top: 0px;
+}
+
+#historie a#historie, #hvordan a#hvordan, #terminologi a#terminologi, #teknikk a#teknikk, #optisk a#optisk, #paalagt a#paalagt, #filigran a#filigran, #is a#is, #paamalt a#paamalt, #slipt a#slipt, #skogsglass a#skogsglass, #nuppen a#nuppen, #romer a#romer, #maig a#maig, #stang a#stang, #venglass a#venglass, #isglass a#isglass, #stett a#stett, #fili a#fili, #andre a#andre, #faden a#faden, #blaatt a#blaatt, #karaffel a#karaffel, #lure a#lure, #nymote a#nymote, #tumb a#tumb, #balu a#balu, #pok a#pok, #blhvit a#blhvit, #opak a#opak, #lesref a#lesref{
+	 color: #4f6889; background-color: #f7f3ea;
+}
+
+
+
+.info-history .links li #teknikk, #skogsglass, #venglass, #andre, #nymote {
+ color: #4f6889; background-color: #f7f3ea;
+}
+
+div#s1 ul li.closed a {
+  background-image: url(bullet_closed.gif);
+  background-repeat: no-repeat;
+}
+
+.info-history .links .menu ul{
+	padding-top: 0px;
+	width: 70px;
+	
+}
+
+.info-history .links .menu ul a {
+	width: 200px;
+	
+}
+
+.info-history-main{
+	width: 645px;
+	height: 580px;
+	background-color: white;
+	border: 1px solid #ded8c9;
+	float: left;
+	margin-left: 8px;
+	position:relative;
+	padding: 10px 10px 10px 15px;
+	/*background: url('/media/glass/info-gradient.jpg') repeat-x scroll ;*/
+	
+
+}
+
+
+
+.info-history-individual{
+	width: 645px;
+	height: 580px;
+	background-color: white;
+	border: 1px solid #ded8c9;
+	float: left;
+	margin-left: 8px;
+	position:relative;
+	padding: 10px 10px 10px 15px;
+	/*background: url('/media/glass/info-gradient.jpg') repeat-x scroll ;*/
+	overflow-y:scroll;
+	overflow-x: hidden;
+}
+
+
+.introduction p{
+	width: 610px;
+	text-align: justify;
+	margin: 10px 0 0 12px;
+}
+
+#center {
+	text-align: center;
+}
+
+.excerpt{
+	width: 20em;
+	background: green;
+	margin-bottom: 10px;
+
+}
+
+/*#my_CSS3_id {
+	text-align: justify;
+	-moz-column-width: 15em;
+	-moz-column-gap: 3em;
+	-webkit-column-width: 13em;
+	-webkit-column-gap: 2em;
+	-moz-column-count: 2;
+	height: 460px;
+}*/
+
+.image-history{
+	text-align: justify;
+	margin: 0 10px 0 10px;
+	padding-top: 0px;
+}
+
+.image{
+	float: left;
+	width: 233px;
+	border: 1px solid grey;
+	padding: 10px;
+	margin-right: 20px;
+	margin-bottom: 5px;
+	text-align: justify;
+	line-height: 1.3em;
+}
+
+.image_terminologi{
+	float: left;
+	width: 230px;
+	margin-bottom: 5px;
+	text-align: justify;
+	line-height: 1.3em;
+}
+
+
+.title{
+	float: right;
+	margin-top: 202px;
+	text-align: center;
+}
+
+.info-history-individual .content-history{
+	padding: 0px 5px 0 0;
+	height: 420px;
+}
+
+.info-history-individual .content-history .linker a{
+	margin-left: 10px;
+	border-bottom: #334358;
+	padding:  8px 2px 2px 2px; 
+	
+}
+
+.info-history-individual .content-history .linker a:hover{
+	/*background-color: #f7f3ea;*/
+	padding:  8px 2px 3px 2px; 
+}
+
+.info-history-individual .content-history .linker_teknikker a{
+	margin-left: 2px;
+	border-bottom: #334358;
+	padding:  8px 2px 2px 2px; 
+	
+}
+
+.info-history-individual .content-history .linker_teknikker a:hover{
+	/*background-color: #f7f3ea;*/
+	padding:  8px 2px 3px 2px; 
+}
+
+.info-history-main2{
+	width: 310px;
+	height: 520px;
+	background-color: blue;
+	float: right;
+	position:relative;
+}
+
+.info-history h2{
+	padding: 10px 0 0 5px;
+}
+
+
+.about_techniques{
+	float: right;
+	width: 315px;
+	text-align: justify;
+	line-height: 1.3em;
+}
+
+.about_type{
+	width: 315px;
+	text-align: justify;
+	line-height: 1.3em;
+}
+
+.image_techniques{
+	float: left;
+
+
+}
+
+.image_glass{
+	float: left;
+	padding-right: 140px;
+
+}
+
+.image_glass2{
+	float: left;
+	padding-right: 140px;
+	width: 50px;
+
+}
+
+
+
+/*Om type glass*/
+
+
+#about_glass{
+	margin-left: 315px;
+	width: 305px;
+	padding-right: 5px;
+	text-align: justify;
+}
+
+#about_glass_tumbler{
+	margin-left: 2px;
+	padding-top: 130px;
+	width: 600px;
+	padding-right: 5px;
+	text-align: justify;
+}
+
+#about_glass_baluster{
+	margin-left: px;
+	padding-top: 170px;
+	width: 600px;
+	padding-right: 5px;
+	text-align: justify;
+}
+
+#pokal{
+	margin-left: 180px;
+	padding-top: px;
+	width: 250px;
+	padding-right: 5px;
+	text-align: justify;
+}
+
+
+#about_glass_pokal{
+	margin-left: 2px;
+	padding-top: 190px;
+	width: 625px;
+	padding-right: 5px;
+	text-align: justify;
+}
+
+
+
+#about_glass_blaatt{
+	margin-left: 1px;
+	padding-top: 168px;
+	width: 600px;
+	padding-right: 5px;
+	text-align: justify;
+}
+
+#about_glass_opak{
+	margin-left: 2px;
+	padding-top: 336px;
+	width: 580px;
+	padding-right: 5px;
+	text-align: justify;
+}
+
+#about_glass_faden{
+	margin-left: 295px;
+	width: 320px;
+	padding-right: 5px;
+	text-align: justify;
+}
+
+/*samme verdier*/
+
+#about_glass_blaattbeger{
+	margin-left: 315px;
+	width: 300px;
+	padding-right: 5px;
+	text-align: justify;
+}
+
+
+#about_glass_blaakaraffel{
+	margin-left: 245px;
+	width: 360px;
+	padding-right: 5px;
+	text-align: justify;
+}
+
+#about_glass_lureglass{
+	margin-left: 270px;
+	width: 350px;
+	padding-right: 5px;
+	text-align: justify;
+}
+
+
+/*slutt samme verdier*/
+/*slutt om type glass*/
+
+/*Om hver enkelt dekorteknikk*/
+
+#about_dekor_optisk{
+	margin-left: 0px;
+	padding-top: 280px;
+	width: 400px;
+	padding-right: 5px;
+
+}
+
+#about_dekor_paalagt{
+	margin-left: 0px;
+	padding-top: 140px;
+	width: 410px;
+	padding-right: 5px;
+
+}
+
+#about_dekor_filigran{
+	margin-left: px;
+	padding-top: 280px;
+	width: 400px;
+	padding-right: 5px;
+
+}
+
+
+#about_dekor_isglass{
+	margin-left: 2px;
+	padding-top: 380px;
+	width: 450px;
+	padding-right: 5px;
+
+}
+
+#about_dekor_paamalt{
+	margin-left: 2px;
+	padding-top: 190px;
+	width: 450px;
+	padding-right: 5px;
+
+}
+
+#about_dekor_slipt{
+	margin-left: 0px;
+	padding-top: 190px;
+	width: 390px;
+	padding-right: 5px;
+	text-align: justify;
+}
+
+/*Slutt om hver enkelt dekorteknikk*/
+
+#about_venetianske{
+	margin-left: 0px;
+	padding-top: 288px;
+	width: 625px;
+	padding-right: 5px;
+
+}
+
+
+/*hovedmeny collapsiblemenumem*/
+.menu1 {
+  color:white;
+  background: #000;
+  font-family:arial, helvetica, sans-serif;
+  font-weight:bold;
+  font-size:12px;
+}
+
+.menu2 {
+  background: #ffff00;
+  color: blue;
+  font-family:arial, helvetica, sans-serif;
+  font-size:12px;
+  line-height: 19px;
+}
+
+

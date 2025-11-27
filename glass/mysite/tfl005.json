@@ -1,0 +1,1627 @@
+[
+  {
+    "pk": 18, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "blogpost", 
+      "name": "blog post", 
+      "app_label": "theblog"
+    }
+  }, 
+  {
+    "pk": 5, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "contenttype", 
+      "name": "content type", 
+      "app_label": "contenttypes"
+    }
+  }, 
+  {
+    "pk": 9, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "gallery", 
+      "name": "gallery", 
+      "app_label": "photologue"
+    }
+  }, 
+  {
+    "pk": 10, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "galleryupload", 
+      "name": "gallery upload", 
+      "app_label": "photologue"
+    }
+  }, 
+  {
+    "pk": 8, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "glass", 
+      "name": "glass", 
+      "app_label": "glass"
+    }
+  }, 
+  {
+    "pk": 2, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "group", 
+      "name": "group", 
+      "app_label": "auth"
+    }
+  }, 
+  {
+    "pk": 15, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "logentry", 
+      "name": "log entry", 
+      "app_label": "admin"
+    }
+  }, 
+  {
+    "pk": 4, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "message", 
+      "name": "message", 
+      "app_label": "auth"
+    }
+  }, 
+  {
+    "pk": 1, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "permission", 
+      "name": "permission", 
+      "app_label": "auth"
+    }
+  }, 
+  {
+    "pk": 11, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "photo", 
+      "name": "photo", 
+      "app_label": "photologue"
+    }
+  }, 
+  {
+    "pk": 12, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "photoeffect", 
+      "name": "photo effect", 
+      "app_label": "photologue"
+    }
+  }, 
+  {
+    "pk": 14, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "photosize", 
+      "name": "photo size", 
+      "app_label": "photologue"
+    }
+  }, 
+  {
+    "pk": 6, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "session", 
+      "name": "session", 
+      "app_label": "sessions"
+    }
+  }, 
+  {
+    "pk": 7, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "site", 
+      "name": "site", 
+      "app_label": "sites"
+    }
+  }, 
+  {
+    "pk": 16, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "tag", 
+      "name": "tag", 
+      "app_label": "tagging"
+    }
+  }, 
+  {
+    "pk": 17, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "taggeditem", 
+      "name": "tagged item", 
+      "app_label": "tagging"
+    }
+  }, 
+  {
+    "pk": 3, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "user", 
+      "name": "user", 
+      "app_label": "auth"
+    }
+  }, 
+  {
+    "pk": 13, 
+    "model": "contenttypes.contenttype", 
+    "fields": {
+      "model": "watermark", 
+      "name": "watermark", 
+      "app_label": "photologue"
+    }
+  }, 
+  {
+    "pk": "1bb8931e93104b269e1667a87189705b", 
+    "model": "sessions.session", 
+    "fields": {
+      "expire_date": "2010-03-14 17:38:21", 
+      "session_data": "gAJ9cQEoVRJfYXV0aF91c2VyX2JhY2tlbmRxAlUpZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5k\ncy5Nb2RlbEJhY2tlbmRxA1UNX2F1dGhfdXNlcl9pZHEEigEBdS5mZDNjYzkxNzQ1YWM1YWE3Nzhi\nNmYwN2FkYzhjNTFhNg==\n"
+    }
+  }, 
+  {
+    "pk": "414ff5fb411e7a1a1764485d63dcd5b2", 
+    "model": "sessions.session", 
+    "fields": {
+      "expire_date": "2010-03-10 17:34:23", 
+      "session_data": "gAJ9cQEuNjgyMTVkZTY1YTJhNmE3NDBkMzM0MzE2MzE2OTExZWE=\n"
+    }
+  }, 
+  {
+    "pk": "d68de1343fad983d6985a5697d630390", 
+    "model": "sessions.session", 
+    "fields": {
+      "expire_date": "2010-03-14 16:29:44", 
+      "session_data": "gAJ9cQEoVRJfYXV0aF91c2VyX2JhY2tlbmRxAlUpZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5k\ncy5Nb2RlbEJhY2tlbmRxA1UNX2F1dGhfdXNlcl9pZHEEigEBdS5mZDNjYzkxNzQ1YWM1YWE3Nzhi\nNmYwN2FkYzhjNTFhNg==\n"
+    }
+  }, 
+  {
+    "pk": "ef61342bdba63e9f82b81e0f386ed7b9", 
+    "model": "sessions.session", 
+    "fields": {
+      "expire_date": "2009-08-12 14:42:19", 
+      "session_data": "gAJ9cQEoVRJfYXV0aF91c2VyX2JhY2tlbmRxAlUpZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5k\ncy5Nb2RlbEJhY2tlbmRxA1UNX2F1dGhfdXNlcl9pZHEEigEBdS5mZDNjYzkxNzQ1YWM1YWE3Nzhi\nNmYwN2FkYzhjNTFhNg==\n"
+    }
+  }, 
+  {
+    "pk": "70fb8dc596add34f2992d04ca1b4a1a8", 
+    "model": "sessions.session", 
+    "fields": {
+      "expire_date": "2009-08-10 17:59:37", 
+      "session_data": "gAJ9cQEoVRJfYXV0aF91c2VyX2JhY2tlbmRxAlUpZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5k\ncy5Nb2RlbEJhY2tlbmRxA1UNX2F1dGhfdXNlcl9pZHEEigEBdS5mZDNjYzkxNzQ1YWM1YWE3Nzhi\nNmYwN2FkYzhjNTFhNg==\n"
+    }
+  }, 
+  {
+    "pk": "f924d88a4e00b856709d6587763ca39c", 
+    "model": "sessions.session", 
+    "fields": {
+      "expire_date": "2010-07-05 21:03:15", 
+      "session_data": "gAJ9cQEuNjgyMTVkZTY1YTJhNmE3NDBkMzM0MzE2MzE2OTExZWE=\n"
+    }
+  }, 
+  {
+    "pk": "a0daf53fdd4151e322b4aa47dff2933c", 
+    "model": "sessions.session", 
+    "fields": {
+      "expire_date": "2010-03-15 21:02:47", 
+      "session_data": "gAJ9cQEuNjgyMTVkZTY1YTJhNmE3NDBkMzM0MzE2MzE2OTExZWE=\n"
+    }
+  }, 
+  {
+    "pk": "1aa1b8c912163e9a7e535e815065e120", 
+    "model": "sessions.session", 
+    "fields": {
+      "expire_date": "2010-07-12 12:06:52", 
+      "session_data": "gAJ9cQEoVRJfYXV0aF91c2VyX2JhY2tlbmRxAlUpZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5k\ncy5Nb2RlbEJhY2tlbmRxA1UNX2F1dGhfdXNlcl9pZHEEigEBdS5mZDNjYzkxNzQ1YWM1YWE3Nzhi\nNmYwN2FkYzhjNTFhNg==\n"
+    }
+  }, 
+  {
+    "pk": "af69c7be258291475d936bed20ee3977", 
+    "model": "sessions.session", 
+    "fields": {
+      "expire_date": "2010-07-09 21:09:35", 
+      "session_data": "gAJ9cQEuNjgyMTVkZTY1YTJhNmE3NDBkMzM0MzE2MzE2OTExZWE=\n"
+    }
+  }, 
+  {
+    "pk": "ab43b199455ecc68c1fe0e2fed1e2c80", 
+    "model": "sessions.session", 
+    "fields": {
+      "expire_date": "2010-07-15 10:29:07", 
+      "session_data": "gAJ9cQEoVRJfYXV0aF91c2VyX2JhY2tlbmRxAlUpZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5k\ncy5Nb2RlbEJhY2tlbmRxA1UNX2F1dGhfdXNlcl9pZHEEigEBdS5mZDNjYzkxNzQ1YWM1YWE3Nzhi\nNmYwN2FkYzhjNTFhNg==\n"
+    }
+  }, 
+  {
+    "pk": "311d28dcabfe2ebf2923e4d7d24d5567", 
+    "model": "sessions.session", 
+    "fields": {
+      "expire_date": "2010-07-12 15:01:52", 
+      "session_data": "gAJ9cQEuNjgyMTVkZTY1YTJhNmE3NDBkMzM0MzE2MzE2OTExZWE=\n"
+    }
+  }, 
+  {
+    "pk": "c7158ec3049fe0526ff1b33b4cbeea83", 
+    "model": "sessions.session", 
+    "fields": {
+      "expire_date": "2010-10-03 22:28:25", 
+      "session_data": "gAJ9cQEoVRJfYXV0aF91c2VyX2JhY2tlbmRxAlUpZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5k\ncy5Nb2RlbEJhY2tlbmRxA1UNX2F1dGhfdXNlcl9pZHEEigEBdS5mZDNjYzkxNzQ1YWM1YWE3Nzhi\nNmYwN2FkYzhjNTFhNg==\n"
+    }
+  }, 
+  {
+    "pk": 43, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_logentry", 
+      "name": "Can add log entry", 
+      "content_type": 15
+    }
+  }, 
+  {
+    "pk": 44, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_logentry", 
+      "name": "Can change log entry", 
+      "content_type": 15
+    }
+  }, 
+  {
+    "pk": 45, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_logentry", 
+      "name": "Can delete log entry", 
+      "content_type": 15
+    }
+  }, 
+  {
+    "pk": 4, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_group", 
+      "name": "Can add group", 
+      "content_type": 2
+    }
+  }, 
+  {
+    "pk": 5, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_group", 
+      "name": "Can change group", 
+      "content_type": 2
+    }
+  }, 
+  {
+    "pk": 6, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_group", 
+      "name": "Can delete group", 
+      "content_type": 2
+    }
+  }, 
+  {
+    "pk": 10, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_message", 
+      "name": "Can add message", 
+      "content_type": 4
+    }
+  }, 
+  {
+    "pk": 11, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_message", 
+      "name": "Can change message", 
+      "content_type": 4
+    }
+  }, 
+  {
+    "pk": 12, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_message", 
+      "name": "Can delete message", 
+      "content_type": 4
+    }
+  }, 
+  {
+    "pk": 1, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_permission", 
+      "name": "Can add permission", 
+      "content_type": 1
+    }
+  }, 
+  {
+    "pk": 2, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_permission", 
+      "name": "Can change permission", 
+      "content_type": 1
+    }
+  }, 
+  {
+    "pk": 3, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_permission", 
+      "name": "Can delete permission", 
+      "content_type": 1
+    }
+  }, 
+  {
+    "pk": 7, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_user", 
+      "name": "Can add user", 
+      "content_type": 3
+    }
+  }, 
+  {
+    "pk": 8, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_user", 
+      "name": "Can change user", 
+      "content_type": 3
+    }
+  }, 
+  {
+    "pk": 9, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_user", 
+      "name": "Can delete user", 
+      "content_type": 3
+    }
+  }, 
+  {
+    "pk": 13, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_contenttype", 
+      "name": "Can add content type", 
+      "content_type": 5
+    }
+  }, 
+  {
+    "pk": 14, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_contenttype", 
+      "name": "Can change content type", 
+      "content_type": 5
+    }
+  }, 
+  {
+    "pk": 15, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_contenttype", 
+      "name": "Can delete content type", 
+      "content_type": 5
+    }
+  }, 
+  {
+    "pk": 22, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_glass", 
+      "name": "Can add glass", 
+      "content_type": 8
+    }
+  }, 
+  {
+    "pk": 23, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_glass", 
+      "name": "Can change glass", 
+      "content_type": 8
+    }
+  }, 
+  {
+    "pk": 24, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_glass", 
+      "name": "Can delete glass", 
+      "content_type": 8
+    }
+  }, 
+  {
+    "pk": 25, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_gallery", 
+      "name": "Can add gallery", 
+      "content_type": 9
+    }
+  }, 
+  {
+    "pk": 26, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_gallery", 
+      "name": "Can change gallery", 
+      "content_type": 9
+    }
+  }, 
+  {
+    "pk": 27, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_gallery", 
+      "name": "Can delete gallery", 
+      "content_type": 9
+    }
+  }, 
+  {
+    "pk": 28, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_galleryupload", 
+      "name": "Can add gallery upload", 
+      "content_type": 10
+    }
+  }, 
+  {
+    "pk": 29, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_galleryupload", 
+      "name": "Can change gallery upload", 
+      "content_type": 10
+    }
+  }, 
+  {
+    "pk": 30, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_galleryupload", 
+      "name": "Can delete gallery upload", 
+      "content_type": 10
+    }
+  }, 
+  {
+    "pk": 31, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_photo", 
+      "name": "Can add photo", 
+      "content_type": 11
+    }
+  }, 
+  {
+    "pk": 32, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_photo", 
+      "name": "Can change photo", 
+      "content_type": 11
+    }
+  }, 
+  {
+    "pk": 33, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_photo", 
+      "name": "Can delete photo", 
+      "content_type": 11
+    }
+  }, 
+  {
+    "pk": 34, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_photoeffect", 
+      "name": "Can add photo effect", 
+      "content_type": 12
+    }
+  }, 
+  {
+    "pk": 35, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_photoeffect", 
+      "name": "Can change photo effect", 
+      "content_type": 12
+    }
+  }, 
+  {
+    "pk": 36, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_photoeffect", 
+      "name": "Can delete photo effect", 
+      "content_type": 12
+    }
+  }, 
+  {
+    "pk": 40, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_photosize", 
+      "name": "Can add photo size", 
+      "content_type": 14
+    }
+  }, 
+  {
+    "pk": 41, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_photosize", 
+      "name": "Can change photo size", 
+      "content_type": 14
+    }
+  }, 
+  {
+    "pk": 42, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_photosize", 
+      "name": "Can delete photo size", 
+      "content_type": 14
+    }
+  }, 
+  {
+    "pk": 37, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_watermark", 
+      "name": "Can add watermark", 
+      "content_type": 13
+    }
+  }, 
+  {
+    "pk": 38, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_watermark", 
+      "name": "Can change watermark", 
+      "content_type": 13
+    }
+  }, 
+  {
+    "pk": 39, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_watermark", 
+      "name": "Can delete watermark", 
+      "content_type": 13
+    }
+  }, 
+  {
+    "pk": 16, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_session", 
+      "name": "Can add session", 
+      "content_type": 6
+    }
+  }, 
+  {
+    "pk": 17, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_session", 
+      "name": "Can change session", 
+      "content_type": 6
+    }
+  }, 
+  {
+    "pk": 18, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_session", 
+      "name": "Can delete session", 
+      "content_type": 6
+    }
+  }, 
+  {
+    "pk": 19, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_site", 
+      "name": "Can add site", 
+      "content_type": 7
+    }
+  }, 
+  {
+    "pk": 20, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_site", 
+      "name": "Can change site", 
+      "content_type": 7
+    }
+  }, 
+  {
+    "pk": 21, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_site", 
+      "name": "Can delete site", 
+      "content_type": 7
+    }
+  }, 
+  {
+    "pk": 46, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_tag", 
+      "name": "Can add tag", 
+      "content_type": 16
+    }
+  }, 
+  {
+    "pk": 47, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_tag", 
+      "name": "Can change tag", 
+      "content_type": 16
+    }
+  }, 
+  {
+    "pk": 48, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_tag", 
+      "name": "Can delete tag", 
+      "content_type": 16
+    }
+  }, 
+  {
+    "pk": 49, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_taggeditem", 
+      "name": "Can add tagged item", 
+      "content_type": 17
+    }
+  }, 
+  {
+    "pk": 50, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_taggeditem", 
+      "name": "Can change tagged item", 
+      "content_type": 17
+    }
+  }, 
+  {
+    "pk": 51, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_taggeditem", 
+      "name": "Can delete tagged item", 
+      "content_type": 17
+    }
+  }, 
+  {
+    "pk": 52, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "add_blogpost", 
+      "name": "Can add blog post", 
+      "content_type": 18
+    }
+  }, 
+  {
+    "pk": 53, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "change_blogpost", 
+      "name": "Can change blog post", 
+      "content_type": 18
+    }
+  }, 
+  {
+    "pk": 54, 
+    "model": "auth.permission", 
+    "fields": {
+      "codename": "delete_blogpost", 
+      "name": "Can delete blog post", 
+      "content_type": 18
+    }
+  }, 
+  {
+    "pk": 1, 
+    "model": "auth.user", 
+    "fields": {
+      "username": "tanja", 
+      "first_name": "", 
+      "last_name": "", 
+      "is_active": true, 
+      "is_superuser": true, 
+      "is_staff": true, 
+      "last_login": "2010-09-19 22:28:25", 
+      "groups": [], 
+      "user_permissions": [], 
+      "password": "sha1$636ed$696ab220873b7722cee760b830cefb55c5db31cf", 
+      "email": "tanja@test.com", 
+      "date_joined": "2009-07-21 17:37:31"
+    }
+  }, 
+  {
+    "pk": 17, 
+    "model": "photologue.gallery", 
+    "fields": {
+      "description": "", 
+      "title_slug": "nuppenbecher", 
+      "tags": "", 
+      "title": "Nuppenbecher", 
+      "photos": [
+        101, 
+        100
+      ], 
+      "is_public": true, 
+      "date_added": "2010-06-28 13:50:20"
+    }
+  }, 
+  {
+    "pk": 16, 
+    "model": "photologue.gallery", 
+    "fields": {
+      "description": "", 
+      "title_slug": "filigranglass", 
+      "tags": "", 
+      "title": "Filigranglass", 
+      "photos": [
+        99, 
+        98
+      ], 
+      "is_public": true, 
+      "date_added": "2010-06-21 20:00:26"
+    }
+  }, 
+  {
+    "pk": 15, 
+    "model": "photologue.gallery", 
+    "fields": {
+      "description": "", 
+      "title_slug": "stettglass", 
+      "tags": "", 
+      "title": "Stettglass ", 
+      "photos": [
+        102, 
+        97, 
+        96, 
+        95
+      ], 
+      "is_public": true, 
+      "date_added": "2010-06-21 19:59:28"
+    }
+  }, 
+  {
+    "pk": 14, 
+    "model": "photologue.gallery", 
+    "fields": {
+      "description": "", 
+      "title_slug": "isglass", 
+      "tags": "", 
+      "title": "Isglass", 
+      "photos": [
+        94, 
+        93, 
+        92
+      ], 
+      "is_public": true, 
+      "date_added": "2010-06-21 19:59:10"
+    }
+  }, 
+  {
+    "pk": 13, 
+    "model": "photologue.gallery", 
+    "fields": {
+      "description": "Stangenglass er en fellesbetegnelse for en gruppe av h\u00f8ye begerglass. Glassene har en h\u00f8y fot  som avsluttes inni klokken. Klokken begynner slik halvveis oppe p\u00e5 foten. \r\nGlassene er vanligvis 20-30 cm h\u00f8ye, men kan i enkelte tilfeller v\u00e6re over 40 cm h\u00f8ye. \r\nStangenglass ble produsert fra midten av 1400-tallet. De eldste var gr\u00f8nnlige, men utover 1500- og 1600-tallet ble de ogs\u00e5 laget i klart glass. \r\nEn del stangenglass er optisk dekorerte i tillegg til \u00e5 ha p\u00e5lagt dekor i form av vannrette glassb\u00e5nd, p\u00e5lagte knopper eller dyrehoder i glass. De yngre glassene kan v\u00e6re dekorert med emaljefarge.\r\n", 
+      "title_slug": "stangenglass", 
+      "tags": "", 
+      "title": "Stangenglass", 
+      "photos": [
+        89, 
+        88, 
+        87, 
+        86, 
+        85, 
+        84
+      ], 
+      "is_public": true, 
+      "date_added": "2010-02-28 19:36:11"
+    }
+  }, 
+  {
+    "pk": 12, 
+    "model": "photologue.gallery", 
+    "fields": {
+      "description": "", 
+      "title_slug": "maigeleinglass", 
+      "tags": "", 
+      "title": "Maigeleinglass", 
+      "photos": [
+        83, 
+        82, 
+        81, 
+        80
+      ], 
+      "is_public": true, 
+      "date_added": "2010-02-28 19:15:01"
+    }
+  }, 
+  {
+    "pk": 11, 
+    "model": "photologue.gallery", 
+    "fields": {
+      "description": "", 
+      "title_slug": "romerogberkemeyerglass", 
+      "tags": "", 
+      "title": "R\u00f8mer og berkemeyerglass", 
+      "photos": [
+        103, 
+        91, 
+        90, 
+        79, 
+        78, 
+        77, 
+        76, 
+        75, 
+        73, 
+        72
+      ], 
+      "is_public": true, 
+      "date_added": "2010-02-28 18:16:57"
+    }
+  }, 
+  {
+    "pk": 5, 
+    "model": "photologue.gallery", 
+    "fields": {
+      "description": "", 
+      "title_slug": "test", 
+      "tags": "", 
+      "title": "Test", 
+      "photos": [
+        63, 
+        49, 
+        47, 
+        46
+      ], 
+      "is_public": true, 
+      "date_added": "2009-07-22 00:26:26"
+    }
+  }, 
+  {
+    "pk": 2, 
+    "model": "photologue.galleryupload", 
+    "fields": {
+      "description": "R\u00f8mer- eller berkemeyerglass med b\u00e5nd p\u00e5 foten i klart litt gr\u00f8nnlig glass. Funnet ved utgravningen p\u00e5 Bryggen ved Koren-Wiberg i 1908. ", 
+      "title": "R\u00f8mer/Berkmeyerglass", 
+      "zip_file": "photologue/temp/B_6583_1...psd", 
+      "tags": "", 
+      "caption": "Datering: 1550-1650", 
+      "is_public": true, 
+      "gallery": 5
+    }
+  }, 
+  {
+    "pk": 3, 
+    "model": "photologue.galleryupload", 
+    "fields": {
+      "description": "hallo", 
+      "title": "test", 
+      "zip_file": "photologue/temp/bilder.zip", 
+      "tags": "", 
+      "caption": "hei du dette er en test", 
+      "is_public": true, 
+      "gallery": null
+    }
+  }, 
+  {
+    "pk": 4, 
+    "model": "photologue.galleryupload", 
+    "fields": {
+      "description": "sdfasdf", 
+      "title": "Hallo", 
+      "zip_file": "photologue/temp/bilder_.zip", 
+      "tags": "", 
+      "caption": "dsfgasdf", 
+      "is_public": true, 
+      "gallery": null
+    }
+  }, 
+  {
+    "pk": 103, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 14, 
+      "title_slug": "romerglass-ellerberkemeyer9", 
+      "date_taken": "2010-07-01 10:43:34", 
+      "title": "R\u00f8merglass-ellerberkemeyer9", 
+      "image": "photologue/photos/10romer.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "R\u00f8mer- eller berkemeyerglass (B 6583). Fragmentet er ca. 3,0 cm h\u00f8yt. Glassets fot er bygget opp av glasstr\u00e5der og det er knopper p\u00e5 klokken. Det ble funnet i Vinkjelleren p\u00e5 Bryggen.", 
+      "is_public": true, 
+      "date_added": "2010-07-01 10:43:33"
+    }
+  }, 
+  {
+    "pk": 102, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 168, 
+      "title_slug": "naerbilde-av-fot", 
+      "date_taken": "2010-06-28 13:22:20", 
+      "title": "N\u00e6rbilde av fot", 
+      "image": "photologue/photos/24slangestett_close.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "N\u00e6rbilde av slangestettglassets fot.", 
+      "is_public": true, 
+      "date_added": "2010-06-28 13:22:20"
+    }
+  }, 
+  {
+    "pk": 101, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 445, 
+      "title_slug": "rekonstruksjon-av-nuppenbecherglass", 
+      "date_taken": "2010-06-28 12:37:17", 
+      "title": "Rekonstruksjon av nuppenbecherglass", 
+      "image": "photologue/photos/akvarell_nuppen.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Her sees en rekonstruksjon av sk\u00e5ret av nuppenbecherglasset.", 
+      "is_public": true, 
+      "date_added": "2010-06-28 12:37:17"
+    }
+  }, 
+  {
+    "pk": 100, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 450, 
+      "title_slug": "nuppenbecher", 
+      "date_taken": "2010-06-28 12:35:58", 
+      "title": "Nuppenbecher", 
+      "image": "photologue/photos/nuppen_.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "P\u00e5 bildet ses et nuppenbecher av krautstrunk-typen (krautstrunk betyr rosenk\u00e5l-stokk p\u00e5 tysk). Sk\u00e5ret p\u00e5 bildet er ca. 3,0 cm h\u00f8yt (BRM 76/26225). Det er funnet i Vinkjelleren p\u00e5 Bryggen.", 
+      "is_public": true, 
+      "date_added": "2010-06-28 12:35:58"
+    }
+  }, 
+  {
+    "pk": 99, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 119, 
+      "title_slug": "rekonstruksjon-av-et-filigranglass", 
+      "date_taken": "2010-06-21 20:57:45", 
+      "title": "Rekonstruksjon av et filigranglass", 
+      "image": "photologue/photos/akvarell_filigran.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Her sees en rekonstruksjon av filigranglasset som viser fragmentets plassering.", 
+      "is_public": true, 
+      "date_added": "2010-06-21 20:57:45"
+    }
+  }, 
+  {
+    "pk": 98, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 159, 
+      "title_slug": "skar-fra-filigranglass", 
+      "date_taken": "2010-06-21 20:54:09", 
+      "title": "Sk\u00e5r fra filigranglass", 
+      "image": "photologue/photos/filigranglass_skar.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Fragmentet av filigranglasset p\u00e5 bildet er ca. 2,0 cm langt (BRM 0/34357). Det er en del av foten til et beger i klart glass med hvite opake glasstr\u00e5der. Sk\u00e5ret er fra den nordlige delen av Bryggen.", 
+      "is_public": true, 
+      "date_added": "2010-06-21 20:54:09"
+    }
+  }, 
+  {
+    "pk": 97, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 218, 
+      "title_slug": "rekonstruksjon-av-slangestett", 
+      "date_taken": "2010-06-21 20:49:40", 
+      "title": "Rekonstruksjon av slangestett", 
+      "image": "photologue/photos/akvarell_slangestett.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Her sees en rekonstruksjon av et slangestett.", 
+      "is_public": true, 
+      "date_added": "2010-06-21 20:49:40"
+    }
+  }, 
+  {
+    "pk": 96, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 222, 
+      "title_slug": "skar-fra-et-slangestett", 
+      "date_taken": "2010-06-21 20:48:17", 
+      "title": "Sk\u00e5r fra et slangestett", 
+      "image": "photologue/photos/23slangestett_skar.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Her (BRM 0/32405) sees en del av en bl\u00e5 vinge og den klare stetten med en hvit opak spiral inni. Fragmentet er 1,7 cm langt. Det er fra den nordlige delen av Bryggen.", 
+      "is_public": true, 
+      "date_added": "2010-06-21 20:48:17"
+    }
+  }, 
+  {
+    "pk": 95, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 238, 
+      "title_slug": "slangestett", 
+      "date_taken": "2010-06-21 20:45:59", 
+      "title": "Slangestett", 
+      "image": "photologue/photos/23slangestett.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "P\u00e5 dette glasset (B 6388h) er mye av klokken bevart. Klokken er av sv\u00e6rt tynnbl\u00e5st klart glass. Stetten er omkranset av ormer som slynger seg rundt hverandre. Dette er detaljer i bl\u00e5tt glass. Stetten er i klart glass med en stripe hvitt opak glass i midten. Dette sk\u00e5ret er funnet i Vinkjelleren. Det er ca. 11,0 cm h\u00f8yt.", 
+      "is_public": true, 
+      "date_added": "2010-06-21 20:45:59"
+    }
+  }, 
+  {
+    "pk": 94, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 172, 
+      "title_slug": "rekonstruksjon-av-isglass", 
+      "date_taken": "2010-06-21 20:40:44", 
+      "title": "Rekonstruksjon av isglass", 
+      "image": "photologue/photos/akvarell_isglass.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Rekonstruksjon av sk\u00e5r fra et isglass.", 
+      "is_public": true, 
+      "date_added": "2010-06-21 20:40:44"
+    }
+  }, 
+  {
+    "pk": 93, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 171, 
+      "title_slug": "skar-av-isglass", 
+      "date_taken": "2010-06-21 20:39:49", 
+      "title": "Sk\u00e5r av isglass", 
+      "image": "photologue/photos/22isglass_skaar.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Sk\u00e5r av isglass funnet p\u00e5 Bryggen.", 
+      "is_public": true, 
+      "date_added": "2010-06-21 20:39:49"
+    }
+  }, 
+  {
+    "pk": 92, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 179, 
+      "title_slug": "bunn-av-isglass", 
+      "date_taken": "2010-06-21 20:39:01", 
+      "title": "Bunn av isglass", 
+      "image": "photologue/photos/22isglass_bunn.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Bunnfragmentet er ca. 3,5 cm h\u00f8yt (BRM 0/35145), det er funnet i den nordlige delen av Bryggen.", 
+      "is_public": true, 
+      "date_added": "2010-06-21 20:39:01"
+    }
+  }, 
+  {
+    "pk": 91, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 634, 
+      "title_slug": "romer-eller-berkemeyerglass5", 
+      "date_taken": "2010-06-21 19:55:40", 
+      "title": "R\u00f8mer- eller berkemeyerglass5", 
+      "image": "photologue/photos/romer_akvarell2.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Rekonstruksjon av et r\u00f8mer- eller berkemeyerglass (BRM 0/70466).", 
+      "is_public": true, 
+      "date_added": "2010-06-21 19:55:40"
+    }
+  }, 
+  {
+    "pk": 90, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 645, 
+      "title_slug": "romer-eller-berkemeyerglass4", 
+      "date_taken": "2010-06-21 19:50:00", 
+      "title": "R\u00f8mer- eller berkemeyerglass4", 
+      "image": "photologue/photos/romer_akvarell.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Dette viser en rekonstruksjon av et r\u00f8mer- eller berkemeyerglass (B 6388) bygget opp av glasstr\u00e5der og med bringeb\u00e6rknopper p\u00e5 stetten.", 
+      "is_public": true, 
+      "date_added": "2010-06-21 19:50:00"
+    }
+  }, 
+  {
+    "pk": 89, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 394, 
+      "title_slug": "rekonstruksjon-av-passglass", 
+      "date_taken": "2010-06-21 19:35:25", 
+      "title": "Rekonstruksjon av passglass", 
+      "image": "photologue/photos/passglass_avkvarell.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Rekonstruksjon av passglasset med sk\u00e5renes plassering.", 
+      "is_public": true, 
+      "date_added": "2010-06-21 19:35:25"
+    }
+  }, 
+  {
+    "pk": 88, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 425, 
+      "title_slug": "skar-fra-passglass2", 
+      "date_taken": "2010-06-21 19:21:17", 
+      "title": "Sk\u00e5r fra passglass2", 
+      "image": "photologue/photos/21PassglassBRM_58028_skaar2.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Sk\u00e5r (BRM 0/58119) fra passglass. Sk\u00e5rene er funnet i den nordlige delen av Bryggen. ", 
+      "is_public": true, 
+      "date_added": "2010-06-21 19:21:17"
+    }
+  }, 
+  {
+    "pk": 87, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 424, 
+      "title_slug": "skar-fra-passglass", 
+      "date_taken": "2010-06-21 19:18:21", 
+      "title": "Sk\u00e5r fra passglass", 
+      "image": "photologue/photos/21PassglassBRM-_58028_skaar.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Sk\u00e5ret p\u00e5 bildet (BRM 0/57846) stammer fra et passglass. Sk\u00e5ret har i tillegg til p\u00e5lagte glassb\u00e5nd ogs\u00e5 loddrett optisk dekor nedover klokken. Sk\u00e5ret er funnet i den nordlige delen av Bryggen. ", 
+      "is_public": true, 
+      "date_added": "2010-06-21 19:18:21"
+    }
+  }, 
+  {
+    "pk": 86, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 562, 
+      "title_slug": "passglass", 
+      "date_taken": "2010-06-21 18:06:17", 
+      "title": "Passglass", 
+      "image": "photologue/photos/21PassglassBRM-_58028_2stk___.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Fotfragmentet av et passglass (BRM 0/58028). Det er ca 11,5 cm h\u00f8yt.", 
+      "is_public": true, 
+      "date_added": "2010-06-21 18:06:17"
+    }
+  }, 
+  {
+    "pk": 85, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 417, 
+      "title_slug": "stangenglass2", 
+      "date_taken": "2010-06-21 18:03:05", 
+      "title": "Stangenglass2", 
+      "image": "photologue/photos/20StangenglasBRM0_70467.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Gr\u00f8nnlig stangenglass (BRM 0/70467). En ser at klokken begynner oppe p\u00e5 foten. Sk\u00e5ret er ca. 7,5 cm h\u00f8yt. Glasset har opprinnelig v\u00e6rt klart og gr\u00f8nnlig, de flotte fargene vi ser n\u00e5 skyldes glasspest! Sk\u00e5ret er funnet p\u00e5 den nordlige delen av Bryggen.", 
+      "is_public": true, 
+      "date_added": "2010-06-21 18:03:05"
+    }
+  }, 
+  {
+    "pk": 84, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 419, 
+      "title_slug": "stangenglass", 
+      "date_taken": "2010-06-21 17:58:54", 
+      "title": "Stangenglass", 
+      "image": "photologue/photos/stangenglassBRM0_55349.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": 1, 
+      "caption": "Gr\u00f8nnlig smalt stangenglass (BRM 0/55349)med et karakteristisk bl\u00e5tt b\u00e5nd p\u00e5 klokken. Det er sm\u00e5 luftboblene i glasset. Boblene kan v\u00e6re en form for optisk dekor, eller de kan v\u00e6re en feil i glasset. Sk\u00e5ret er funnet p\u00e5 den nordlige del av Bryggen. Typen ble laget fra ca. 1550-1675.  ", 
+      "is_public": true, 
+      "date_added": "2010-06-21 17:58:54"
+    }
+  }, 
+  {
+    "pk": 83, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 657, 
+      "title_slug": "maigeleinglass4", 
+      "date_taken": "2010-03-01 19:36:59", 
+      "title": "Maigeleinglass4", 
+      "image": "photologue/photos/18maigeleinB_6388_.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Maigeleinglass (B 6388). Glasset er helt, det er ca. 1,5 cm h\u00f8yt. Det har glatte sider uten dekor. Det er funnet i Vinkjelleren p\u00e5 Bryggen.", 
+      "is_public": true, 
+      "date_added": "2010-03-01 19:36:59"
+    }
+  }, 
+  {
+    "pk": 82, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 652, 
+      "title_slug": "maigeleinglass3", 
+      "date_taken": "2010-03-01 19:36:38", 
+      "title": "Maigeleinglass3", 
+      "image": "photologue/photos/17maigeleinB0_26493_.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Maigeleinglass (BRM 0/26493). Fragmentet er ca. 5,5 cm h\u00f8yt. Glasset har optisk dekor. Det er funnet i den nordlige delen av Bryggen.", 
+      "is_public": true, 
+      "date_added": "2010-03-01 19:36:38"
+    }
+  }, 
+  {
+    "pk": 81, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 644, 
+      "title_slug": "maigeleinglass2", 
+      "date_taken": "2010-03-01 19:36:16", 
+      "title": "Maigeleinglass2", 
+      "image": "photologue/photos/16maigeleinB_6583__.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Maigeleinglass (B 6583). Dette glasset er bare ca. 1,5 cm h\u00f8yt, det har optisk dekor og er funnet i Vinkjelleren p\u00e5 Bryggen.", 
+      "is_public": true, 
+      "date_added": "2010-03-01 19:36:16"
+    }
+  }, 
+  {
+    "pk": 80, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 643, 
+      "title_slug": "maigeleinglass", 
+      "date_taken": "2010-03-01 19:35:49", 
+      "title": "Maigeleinglass", 
+      "image": "photologue/photos/15maigeleinB_6583_____.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Maigeleinglass (B 6583). Fragmentet er ca. 4,0 cm h\u00f8yt. Glasset har optisk dekor. Det er funnet i Vinkjelleren p\u00e5 Bryggen.", 
+      "is_public": true, 
+      "date_added": "2010-03-01 19:35:49"
+    }
+  }, 
+  {
+    "pk": 79, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 967, 
+      "title_slug": "romer-eller-berkemeyerglass3", 
+      "date_taken": "2010-03-01 19:25:51", 
+      "title": "R\u00f8mer- eller berkemeyerglass3", 
+      "image": "photologue/photos/14romerB_6388.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "R\u00f8mer- eller berkemeyerglass (B 6388). Fragmentet er ca. 7,5 cm h\u00f8yt. Glassets fot er bygget opp av glasstr\u00e5der og det er bringeb\u00e6rknopper p\u00e5 stetten. Klokken er kuleformet. Glasset er funnet i Vinkjelleren p\u00e5 Bryggen. Typen ble laget fra 1600-tallet eller i begynnelsen av 1700-tallet.", 
+      "is_public": true, 
+      "date_added": "2010-03-01 19:25:51"
+    }
+  }, 
+  {
+    "pk": 78, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 959, 
+      "title_slug": "romerglass2", 
+      "date_taken": "2010-03-01 19:25:16", 
+      "title": "R\u00f8merglass2", 
+      "image": "photologue/photos/13romerB_6583.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "R\u00f8merglass (B 6583). Fragmentet er ca. 8,0 cm h\u00f8yt. Glassets fot er bygget opp av glasstr\u00e5der og det er bringeb\u00e6rknopper p\u00e5 stetten. Klokken er nesten kuleformet. Glasset er funnet i Vinkjelleren p\u00e5 Bryggen. Typen ble laget p\u00e5 1600-tallet.", 
+      "is_public": true, 
+      "date_added": "2010-03-01 19:25:16"
+    }
+  }, 
+  {
+    "pk": 77, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 955, 
+      "title_slug": "romerglass", 
+      "date_taken": "2010-03-01 19:24:48", 
+      "title": "R\u00f8merglass", 
+      "image": "photologue/photos/12romerB_6583.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "R\u00f8merglass (B 6583). Fragmentet er ca. 10,0 cm h\u00f8yt. Glassets fot er glatt og det er bringeb\u00e6rknopper p\u00e5 stetten. Det er funnet i Vinkjelleren p\u00e5 Bryggen. Typen ble laget fra 1600-tallet eller i begynnelsen av 1700-tallet.", 
+      "is_public": true, 
+      "date_added": "2010-03-01 19:24:48"
+    }
+  }, 
+  {
+    "pk": 76, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 928, 
+      "title_slug": "romer-eller-berkemeyerglass2", 
+      "date_taken": "2010-03-01 19:23:33", 
+      "title": "R\u00f8mer- eller berkemeyerglass2", 
+      "image": "photologue/photos/11romerB_6388.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "R\u00f8mer- eller berkemeyerglass (B 6588). Fragmentet er ca. 8,0 cm h\u00f8yt. Glassets fot er bygget opp av glasstr\u00e5der og det er bringeb\u00e6rknopper p\u00e5 klokken. Det er funnet i Vinkjelleren p\u00e5 Bryggen. Typen ble laget p\u00e5 1600-tallet.", 
+      "is_public": true, 
+      "date_added": "2010-03-01 19:23:33"
+    }
+  }, 
+  {
+    "pk": 75, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 1034, 
+      "title_slug": "romer-eller-berkemeyerglass-3", 
+      "date_taken": "2010-03-01 15:38:33", 
+      "title": "R\u00f8mer- eller berkemeyerglass 3", 
+      "image": "photologue/photos/romer9.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "R\u00f8mer- eller berkemeyerglass (BRM 0/70466). Fragmentet er ca. 4,5 cm h\u00f8yt. Glasset har piggete kant p\u00e5 foten og pigger p\u00e5 klokken, det er funnet i den nordlige delen av Bryggen. Typen ble laget p\u00e5 1500-tallet eller i begynnelsen av 1600-tallet.", 
+      "is_public": true, 
+      "date_added": "2010-03-01 15:38:32"
+    }
+  }, 
+  {
+    "pk": 73, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 1024, 
+      "title_slug": "romer-eller-berkemeyerglass8", 
+      "date_taken": "2010-03-01 15:19:15", 
+      "title": "R\u00f8mer- eller berkemeyerglass8", 
+      "image": "photologue/photos/7romer_.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "R\u00f8mer- eller berkemeyerglass funnet i Vinkjelleren p\u00e5 Bryggen (B 6388). Fragmentet er ca. 5,0 cm h\u00f8yt. Glasset har glatt fot og pigger p\u00e5 klokken. Typen ble laget p\u00e5 1500-tallet eller i begynnelsen av 1600-tallet.", 
+      "is_public": true, 
+      "date_added": "2010-03-01 15:19:14"
+    }
+  }, 
+  {
+    "pk": 72, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 578, 
+      "title_slug": "romer-eller-berkemeyerglass-2", 
+      "date_taken": "2010-03-01 15:07:50", 
+      "title": "R\u00f8mer- eller berkemeyerglass 2", 
+      "image": "photologue/photos/8romer.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "R\u00f8mer- eller berkemeyerglass (BRM 0/70254). Fragmentet er ca. 3,5 cm h\u00f8yt. Glasset har glatt fot og pigger p\u00e5 klokken. Glasset har glatt fot og pigger p\u00e5 klokken. Det er funnet i den nordlige delen av Bryggen. Typen ble laget p\u00e5 1500-tallet eller i begynnelsen av 1600-tallet.", 
+      "is_public": true, 
+      "date_added": "2010-03-01 15:07:50"
+    }
+  }, 
+  {
+    "pk": 63, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 459, 
+      "title_slug": "kjole", 
+      "date_taken": "2010-02-28 22:56:05", 
+      "title": "kjole", 
+      "image": "photologue/photos/kjol_.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": 1, 
+      "caption": "", 
+      "is_public": true, 
+      "date_added": "2010-02-28 22:56:05"
+    }
+  }, 
+  {
+    "pk": 49, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 1457, 
+      "title_slug": "venetiansk-stettglass", 
+      "date_taken": "2009-07-29 14:20:11", 
+      "title": "Venetiansk stettglass", 
+      "image": "photologue/photos/B_6388h.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Venetiansk stettglass med vingedekor. Klart glass med dekor utf\u00f8rt i klart og bl\u00e5tt glass. Nedre del av fragmentet best\u00e5r av klokken og \u00f8vre delen av stetten.", 
+      "is_public": true, 
+      "date_added": "2009-07-29 14:20:08"
+    }
+  }, 
+  {
+    "pk": 47, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 1417, 
+      "title_slug": "drikkeglass", 
+      "date_taken": "2009-07-29 14:14:01", 
+      "title": "Drikkeglass", 
+      "image": "photologue/photos/BRM_070465_.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": null, 
+      "caption": "Del av bl\u00e5tt begerglass med p\u00e5lagt dekorerte b\u00e5nd og en fot av b\u00e5ndringer. ", 
+      "is_public": true, 
+      "date_added": "2009-07-29 14:13:57"
+    }
+  }, 
+  {
+    "pk": 46, 
+    "model": "photologue.photo", 
+    "fields": {
+      "view_count": 2416, 
+      "title_slug": "romer-eller-berkemeyerglass-glassyke", 
+      "date_taken": "2009-07-27 20:40:21", 
+      "title": "R\u00f8mer- eller berkemeyerglass med glassyke", 
+      "image": "photologue/photos/B_6583_romerberkemeyer.jpg", 
+      "tags": "", 
+      "crop_from": "center", 
+      "effect": 1, 
+      "caption": "R\u00f8mer- eller berkemeyerglass (B 6583). Fragmentet er ca. 3,0 cm h\u00f8yt. Glassets fot er bygget opp av glasstr\u00e5der og det er knopper p\u00e5 klokken. Det ble funnet i Vinkjelleren p\u00e5 Bryggen.\r\n", 
+      "is_public": true, 
+      "date_added": "2009-07-27 20:40:18"
+    }
+  }, 
+  {
+    "pk": 1, 
+    "model": "photologue.photoeffect", 
+    "fields": {
+      "name": "Enhance Thumbnail", 
+      "reflection_strength": 0.6, 
+      "brightness": 1.0, 
+      "color": 1.0, 
+      "sharpness": 1.0, 
+      "reflection_size": 0.0, 
+      "filters": "", 
+      "transpose_method": "", 
+      "background_color": "#FFFFFF", 
+      "contrast": 1.2, 
+      "description": "Increases sharpness and contrast. Works well for smaller image sizes such as thumbnails."
+    }
+  }, 
+  {
+    "pk": 2, 
+    "model": "photologue.photoeffect", 
+    "fields": {
+      "name": "Display Reflection", 
+      "reflection_strength": 0.6, 
+      "brightness": 1.0, 
+      "color": 1.0, 
+      "sharpness": 1.0, 
+      "reflection_size": 0.4, 
+      "filters": "", 
+      "transpose_method": "", 
+      "background_color": "#FFFFFF", 
+      "contrast": 1.0, 
+      "description": "Generates a reflection with a white background"
+    }
+  }, 
+  {
+    "pk": 2, 
+    "model": "photologue.photosize", 
+    "fields": {
+      "name": "thumbnail", 
+      "watermark": null, 
+      "increment_count": true, 
+      "effect": 1, 
+      "crop": true, 
+      "height": 90, 
+      "width": 90, 
+      "upscale": false, 
+      "pre_cache": true, 
+      "quality": 70
+    }
+  }, 
+  {
+    "pk": 1, 
+    "model": "photologue.photosize", 
+    "fields": {
+      "name": "admin_thumbnail", 
+      "watermark": null, 
+      "increment_count": true, 
+      "effect": null, 
+      "crop": true, 
+      "height": 200, 
+      "width": 200, 
+      "upscale": false, 
+      "pre_cache": true, 
+      "quality": 70
+    }
+  }, 
+  {
+    "pk": 3, 
+    "model": "photologue.photosize", 
+    "fields": {
+      "name": "display", 
+      "watermark": null, 
+      "increment_count": true, 
+      "effect": null, 
+      "crop": true, 
+      "height": 475, 
+      "width": 370, 
+      "upscale": false, 
+      "pre_cache": true, 
+      "quality": 80
+    }
+  }
+]

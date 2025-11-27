@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Start './manage.py runserver' and the invoke this script
+wget -k -E -r -l 10 -p -N -F -nH http://localhost:8000/
+find . -name \*.html | xargs perl -pi -e 's,/index.html,/,g'

@@ -1,0 +1,36 @@
+﻿{% extends "base.html" %}
+
+{% block title %} {{main_title }}{% endblock %}
+
+{% block content %}
+<style>
+b { color: #38506f; }
+</style>
+	<div id="nav">
+
+		{% include "history_menu.html" %}
+		<div id="center">
+		<div class="info-history-main">
+			<a href ="/history"> <img src="/media/glass/hovedside.jpg" border="none" title="Bergen" height="425px"/></a>
+			<div class="introduction"><p>Eksotiske drikkeglass fant veien til Norge fra Europa i seinmiddelalderen og tidlig nyere tid. Utstillingen gir smakebiter på flotte glass funnet under arkeologiske utgravninger på Bryggen i Bergen. </p>
+<p>En del av drikkeglassene er funnet under utgravningen av den nordlige delen av Bryggen, i årene mellom 1955 og 1979. Her undersøkte man havne-, handels- og boligområder, som fra seinmiddelalderen ble en del av Det hanseatiske kontor i Bergen. De øvrige glassene stammer fra byens vinkjeller, som på midten av 1200-tallet ble reist på Bryggen i Bergen. Vinkjelleren var offentlig skjenkested for både norske og utenlandske kunder. Den ble funnet og utgravd i begynnelsen av 1900-tallet og ble seinere undersøkt igjen mellom 1978 og 1983. </p>
+<p>Det er funnet mange tusen skår på Bryggen og i Vinkjelleren, men bare få hele glass. Likevel, fragmentene som har overlevd århundrer i jorden vitner om drikkevaner og bordskikker som fulgte i kjølvannet av tette handels- og kulturkontakter mellom Europa og Bergen. Bergen var den største og viktigste handelsby i Norge i middelalderen. </p>
+<p>Vi presenterer glasstypenes europeiske dateringer. I den grad det har vært mulig å datere de bergenske glassene er det god overensstemmelse mellom de europeiske og de lokale dateringer. Man fulgte altså godt med på moten i Bergen! </p>
+
+<p><b>GLASSPEST!</b></p>
+<p>På fotografiene av bergensglassene ser man at mange av glasskårene ikke lenger er gjennomsiktige, men har fått en fargerik overflate. Glass som blir funnet i jorden under arkeologiske utgravninger har ofte en slik perlemorsaktig overflate. Det er fint å se på, men dessverre et tegn på at glasskåret er kjemisk nedbrutt. Glasspest er et fellesnavn for de forskjellige kjemiske nedbrytninger som glass utsettes for. Nordeuropeisk glass hvor pottaske er brukt som smeltemiddel er spesielt utsatt for glasspest, søreuropeisk soda-glass er mindre utsatt for tidens tann. </p>
+
+</p>
+		</div>
+			</div>
+			</div>
+		<!--<div id="path3">
+			<a href ="/Gallery/1/"> <img src="/media/glass/galleri.jpg" border="none" title="Galleri"/></a>
+		</div>-->
+			<!--<div id="category-bar">
+				<span class="historie">Historie</span>
+			</div>-->
+	</div><!--end nav-->
+<p> {{ main_content }}.</p>
+
+{% endblock %}

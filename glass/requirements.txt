@@ -1,0 +1,4 @@
+# Python modules required for this app; pip install -r requirements.txt
+django
+django-photologue
+PIL

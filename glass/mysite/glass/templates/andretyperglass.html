@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+<body id="andre">
+	<div id="nav">
+
+		{% include "andretyperglass_menu.html" %}
+		
+			<div class="info-history-individual">
+			<h2>{{ history_title }}</h2>				
+				<div class="content-history">
+					<!--<div id="my_CSS3_id"> -->
+					
+							<div class="linker">
+							{{ history_content|safe }}<br/>
+							<h3>{{ history_title2 }}</h3>
+							<p>{{ history_content2|safe }}</p><br/>
+							<h3>{{ history_title3 }}</h3>
+							<p>{{ history_content3|safe }}</p><br/>
+							<h3>{{ history_title4 }}</h3>
+							<p>{{ history_content4|safe }}</p><br/>
+						</div>	
+							
+					</div>
+					
+				</div>
+		</div>
+		<!--<div class="info-history-main2">
+			<a href ="/gallery"> <img src="/media/glass/galleri.jpg" border="none" title="Galleri"/></a>
+		</div>-->
+			<!--<div id="category-bar">
+				<span class="historie">Historie</span>
+			</div>-->
+	</div><!--end nav-->
+	</body>
+{% endblock %}
