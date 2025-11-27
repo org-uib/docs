@@ -1,0 +1,109 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+  
+    <title>UiB internal phonebook</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <link rel="SHORTCUT ICON" href="http://tjinfo.uib.no/favicon.ico">
+    <link href="TJINFO_var_egentlig_nedlagt_files/012.css" rel="stylesheet" type="text/css">
+    <script language="JavaScript1.2" type="text/javascript">
+       <!--
+         function setFocus() {
+           document.getElementById('enavn').focus();
+         }
+       //-->
+    </script>
+  </head><body onload="setFocus()">
+  <div class="container">
+    <div class="header" id="elkat">
+      <h3>INTERN TELEFONKATALOG</h3>
+      <p>UiB internal phonebook</p>
+      <div class="it-header">
+        <img src="TJINFO_var_egentlig_nedlagt_files/uib_topp.gif" alt="Universitetet i Bergen">
+        <a href="http://uib.no/" title="Universitetet i Bergen">Universitetet i Bergen</a>
+      </div>
+    </div>
+    <!-- start Menu HTML -->
+    <div class="left">
+      <div id="lang">
+      </div>
+      <div id="menu">
+        <ul>
+          <li>
+            <h2><span>Ansvarlig</span></h2>
+            <a href="http://uib.no/" title="UiB">UiB</a>
+            <a href="http://www.uib.no/poa" title="Personal- og organisasjonsavdelingen">POA</a>
+            <a href="http://it.uib.no/" title="IT-avdelingen">IT</a>
+            <a href="https://bs.uib.no/" title="issue-tracker">Brita</a>
+            <a href="https://sebra.uib.no/" title="Sebra">Sebra</a>
+            <a href="http://webber.uib.no/kind/" title="hmk">hmk</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="content">
+<!--
+   <h1 align="center">INTERN TELEFONKATALOG<br> UiB internal phonebook</h1>
+-->
+   <div style="text-align: center;">
+   <em style="">These pages are ©Copyright University of Bergen<br></em>
+   <!-- The addresses found on these pages should not be used for distribution of unsolicited mail. -->
+   <em style="font-style: italic; font-size: 0.6em;">
+   Addresses found here should not be used to distribute unsolicited email.
+   </em>
+   </div>
+   <br>
+<form name="elkat" method="POST">
+   Søk <i>(Search)</i> for <br>
+   <input name="©kat©" value="elkat" checked="checked" type="radio">Ansatte <i>(Employees)</i>
+   <input name="©kat©" value="studkat" type="radio">Studenter <i>(Students)</i>
+   <input name="©kat©" value="ja" type="radio">Begge <i>(Both)</i><p>
+   <b>Vennligst oppgi minst to tegn av personens navn</b><br>
+   <i>Please type in at least two characters of the name of the person:</i>
+   </p><dl><dt>Etternavn <i>(Surname)</i>:
+   </dt><dd><input name="©enavn©" id="enavn" size="30">
+   <br>
+   <em style="font-size: 0.7em;">Bruk * som joker - </em><em style="font-size: 0.7em; font-style: italic;">wildcard with *</em>
+   </dd><dt>Fornavn <i>(Given name)</i>:
+   </dt><dd><input name="©fnavn©" size="30">
+   </dd><dt>Kort listing <i>(Short listing)</i>
+   <input name="©kompakt©" value="JA" type="radio">JA <i>(Yes)</i>
+   <input checked="checked" name="©kompakt©" value="NEI" type="radio">NEI <i>(No)</i>
+   </dt><dt>Prøv eksakt treff først <i>(First try exact match)</i>
+   <input checked="checked" name="©eksakt©" value="JA" type="radio">JA <i>(Yes)</i>
+   <input name="©eksakt©" value="NEI" type="radio">NEI <i>(No)</i>
+   </dt></dl>
+   <input value="Søk/search" type="submit">
+   <input value="Reset" type="reset"><p>
+   </p><dl><dt>Telefonnummer <i>(Phone number)</i>:
+   </dt><dd>+47 <input name="©tlf©" size="13" maxlength="13">
+   </dd><dt>Avdeling <i>(Department)</i>
+   (minst 5 tegn/<i>at least 5 chars</i>):
+   </dt><dd><input name="©avd©" size="30">
+   SpeC: <input name="©speC©" value="JA" type="radio">JA
+   <input checked="checked" name="©speC©" value="NEI" type="radio">NEI
+   </dd><dt>Maildomene <i>(Maildomain)</i>
+   </dt><dd><input name="©mail©" size="8">.uib.no
+   <input name="©dummy©" value="NONE" type="HIDDEN">
+   </dd></dl>
+   Alle søk foregår uavhengig av store og små bokstaver.<br>
+   Maksimalt 100 treff vil bli vist<br>
+   <i>All searches are «case insensitive substring»<br>
+   Maximum 100 hits will be shown
+   </i>.
+   </form>
+  Oppslag nummer <b>3600325</b> siden 19 april 1996
+
+    </div>
+    <div class="colophone">
+      <div>
+        <img src="TJINFO_var_egentlig_nedlagt_files/uib_kolofon.gif" alt="Logo for Universitetet i Bergen">
+        <p><strong>©2009 Universitetet i Bergen | IT-avdelingen</strong></p>
+        <p>Adresse: Postboks 7800 5020 Bergen</p>
+        <p>Besøksadresse: Nygårdsgaten 5</p>
+        <p>Telefon: (+47) 55584201 Faks: (+47) 55584299</p>
+        <p>Ansvarlig redaktør: Formidlingsdirektøren</p>
+      </div>
+    </div>
+  </div>
+</body></html>
