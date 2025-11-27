@@ -1,20 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nb">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>UiB – Nedlastinger</title>
 <style>
     body {
         font-family: Arial, sans-serif;
         background: #f5f7fa;
         margin: 0;
-        padding: 40px;
+        padding: 40px 20px;
         color: #003056; /* UiB blue */
     }
 
     h1 {
         text-align: center;
-        font-size: 32px;
+        font-size: clamp(24px, 5vw, 32px);
         margin-bottom: 30px;
         color: #003056; /* UiB blue */
     }
@@ -56,32 +57,84 @@
         color: #2d7f5e;
     }
 
+    a:focus {
+        outline: 3px solid #2d7f5e;        /* Clear focus indicator */
+        outline-offset: 2px;
+        background: #e3f7ec;
+        border-left-color: #2d7f5e;
+        color: #2d7f5e;
+    }
+
     a:active {
         background: #ffe8e8;               /* Light red when clicked */
         border-left-color: #c0373c;        /* UiB red */
         color: #c0373c;
     }
 
+    /* Responsive design for tablets and smaller */
+    @media (max-width: 768px) {
+        body {
+            padding: 20px 15px;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        a {
+            font-size: 16px;
+            padding: 12px 16px;
+        }
+    }
+
+    /* Responsive design for mobile phones */
+    @media (max-width: 480px) {
+        body {
+            padding: 15px 10px;
+        }
+
+        .container {
+            padding: 15px;
+            border-radius: 8px;
+        }
+
+        a {
+            font-size: 16px;
+            padding: 12px 14px;
+            border-left-width: 4px;
+        }
+
+        li {
+            margin: 10px 0;
+        }
+    }
+
 </style>
 </head>
 <body>
 
-<h1>Nedlastbare filer</h1>
+<main>
+    <h1>Nedlastbare filer</h1>
 
-<div class="container">
-    <ul>
-        <li><a href="avis.zip">avis.zip</a></li>
-        <li><a href="fagpresse.zip">fagpresse.zip</a></li>
-        <li><a href="ikt.zip">ikt.zip</a></li>
-        <li><a href="radio.zip">radio.zip</a></li>
-        <li><a href="ukepresse.zip">ukepresse.zip</a></li>
-        <li><a href="boker.zip">boker.zip</a></li>
-        <li><a href="fonogram.zip">fonogram.zip</a></li>
-        <li><a href="kino.zip">kino.zip</a></li>
-        <li><a href="tv.zip">tv.zip</a></li>
-        <li><a href="video.zip">video.zip</a></li>
-    </ul>
-</div>
+    <div class="container">
+        <ul>
+            <li><a href="avis.zip" aria-label="Last ned avis.zip">avis.zip</a></li>
+            <li><a href="fagpresse.zip" aria-label="Last ned fagpresse.zip">fagpresse.zip</a></li>
+            <li><a href="ikt.zip" aria-label="Last ned ikt.zip">ikt.zip</a></li>
+            <li><a href="radio.zip" aria-label="Last ned radio.zip">radio.zip</a></li>
+            <li><a href="ukepresse.zip" aria-label="Last ned ukepresse.zip">ukepresse.zip</a></li>
+            <li><a href="boker.zip" aria-label="Last ned boker.zip">boker.zip</a></li>
+            <li><a href="fonogram.zip" aria-label="Last ned fonogram.zip">fonogram.zip</a></li>
+            <li><a href="kino.zip" aria-label="Last ned kino.zip">kino.zip</a></li>
+            <li><a href="tv.zip" aria-label="Last ned tv.zip">tv.zip</a></li>
+            <li><a href="video.zip" aria-label="Last ned video.zip">video.zip</a></li>
+        </ul>
+    </div>
+</main>
 
 </body>
 </html>
