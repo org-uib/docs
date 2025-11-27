@@ -1,20 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="no">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>UiB – Oversikt</title>
 <style>
     body {
         font-family: Arial, sans-serif;
         background: #f5f7fa;
         margin: 0;
-        padding: 40px;
+        padding: 20px;
         color: #003056; /* UiB blue */
     }
 
     h1 {
         text-align: center;
-        font-size: 32px;
+        font-size: clamp(24px, 5vw, 32px);
         margin-bottom: 30px;
         color: #003056;
     }
@@ -23,7 +24,7 @@
         max-width: 700px;
         margin: 0 auto;
         background: #ffffff;
-        padding: 30px;
+        padding: 20px;
         border-radius: 12px;
         box-shadow: 0 4px 10px rgba(0,0,0,0.08);
     }
@@ -41,25 +42,44 @@
     a {
         display: block;
         padding: 16px 20px;
-        background: #e6f2ff;                /* light blue */
+        background: #d4e9ff;                /* improved contrast light blue */
         border-left: 6px solid #003056;     /* UiB blue */
         border-radius: 6px;
         text-decoration: none;
-        font-size: 20px;
+        font-size: clamp(16px, 4vw, 20px);
         color: #003056;
         transition: 0.2s ease;
     }
 
     a:hover {
-        background: #e3f7ec;                /* UiB green tint */
-        border-left-color: #2d7f5e;         /* UiB green */
-        color: #2d7f5e;
+        background: #d0f0dd;                /* improved contrast UiB green tint */
+        border-left-color: #1a5c42;         /* darker UiB green for better contrast */
+        color: #1a5c42;
+    }
+
+    a:focus {
+        outline: 3px solid #003056;
+        outline-offset: 2px;
+        background: #d0f0dd;
+        border-left-color: #1a5c42;
+        color: #1a5c42;
     }
 
     a:active {
-        background: #ffe8e8;                /* light red */
-        border-left-color: #c0373c;         /* UiB red */
-        color: #c0373c;
+        background: #ffd4d4;                /* improved contrast light red */
+        border-left-color: #a02e32;         /* darker UiB red for better contrast */
+        color: #a02e32;
+    }
+
+    /* Tablet and larger screens */
+    @media (min-width: 600px) {
+        body {
+            padding: 40px;
+        }
+
+        .container {
+            padding: 30px;
+        }
     }
 </style>
 </head>
