@@ -67,13 +67,10 @@
                 if (targetElement) {
                     e.preventDefault();
 
-                    // Get the header height for offset
-                    const navHeight = document.querySelector('.main-nav').offsetHeight;
-                    const targetPosition = targetElement.offsetTop - navHeight - 20;
-
-                    window.scrollTo({
-                        top: targetPosition,
-                        behavior: 'smooth'
+                    // Use browser's native scrollIntoView with CSS scroll-padding-top
+                    targetElement.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
                     });
 
                     // Update URL without scrolling
