@@ -67,10 +67,19 @@
                 if (targetElement) {
                     e.preventDefault();
 
-                    // Use browser's native scrollIntoView with CSS scroll-padding-top
-                    targetElement.scrollIntoView({
-                        behavior: 'smooth',
-                        block: 'start'
+                    // Calculate offset: navigation height + extra space for the h2
+                    const nav = document.querySelector('.main-nav');
+                    const navHeight = nav ? nav.offsetHeight : 0;
+                    const offset = navHeight + 20; // Navigation height + 20px breathing room
+
+                    // Calculate target position
+                    const elementPosition = targetElement.getBoundingClientRect().top;
+                    const offsetPosition = elementPosition + window.pageYOffset - offset;
+
+                    // Scroll to position
+                    window.scrollTo({
+                        top: offsetPosition,
+                        behavior: 'smooth'
                     });
 
                     // Update URL without scrolling
