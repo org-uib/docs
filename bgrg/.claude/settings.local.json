@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp:*)",
+      "Bash(python3:*)",
+      "Bash(lynx:*)",
+      "Bash(iconv:*)",
+      "Bash(cat:*)",
+      "WebFetch(domain:org-uib.github.io)",
+      "WebFetch(domain:org.uib.no)",
+      "Bash(for:*)",
+      "Bash(do if [ -f \"BGRGwebsiteE_files/$img\" ])",
+      "Bash(then echo \"✓ $img exists\")",
+      "Bash(else echo \"✗ $img MISSING\")",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(do if [ -f \"BGRGwebsiteN_files/$img\" ])",
+      "Bash(md5sum:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
