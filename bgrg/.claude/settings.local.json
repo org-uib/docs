@@ -4,7 +4,9 @@
       "Bash(for file in BGRGwebsiteN_files/*.new)",
       "Bash(for file in BGRGwebsiteE_files/*.new)",
       "Bash(do echo -n \"$file: \")",
-      "Bash(for file in newsN.html projectsN.html publicationsN.html researchersN.html)"
+      "Bash(for file in newsN.html projectsN.html publicationsN.html researchersN.html)",
+      "Bash(ls:*)",
+      "Bash(file:*)"
     ],
     "deny": [],
     "ask": []
