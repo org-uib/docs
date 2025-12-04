@@ -6,7 +6,8 @@
       "Bash(do echo -n \"$file: \")",
       "Bash(for file in newsN.html projectsN.html publicationsN.html researchersN.html)",
       "Bash(ls:*)",
-      "Bash(file:*)"
+      "Bash(file:*)",
+      "Bash(done)"
     ],
     "deny": [],
     "ask": []
