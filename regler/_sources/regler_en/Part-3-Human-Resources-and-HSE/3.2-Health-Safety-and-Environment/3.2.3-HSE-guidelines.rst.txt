@@ -1,0 +1,23 @@
+3.2.3 HSE guidelines
+====================
+
+:doc:`Norwegian version </regler/Del-3-Personal-og-HMS/3.2-Helse-miljoe-og-sikkerhet/3.2.3-HMS-retningslinjer/index>`
+
+-   Retningslinje for systematisk helse-, miljø- og sikkerhetsarbeid  (norwegian only)
+-  :doc:`3.2.3-HSE-guidelines/Guidelines-for-reporting-and-follow-up-of-HSE-non-conformities`
+-  :doc:`3.2.3-HSE-guidelines/Guidelines-for-annual-review-of-systematic-health-safety-and-environment-work-Internal-control`
+-  :doc:`3.2.3-HSE-guidelines/Guidelines-for-risk-assessment-involving-health-safety-and-the-environment`
+-   Retningslinje for brannvern  (norwegian only)
+-  :doc:`3.2.3-HSE-guidelines/Guidelines-for-handling-violence-and-threats`
+-  :doc:`3.2.3-HSE-guidelines/Guidelines-for-eye-examination-and-acquisition-of-computer-glasses`
+-   Retningslinjer for håndtering av rusmiddelmisbruk ved UiB (AKAN-retningslinjer)  (norwegian only)
+-  :doc:`3.2.3-HSE-guidelines/Guidelines-for-health-safety-and-environment-at-fieldwork-research-cruises-and-group-trips`
+-  :doc:`3.2.3-HSE-guidelines/Guidelines-for-the-use-and-handling-of-chemicals`
+-  :doc:`3.2.3-HSE-guidelines/Guidelines-for-the-Chemical-Inventory`
+-  :doc:`3.2.3-HSE-guidelines/Guidelines-for-handling-and-disposal-of-hazardous-waste-and-problematic-waste-and-explosive-waste`
+-  :doc:`3.2.3-HSE-guidelines/Guidelines-for-radiation-protection-and-use-of-radiation-at-UiB`
+-  :doc:`3.2.3-HSE-guidelines/Guidelines-relating-to-biological-risk-factors`
+-  :doc:`3.2.3-HSE-guidelines/Guidelines-for-genetically-modified-organisms-GMOs`
+-   Retningslinjer for registrering, måling og utvikling av miljøindikatorer  (norwegian only)
+-  :doc:`3.2.3-HSE-guidelines/Guideline-for-annual-_control-_of-_fume-hoods`
+-  :doc:`3.2.3-HSE-guidelines/Guidelines_for_facilitation_and_cooperation_between_line_managers_and_safety_representatives_`

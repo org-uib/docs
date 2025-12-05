@@ -1,0 +1,11 @@
+4.2.2 HMS-retningslinjer - fysisk arbeidsmiljø
+==============================================
+
+Oversikt over HMS-retningslinjer som påvirker det fysiske
+arbeidsmiljøet.
+
+-  :doc:`/regler/Del-3-Personal-og-HMS/3.2-Helse-miljoe-og-sikkerhet/3.2.3-HMS-retningslinjer/Retningslinje-for-brannvern/`
+-  :doc:`/regler/Del-3-Personal-og-HMS/3.2-Helse-miljoe-og-sikkerhet/3.2.3-HMS-retningslinjer/Retningslinje-for-handtering-og-avlevering-av-farlig-avfall-og-problemavfall-radioaktivt-avfall-og-eksplosivt-avfall/`
+-  :doc:`/regler/Del-3-Personal-og-HMS/3.2-Helse-miljoe-og-sikkerhet/3.2.3-HMS-retningslinjer/Retningslinjer-for-registrering-maaling-og-utvikling-av-miljoeindikatorer/`
+-  :doc:`/regler/Del-3-Personal-og-HMS/3.2-Helse-miljoe-og-sikkerhet/3.2.3-HMS-retningslinjer/Retningslinje-for-befaring-foer-innflytting/`
+-  :doc:`/regler/Del-3-Personal-og-HMS/3.2-Helse-miljoe-og-sikkerhet/3.2.3-HMS-retningslinjer/Retningslinje-for-aarlig-kontroll-av-avtrekkskap/`

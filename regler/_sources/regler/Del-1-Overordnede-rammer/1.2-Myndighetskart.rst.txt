@@ -1,0 +1,1198 @@
+==================
+1.2 Myndighetskart
+==================
+
+.. contents:: Innholdsfortegnelse
+   :depth: 3
+
+MYNDIGHETSKARTET DEL I
+======================
+
+I) MYNDIGHETSUTØVELSE 
+~~~~~~~~~~~~~~~~~~~~~
+
+a) Generelt om organisering og myndighetsutøvelse
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Den myndigheten som i henhold til universitets- og høyskoleloven
+(uhl.) og annet grunnlag er lagt til Universitetet i Bergen, ligger i
+utgangspunktet hos universitetsstyret. Alle beslutninger ved
+institusjonen som er truffet av andre organer enn universitetsstyret,
+treffes på styrets vegne og på dettes ansvar. Det påligger av denne
+grunn styret og andre overordnede organer å føre tilsyn med virksomheten
+til underordnede organer. Videre har universitetsstyret rett og plikt
+til å fastsette virksomhetens interne organisering på alle nivåer.
+
+Formål
+''''''
+
+Formålet med myndighetskartet er å gi en oversikt over intern fordeling
+av myndighet og fullmakter til å binde UiB overfor omverdenen, samt
+regler for delegasjon ved Universitetet i Bergen.
+
+b) Definisjon og virkeområde
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Med myndighetskart for UiB forstås en oversikt over hvilken
+beslutningsmyndighet som overordnet myndighet har tillagt
+universitetsstyret, rektor eller universitetsdirektør. Dette kan være
+Stortinget gjennom lovvedtak eller fagdepartement gjennom forskrift,
+reglement, tildelingsbrev eller på annen måte. Myndighetskartet viser
+også den beslutningsmyndighet som universitetsstyret har delegert til
+rektor og til universitetsdirektør og i hvilken grad slik myndighet er
+videredelegert i organisasjonen. Denne delen av myndighetskartet
+presiserer og avgrenser de enkelte lederstillingers
+beslutningsmyndighet. Beslutningsmyndigheten utøves innenfor de til
+enhver tid tildelte økonomiske rammer og ellers i samsvar med lov og
+forskrifter. Forøvrig vises til del om Økonomiforvaltning og til
+tildelingsbrev med bevilgninger fra universitetsstyret.
+
+Det fremgår også av myndighetskartet hvilke saksfelt som er delegert til
+fakultetene, men myndighetskartet gir ikke en oversikt over hvordan
+fakultetene eventuelt videredelegerer oppgaver. Fakultetene kan selv
+lage egne oversikter over myndighet og fullmakter. Dette kan omfatte
+egne delegasjonsvedtak og utøves innenfor de til enhver tid gjeldende
+rammer og ellers i samsvar med lov, forskrifter og universitetets egne
+regler, retningslinjer o.l.
+
+Med fullmakt forstås den myndighet en person ansatt ved UiB har til å
+handle på universitetets vegne. Overfor omverdenen vil ansatte ved UiB,
+som opptrer på institusjonens vegne, normalt opptre i kraft av sin
+stilling og har således såkalt stillingsfullmakt. Fullmakten er
+imidlertid bundet av de begrensninger som følger av reglement, gjeldende
+myndighetskart og instrukser.
+
+Inngår en person ansatt ved UiB en avtale eller treffer et vedtak i UiBs
+navn og innenfor fullmaktens grenser, stifter avtalen eller vedtaket
+rett og plikt umiddelbart for UiB. Dette gjelder likevel ikke hvis den
+ansatte handler i strid med gitte forskrifter, instrukser eller
+fullmakter og tredjemann forstår det eller burde forstå det.
+
+En ansatt som går ut over sin myndighet og / eller fullmakt ved UiB kan
+komme i erstatningsansvar både overfor UiB og tredjemann.
+
+II) DELEGASJON AV MYNDIGHET 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hovedprinsipper ved delegasjon
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Delegasjon er en beslutning av et organ om at også et annet organ kan
+utøve den myndighet det delegerende organ innehar. Delegasjon må skilles
+fra overføring av myndighet til andre. Det kan bare delegeres til
+underordnede organer, dvs. organer som kan instrueres av det delegerende
+organ. Delegasjon innebærer ikke at det delegerende organ gir fra seg
+retten til å utøve den delegerte myndighet. Det delegerende organ kan
+fortsatt behandle saker innenfor det saksområdet delegasjonen omfatter.
+Det er adgang til delegasjon så langt dette er faglig forsvarlig og noe
+annet ikke er fastsatt i lov eller delegasjonsvedtak.
+
+Prinsippene om delegasjon medfører at:
+
+-  delegasjonsvedtaket/fullmakten kan tilbakekalles
+-  det delegerende organ kan gi instrukser om hvordan den tildelte
+   avgjørelsesmyndigheten skal utøves generelt eller i den enkelte sak
+-  det delegerende organ kan avgjøre enkeltsaker som i utgangspunktet
+   faller inn under den delegerte myndighet
+-  det underordnede organ kan instrueres om hvordan saken skal avgjøres
+-  det delegerende organ kan omgjøre vedtak av det underordnede organ i
+   samme utstrekning som om det selv hadde truffet vedtak i saken
+-  det delegerende organ har fortsatt det formelle ansvaret for
+   behandlingen av sakene
+
+III) DELEGASJON ETTER UNIVERSITETS- OG HØYSKOLELOVEN 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Lov av 1. august 2024 om universiteter og høyskoler (uhl.) § 4-2
+gir regler om delegasjon. Det fremgår her at universitetsstyret kan
+delegere myndighet til "andre ved institusjonen".
+
+Delegasjon kan skje i den utstrekning dette anses som hensiktsmessig og
+ikke er åpenbart uforsvarlig, så lenge det ikke følger av loven at
+"styret selv" skal treffe vedtak eller det er andre begrensninger i
+adgangen til å delegere. Styret selv fastsetter også virksomhetens
+interne organisering på alle nivåer. Følgende gir en oversikt over
+saksområder som styret ikke kan delegere.
+
+1) Universitetsstyret
+^^^^^^^^^^^^^^^^^^^^^
+
+Saksområder som universitetsstyret ikke kan delegere:
+
+-  Fastsette intern organisering på alle nivåer, uhl. § 4-1 (5)
+-  Styret selv fastsetter sammensetningen av ansettelsesutvalget, ved
+   ansettelse i undervisnings- og forskerstillinger, uhl. § 7-2 (4)
+-  Styret selv ansetter avdelingsledere og administrativ leder. 
+   Styret selv kan fastsette at avdelingsleder skal ansette leder for
+   grunnenhet, uhl § 7-4
+-  Vedtak om avskjed, oppsigelse, suspensjon eller ordensstraff når
+   universitetsstyret er tilsettingsmyndighet, jf. statsansatteloven § 30 (1). 
+-  Klage på vedtak om ordensstraff, oppsigelse, suspensjon og avskjed avgjøres av
+   styret selv eller av departementet når vedtaket er fattet av styret, uhl § 7-10. 
+-  Unntak fra kravet om at sensur må foreligge innen 3 uker etter 
+   eksamen, uhl. § 11-7 (4).
+-  Forskrift om gjennomføring av eksamener og prøver, herunder vilkårene
+   for ny prøve, og om oppmelding og vilkårene for
+   oppmelding, uhl. § 11-6 (3). 
+
+2) Rektors myndighet
+^^^^^^^^^^^^^^^^^^^^
+
+Rektor
+''''''
+
+Universitetet i Bergen har ordning med valgt rektor. Universitets- og
+høyskolelovens § 4-6 (2) inneholder bestemmelser om valgt rektors ansvar:
+
+a) Rektor er styrets leder. Rektor har på styrets vegne det overordnede
+   ansvar for og ledelse av institusjonens virksomhet og fører tilsyn med
+   denne. 
+
+b) Rektor avgjør saker i det omfang disse ikke kan utsettes til styret. 
+   Rektor, i samråd med universitetsdirektør har fullmakt til å avgjøre
+   saker som bør avgjøres før neste ordinære styremøte, og som ikke
+   anses som viktige nok til at ekstraordinært møte innkalles. I sak om
+   avskjed eller suspensjon kan rektor bare beslutte kortvarig suspensjon i
+   tjenesten, i påvente av styrets behandling.
+
+3) Universitetsdirektørens myndighet
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Universitets- og høyskoleloven § 4-7 inneholder bestemmelser om
+universitetsdirektørens ansvar:
+
+(1) Dersom styret har vedtatt at rektor skal velges etter § 4-6 første
+ledd, skal det ved hver institusjon være en administrerende direktør
+
+(2) Direktøren er øverste leder for den samlede administrative
+virksomhet ved institusjonene, innenfor de rammer styret fastsetter.
+
+(3) Direktøren er sekretær for styret og skal, etter samråd med rektor,
+forberede og gi tilrådning i de saker som legges fram for dette.
+
+Direktøren er også, personlig eller ved en av sine underordnede,
+sekretær for de øvrige styringsorganer ved institusjonen.
+
+(4) Direktøren er ansvarlig for iverksetting av de vedtak som treffes i
+institusjonens styringsorganer, og for disponering av ressurser og
+eiendom i samsvar med de vedtak som er gjort av styret.
+
+(5) Direktøren er ansvarlig for at den samlede økonomi- og
+formuesforvaltning skjer i samsvar med departementets generelle
+bestemmelser om økonomiforvaltningen og forutsetninger for tildeling av
+bevilgninger. Direktøren utarbeider og legger fram for styret
+budsjettforlag og årsregnskap, og holder rektor løpende orientert om
+regnskapets stilling i forhold til budsjettet og om andre forhold av
+betydning for institusjonenes virksomhet.
+
+(6) Er styret, rektor eller administrerende direktør i tvil om et
+styrevedtak vil ligge innenfor bestemmelser eller forutsetninger for
+bevilgningene m.m., skal departementet avgjøre tvilsspørsmålet.
+
+(7) Direktøren har generell anvisningsmyndighet og er legitimert til å
+utferdige bindende dokument om institusjonenes eiendommer, jf. § 12-3, IKKE i ny lov
+så langt ikke annet følger av lov eller fremgår av vedkommende
+hjemmelsdokument.
+
+I tillegg vil deler av universitetsdirektørens oppgaver være bestemt av
+universitetsstyrets instruks for institusjonens daglige ledelse, jf.
+uhl. § 4-1 (4).
+
+IV) INTERN DELEGASJON FRA UNIVERSITETSSTYRET TIL: 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1) Universitetsdirektøren
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-  Delegasjonsvedtak fattet av universitetsstyret
+-  Bevilgningsreglementet og Hovedinstruks for økonomiforvaltningen
+-  Instruks for universitetsdirektøren, jf. regelsamlingen DEL 1, kap.
+   1.3.1, jf uhl. § 4-1 (4)
+
+Vedtatte instruks for universitetsdirektøren er et tjenelig virkemiddel
+for å sikre et godt samspill mellom rektor og universitetsdirektør i et
+helhetlig ledelsesperspektiv. Universitetsadministrasjonen skal på
+grunnlag av universitetslov, forvaltningslov og annet relevant regelverk
+bidra til et godt samspill med den faglige virksomheten og
+universitetets primæroppgaver: forskning, utdanning og formidling.
+Etiske retningslinjer for statstjenesten og institusjonens egne regler
+for etisk atferd skal alltid ligge til grunn for virksomheten.
+
+Beslutninger truffet av andre administrativt tilsatte enn direktøren,
+treffes i medhold av delegasjon fra denne. Slik delegasjon kan også
+fremgå av den generelle angivelse av vedkommende tilsattes ansvarsområde
+(stillingsfullmakt). Fullmakt på et saksfelt omfatter rett og plikt til
+å treffe alle beslutninger på saksfeltet innen de rammer fullmaktene
+setter og innen de rammer som er gitt for adgang til delegering.
+
+Saker av prinsipiell betydning, saker som forplikter universitetet
+økonomisk eller juridisk utover ett år og saker av universitetspolitisk
+karakter skal forelegges universitetsdirektøren, dersom ikke annet
+uttrykkelig framgår. Administrative ledere på alle nivå må holde
+universitetsdirektøren løpende orientert om viktige avgjørelser innen
+eget ansvarsområde.
+
+Ved klage kan en beslutning fattet på fullmakt omgjøres av
+universitetsdirektøren. Klagen skal i så fall først forelegges
+angjeldende organisasjonsenhet til uttalelse. Dersom
+universitetsdirektøren uten forutgående saksbehandling treffer en
+avgjørelse som hører inn under fullmakt delegert til et
+fakultet/avdeling, skal fakultetet/avdelingen omgående underrettes om
+vedtaket.
+
+Delegert myndighet til administrativ avdeling tilligger vedkommende
+leder. Underordnede ved avdelingen kan bare treffe vedtak etter fullmakt
+fra den administrative leder. Hvis det er behov for slik intern
+underdelegasjon (subdelegasjon), utarbeides en oversikt over
+ansvarspunktene som forelegges universitetsdirektøren til godkjennelse.
+Delegert anvisningsmyndighet kan ikke delegeres videre uten
+universitetsdirektørens samtykke.
+
+Universitetsdirektøren kan når som helst ta opp til vurdering endring av
+delegert myndighet.
+
+Det skal/bør utpekes en fast stedfortreder for hver lederstilling.
+Eventuell stedfortrederordning utover dette meddeles skriftlig til
+universitetsdirektør v/HR-avdelingen. For
+instituttene underrettes også fakultetssekretariatet. Såfremt det ikke
+er utpekt midlertidig stedfortreder, anviser fakultetsdirektør
+instituttets utgifter. UiBs bankfullmakter innehas av Økonomiavdelingen
+og baseres på kontrasignatur.
+
+2) Nemnd for studentsaker
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Saksområder som universitetsstyret har delegert til Nemd for studentsaker
+jf uhl. § 14-1 og Regler for Nemnd for studentsaker ved
+UiB sist godkjent av Universitetsstyret 17.6.2025:
+
+-  Klager over enkeltvedtak, jf. universitets- og høyskolelovens §§ 14-1 (2)
+-  Klager over avgjørelser om permisjon og fravær, samt om helt eller
+   delvis tap av studieretten, jf. «Forskrift om opptak, studier,
+   vurdering og grader ved Universitetet i Bergen»
+-  Klager i forbindelse med valg av representanter og ombud ved
+   Universitetet i Bergen.
+-  Saker etter universitets- og høyskolelovens §§ 12-1 til 12-8
+-  Klagesaker i henhold til bestemmelsene om klage i «Forskrift for
+   graden philosophiae doctor (ph.d.) ved Universitetet i Bergen»
+-  Bortvisning og utestenging for forstyrrende opptreden,jf. uhl § 12-5
+-  Saker om salærnedsettelse, uhl jf. § 12-9  
+-  Bortvisning og utestenging på grunn bruk av klesplagg som dekker ansiktet, uhl. § 12-8
+
+Direktoratet for høyere utdanning og kompetanse er klageorgan avgjørelser som gjelder
+avslag på krav om dokumentinnsyn etter offentleglova og etter reglene om partsinnsyn
+i forvaltningsloven.
+
+3) Øvrige saksområder som universitetsstyret kan delegere:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-  Fastsetting av særlige faglige minstekrav ved opptak til høyere grads
+   studier, § 8-1 (6)
+-  Fastsetting av undervisningsterminer, § 11-2
+-  Fastsetting av studieplan, herunder bestemmelser om obligatorisk
+   kurs, praksis og lignende og om vurderingsformer, § 11-1
+-  Tilsetting av leder for avdeling eller grunnenhet, § 7-4
+-  Regler om forhold som er særegne for den enkelte eksamen 
+-  Ansettelse i undervisnings- og forskerstillinger, § 7-2 (4) 
+
+4) Fakultetene 
+^^^^^^^^^^^^^^
+
+Forutsatt at styret har delegert oppgaven til fakultetene har
+universitets- og høyskoleloven satt skranker for hva fakultetene kan
+delegere videre til instituttene (grunnenhetene). Følgende kan ikke
+fakultetene delegere:
+
+-  Fastsetting av studieplan. § 11-1
+-  Godskriving av grad, yrkesutdanning, fag eller emne fra andre
+   akkrediterte universitet- og høyskoler, § 9-1
+-  Godkjenning av grader og utdanninger fra institusjoner som ikke går
+   inn under loven, § 9-2
+-  Fritak fra eksamen eller prøve, § 9-3
+-  Utferdigelse av vitnemål, § 11-12
+-  Utlysning og tilsetting i undervisnings- og forskerstilling, § 7-2
+   (4). Delegert til fakultetsstyret, jf. Regler for
+   fakultetsorganene.
+
+I tillegg følger det av lovens system når det gjelder
+funksjonsfordeling mellom nivåene at delegasjon til grunnenhetene som
+hovedregel bare vil kunne omfatte administrative spørsmål; at alle
+viktigere faglige spørsmål og alle tilsettingssaker som ikke avgjøres
+på universitetsstyrenivå, skal avgjøres ved vedkommende
+fakultet/avdeling. Disse siste delegasjonsskrankene vil - og er
+tilsiktet å skulle være - styrende for fakultetsinndelingen.
+Fakultetene skal være enheter som størrelsesmessig, faglig og
+administrativt fremtrer som et egnet beslutningsnivå for disse typer
+avgjørelser.
+Se :doc:`/regler/Del-1-Overordnede-rammer/1.3-Regler-for-styringsorganene/1.3.2-Regler-for-styringsorganene-ved-fakultetene-og-instituttene/Regler-for-styringsorganene-ved-fakultetene-og-instituttene`.
+
+MYNDIGHETSKARTET DEL II
+=======================
+
+**Oversikt over saksområder fordelt på myndighetsnivå**
+
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Saksområde**                                            | **Myndighetsnivå**                                        | **Merknader**                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Lede universitetsstyret                                 | Rektor                                                    | uhl. § 4-6, Styreinstruksen 13.02.25                      |
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Langsiktig planlegging, mål og resultatkrav             | Universitetsstyret                                        | uhl. § 4-1                                                |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Retningslinjer og prinsipper for ressursbruk, samt      | Universitetsstyret                                        | uhl. § 4-1                                                |
+|   fordeling                                               |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Tilsyn og rapportering                                  | Universitetsstyret                                        | uhl. § 4-1                                                |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Fastsette virksomhetens interne organisering på alle    | Universitetsstyret                                        | uhl. § 4-1                                                |
+|   nivå                                                    |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Årsmelding, årsregnskap og budsjettforslag              | Universitetsstyret                                        | uhl. § 4-1                                                |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Instruks for universitetsdirektøren**                   | Universitetsstyret                                        | Fastsatt av universitetsstyret 13.02.25, jf uhl. § 4-7    |
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Ledelse av den samlede administrative virksomheten og   | Universitetsdirektør                                      | Jf. Styreinstruks av 13.02.25                             |
+|   det operative ansvaret for de arbeidsområdene som       |                                                           |                                                           |
+|   omfattes av Hovedregler for økonomiforvaltningen        |                                                           |                                                           |
+|   ved UiB, fastsatt av styret har det operative           |                                                           |                                                           |
+|   ansvaret for de arbeidsområdene som omfattes av         |                                                           |                                                           |
+|   Hovedregler for økonomiforvaltningen ved UiB,           |                                                           |                                                           |
+|   fastsatt av styret.                                     |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Forberede og legge til rette for universitetsstyrets    | Universitetsdirektør                                      | Jf. Styreinstruks av 13.02.25                             |
+|   arbeid                                                  |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Iverksette universitetsstyrets beslutninger             | Universitetsdirektør                                      | Jf. Styreinstruks av 13.02.25                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Forberede og legge til rette for rektoratets arbeid og  | Universitetsdirektør                                      | Jf. Styreinstruks  av 13.02.25                            |
+|   oppgaver                                                |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Holde rektor løpende informert institusjonens økonomi   | Universitetsdirektør                                      | Jf. Styreinstruks  av 13.02.25                            |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Holde rektor løpende informert om saker og aktivitet i  | Universitetsdirektør                                      | Jf. Styreinstruks  13.02.25                               |
+|   administrasjonen                                        |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Legge til rette for godt samspill og dialog med faglig  | Universitetsdirektør                                      | Jf. Styreinstruks 13.02.25                                |
+|   ledelse på alle nivå                                    |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Følge opp fakultetene og grunnenhetene som ledd i den   | Universitetsdirektør                                      | Jf. Styreinstruks  13.02.25                               |  
+|   løpende driften av universitetet                        |                                                           |                                                           |        
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Ansvarlig for institusjonens personalpolitikk           | Universitetsdirektør                                      | Jf. Styreinstruks 13.02.25                                |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Dialog med arbeidstakerorganisasjonene                  | Universitetsdirektør                                      | Jf. Styreinstruks 13.02.25                                |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Iverksette beredskapsplan                               | Universitetsdirektør                                      | Sentral beredskapsplan for UiB                            |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Ansvarlig for institusjonens utøvelse av eierskap       | Universitetsdirektør                                      | Jf. Styreinstruks s 13.02.25                              |
+|   hvor universitetet representerer staten                 |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Tilrettelegging for nemndsbehandling av                 | Universitetsdirektør                                      | Jf. 10 etiske regler, punkt 10 for Universitetet i Bergen |
+|   forskningsetiske interessekonflikter                    |                                                           | vedtatt av universitetsstyret 21.10.06, og                |
+|                                                           |                                                           | Redelighetsutvalget                                       |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Behandle saker om uredelighet eller brudd på god        | Redelighetsutvalget                                       | Forskningsetikkloven § 6 og Retningslinger for            |
+|   vitenskapelig praksis                                   |                                                           | behandling av saker om mulig brudd på anerkjente          |
+|                                                           |                                                           | forskningsetiske normer ved Universitetet i Bergen        |
+|                                                           |                                                           | vedtatt av universitetsstyret 02.02.2023                  |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+
+**Oversikt over saksområder fordelt på myndighetsnivå**
+
+STYRINGSORDNING - VALG 
+~~~~~~~~~~~~~~~~~~~~~~
+
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Saksområde**                                            | **Myndighetsnivå**                                        | **Merknader**                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Valg av styringsformer                                  | Universitetsstyret                                        | Jf. uhl. 4-6                                              |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Fastsettelse av valgreglement                           | Universitetsstyret                                        | Fastsatt av universitetsstyret med endring senest         |
+|                                                           |                                                           | 05.06.2024                                                |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Sammensetning av fakultetsstyre                         | Universitetsstyret                                        | Jf. uhl. § 4-1 (5) og  Regler for styringsorganene ved    |
+|                                                           |                                                           | fakultetene og instiutttene § 2 Delegert til fakultet     |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Sammensetning av instituttråd                           | Universitetsstyret                                        | Regler for styringsorganene ved fakultetene og            |
+|                                                           |                                                           | instituttene § 13 Delegert til fakultet                   |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Navneendring**                                          |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| a) fakultet / institutt                                   | Universitetsstyret                                        | uhl. § 4-1 (5)                                            |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| b) administrativ avdeling                                 | Universitetsdirektøren                                    |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Organisering/reorganisering**                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| a) fakultet/institutt/administrasjon                      | Universitetsstyret                                        | uhl. § 4-1 (5)                                            |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| b) Internt i fakultet                                     | Universitetsstyret                                        | uhl. § 4-1 (5) jf. Regler for styringsorganene  ved       |
+|                                                           |                                                           | fakultetene og instiutttene                               |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| c) Internt i et institutt                                 | Fakultetsstyre                                            | Ev. v/dekanus, jf. Regler for styringsorganene ved        |
+|                                                           |                                                           | fakultetene og instituttene                               |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| d) Internt i administrativ avdeling                       | Universitetsdirektør                                      | Mindre org.endringer (ikke forh. ihht. H.avt.§ 13) = >    |
+|                                                           |                                                           | Avdelingsledernivå                                        |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+
+**Oversikt over saksområder fordelt på myndighetsnivå**
+
+STUDENTOPPTAK 
+~~~~~~~~~~~~~
+
+**Grunnstudier** 
+ 
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Saksområde**                                            | **Myndighetsnivå**                                        | **Merknader**                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Opptaksramme for studieprogrammene                      | Universitetsstyret                                        | uhl. § 8-3 (2), jf. UiBs opptaksforskrift § 4-1 (1)       |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Grunnlag for opptak                                     | Kunnskapsdepartementet                                    | uhl. §§ 8-1 og 8-2, jf. opptaksforskriften kapittel       |
+|                                                           |                                                           | 2 til 4                                                   |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Krav om politiattest                                    | Kunnskapsdepartementet                                    | uhl. § 12-2, jf. opptaksforskriften kapittel 6            |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+ 
+| - Regler for rangering av søkere                          | Kunnskapsdepartementet                                    | uhl. § 8-4 (2), jf. opptaksforskriften kapittel 7         |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Nasjonale kvoter                                        | Kunnskapsdepartementet                                    | uhl. §§ 8-4, jf opptaksforskriften §§ 7-2 og 7-3          |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Utfyllende regler om opptak                             | Universitetsstyret/rektor                                 | UiBs opptaksforskrift § 8-1                               |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Søknad om opptak                                        | Tjensten samordna opptak                                  | uhl. § 8-5                                                |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Klagebehandling i saker om opptak                       | Nasjonal klagenemnd for opptak gjennom Samordna opptak    | uhl. § 14-2, jf. opptaksforskrift § 8-1 (2)               |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Klage på vedtak om opptak (realkompetanse)              | Nemd for studentsaker                                     | uhl. § 14-2, jf. opptaksforskrift § 8-1 (2)               |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Klage på vedtak om dispensajon                          | Nasjonal klagenemnd for opptak gjennom Samordna opptak    | uhl. § 14-2, jf. opptaksforskrift § 8-1 (2)               |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Klage på vedtak om opptak etter disensasjon fra         | Nemnd for studentsaker                                    |                                                           |
+|   generell studiekompetanse                               |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Dispensasjon fra generell studiekompetanse              | Saksbehandler i det samordna opptaket                     |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+|**Høyere grad og lokale opptak**                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Generelle minstekrav for opptak 	                    | Kunnskapsdepartementet                                    | Mastergradsforskriften §§ 3 og 5                          |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Faglig grunnlag og minstekrav for opptak til særskilte  | Fakultetet                                                | uhl. § 8-1 (6), jf. masterforskrifta § 2 og UiBs          |
+|   studieprogram                                           |                                                           | opptaksforskrift § 2-2 (2)                                |   
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Regler for rangering av søkere                          | Universitetsstyret (fakultetet i særskilte tilfeller)     | uhl. § 8-1 (6), jf. masterforskrifta § 2 og UiBs          |
+|                                                           |                                                           | opptaksforskrift kapittel 5                               | 
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Nærmere krav til yrkespraksis for eraringsbastert master| Fakultetet                                                | uhl. § 8-1 (6), jf. masterforskrifta § 2 og UiBs          |
+|                                                           |                                                           | opptaksforskrift § 2-2 (5)                                |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Klage                                                   | Nemnd for studentsaker                                    | uhl. § 14-1                                               |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Videreutdanning enkelt emner**                          |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Faglig grunnlag                                         | Universitetsstyret/fakultetene                            |  UiBs opptaksforskrift § 2-3                              |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Opptak                                                  | Faktultet                                                 |  Grads og studieforskrift § 2-3 (3)                       |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Rangering	                                            | Fakultet                                                  |  UiBs opptaksforskrift §§ 5-4 og 5-7                      |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Klage                                                   | Nemnd for studentsaker                                    |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+
+
+**Oversikt over saksområder fordelt på myndighetsnivå**
+
+UNDERVISNING, GRADER, EKSAMEN 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Saksområde**                                            | **Myndighetsnivå**                                        | **Merknader**                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Undervisning**                                          |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Fastsette grader og titler                              | Kunnskapsdepartementet                                    | uhl. §§ 3-7 og 3-8, Gradsforskriften § 3                  |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Opprette og legge ned studieprogram                     | Universitetsstyret                                        | uhl. § 3-4 (2) og UiBs studieforskrift § 3-1 (1)          |                                         
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Opprette og legge ned emner og studieretninger          | Fakultetsstyret                                           | uhl. § 3-4 (2) og UiBs studieforskrift § 3-1 (2)          |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Endre studieprogram (studieplaner)                      | Fakultetsstyret                                           | uhl. § 3-4 (2) og UiBs studieforskrift § 3-1 (4)          |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Faglig godkenning m.v. av tidligere studier/            | Fakultetsstyret                                           | uhl. §§ 9-1 til 9-5, jf. UiBs studieforskrift § 5-1 (1)   |
+|   realkompetanse                                          |                                                           | bokstav h                                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Læringsmiljø**                                          |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Overordnet ansvar for å trygge læringsmiljøet           | Universitetsstyret                                        | uhl. § 10-1                                               |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Råd for å trygge læringsmiljøet                         | Læringsmiljøutvalget                                      | uhl § 10-10, og S 87/17 i Universitetsstyret              |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Advarsel grunnet grov forstyrrende oppførslel           | Universitetsdirektøren/Nemnd for studentsaker             | uhl. § 12-5 (2), jf. UiBs studieforskrift 4-7             |                                                  
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Grader**                                                |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Kreere doktorgrad                                       | Fakultetstyret                                            | uhl. § 3-8 og gradsforskriften § 3, jf. UiBs              |
+|                                                           |                                                           | phd-forskrift § 16                                        |                                                     
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Utferdige vitnemål og Diploma supplement                | Fakultetsstyret                                           | uhl. § 11-12 og UiBs studieforskrift §§ 12-1 og 12-2      |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Utferdige vitnemål for fellesgrad                       | Fakultetsstyret                                           | uhl. § 11-12 og UiBs studieforskrift §§ 12-1 og 12-2      |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Eksamen**                                               |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Utfyllende regler om gjennomføring av eksamen m.v.      | Fakultetsstyret                                           | uhl. § 11-6 (3), jf. UiBs studieforskrift § 7-4 (1) og (2)|
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Oppnevne sensorer                                       | Fakultetet                                                | uhl. § 11-7 (1), jf. UiBs studieforskrift § 9-8           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Utvidet sensurfrist - særlige grunner                   | Universitetsdirektøren                                    | uhl. § 11-7 (4), jf. UiBs studieforskrift § 9-5 (2)       |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Utvidet sensurfrist - avhandlinger ol.                  | Universitetsstyret                                        | uhl. § 11-7 (4)                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Klage ved formelle feil                                 | Nemnd for studentsaker                                    | uhl. § 11-9 (7). Regler for Nemnd fors studentsaker  § 1  |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Disiplinærtiltak mv.**                                  |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Annullering av eksamen/godkjennig                       | Nemnd for studentsaker                                    | Uhl. § 12-4, jf. Regler for Nemnd for studentsaker § 1    |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Bortvisning og utestengelse                             | Nemnd for studentsaker                                    | Uhl. §§ 12-1 til 12-6 og 12-8, jf. Regler for Nemnd for   |
+|                                                           |                                                           | studentsaker § 1                                          |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Karantenetid grunnet bruk av falske dokumenter          | Nemnd for studentsaker                                    | Uhl. § 12-1, jf. Regler for Nemnmd for studentsaker § 1   |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+
+
+**Oversikt over saksområder fordelt på myndighetsnivå**
+
+ØKONOMIFORVALTNING 
+~~~~~~~~~~~~~~~~~~
+
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Saksområde**                                            | **Myndighetsnivå**                                        | **Merknader**                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Budsjett**                                              |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Utarbeide budsjettforslag og holde rektor løpende         | Universitetsdirektør                                      | Jf. uhl. § 4-1, jf § 4-7 og Instruks av 13.02.25.         |
+| orientert om regnskapets stilling i forhold til           |                                                           |                                                           |
+| budsjettet og om andre forhold av                         |                                                           |                                                           |
+| betydning for institusjonens virksomhet.                  |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Vedta institusjonens budsjettforslag, årsplaner og      | Universitetsstyret                                        | Jf. uhl. § 4-1                                            | 
+|   årsrapport                                              |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Ansvar for at den samlede økonomi- og                     | Universitetsdirektør                                      | Jf. uhl. § 4-1, jf § 4-7 og Instruks av 13.02.25.         |
+| formuesforvaltning skjer i samsvar med departementets     |                                                           |                                                           |
+| generelle bestemmelser om                                 |                                                           |                                                           |
+| økonomiforvaltningen og forutsetninger for tildeling av   |                                                           |                                                           |
+| bevilgninger.                                             |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| a) Fakultet /avdeling                                     | Universitetsstyret/ Universitetsdirektør                  | Jf. uhl. § 4-1                                            |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| b) Institutt                                              | Fakultetsstyre                                            | Ev. v/dekanus. Jf. uhl. § 4-2                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Søknader om tilleggsbevilgninger                        | Universitetsledelsen                                      |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Innkjøp**                                               |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Fullmakt til å foreta disposisjoner som medfører        | Person med budsjettdisponerings-myndighet                 | Reglement for økonomistyr. i staten (R) Bestemmelser om   |
+|   økonomiske forpliktelser for virksomheten               |                                                           | økonomistyr. i staten(B) 12.12.03                         |
+| - herunder sikre at alle bestillinger er skriftlige og    |                                                           |                                                           |
+|   at disse er godkjent før de sendes til leverandør       |                                                           | Hovedinstruks om økonomiforvaltning (HI) 10.07.2014       |
+| - Godkjenne iverksetting av alle strategiske              |                                                           |                                                           |
+|   anskaffelser med verdi over 100 000 NOK                 |                                                           | Hovedregler for økonomiforvaltningen for UiB(HR)          |
+| - Signere alle kjøpskontrakter over 100 000 NOK           |                                                           | 12.02.15.                                                 |
+|                                                           |                                                           |                                                           |
+|                                                           |                                                           | Retningslinjer fra universitetsdirektør i de årlige       |
+|                                                           |                                                           | bevilgningsbrev                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Lønn**                                                  |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Fullmakt til å foreta disposisjoner som medfører        | Person med budsjettdisponerings-myndighet                 | Reglement for økonomistyr. i staten (R) Bestemmelser om   |
+|   økonomiske forpliktelser for virksomheten               |                                                           | økonomistyr. i staten(B) 12.12.03                         |
+| - herunder sikre at alle disposisjoner som medfører       |                                                           |                                                           |
+|   utbetaling av lønn, honorarer eller dekning av          |                                                           | Hovedinstruks om økonomiforvaltning (HI) 10.07.2014       |
+|   reiseutgifter er iht regelverk                          |                                                           |                                                           |
+|   og en naturlig del av virksomhetens ansvarsområde       |                                                           | Hovedregler for økonomiforvaltningen for UiB(HR)          |
+|                                                           |                                                           | 12.02.15.                                                 |
+|                                                           |                                                           |                                                           |
+|                                                           |                                                           | Retningslinjer fra universitetsdirektør i de årlige       |
+|                                                           |                                                           | bevilgningsbrev                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Utgående fakturabehandling**                            |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Fullmakt til å foreta disposisjoner som medfører        | | Person med budsjettdisponeringsmyndighet                | Reglement for økonomistyr. i staten (R) Bestemmelser om   |
+|   økonomiske forpliktelser for virksomheten               |                                                           | økonomistyr. i staten(B) 12.12.03                         |
+| - herunder sikre at forutsetning er tilstede før          | | Økonomidirektør                                         |                                                           |
+|   utstedelse av kreditnotagrunnlag                        |                                                           | Hovedinstruks om økonomiforvaltning (HI)10.07.14          |
+| - Godkjenne videre oppfølging av ikke oppgjorte krav og   | | Unntak: Odontologisk klinikk                            |                                                           |
+|   oversende til inkassobyrå for videre inndriving         |                                                           | Hovedregler for økonomiforvaltningen for UiB (HR)         |
+| - Beslutning om iverksette rettslig inndriving krever     |                                                           | 12.02.15.                                                 |
+|   godkjenning fra KD - ref. kapitlet om partsforhold ved  |                                                           |                                                           |
+|   søksmål                                                 |                                                           | Retningslinjer fra universitetsdirektør i de årlige       |
+| - Beslutning om å unnlate å avbryte foreldelsesfrist      |                                                           | bevilgningsbrev                                           |
+|                                                           |                                                           |                                                           |
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Andre saksområder - regnskap**                          |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Fullmakt til å foreta disposisjoner som medfører        |                                                           | Reglement for økonomistyr. i staten (R) Bestemmelser om   |
+|   økonomiske forpliktelser for virksomheten               |                                                           | økonomistyr. i staten(B) 12.12.03                         |
+| - herunder sikre at alle disposisjoner som medfører       |                                                           |                                                           |
+|   utbetaling til leverandør eller ansatt er iht regelverk |                                                           | Hovedinstruks om økonomiforvaltning (HI) 10.07.14         |
+|   og en naturlig del av                                   |                                                           |                                                           |
+|   virksomhetens ansvarsområde                             |                                                           | Hovedregler for økonomiforvaltningen for UiB(HR)          |
+|                                                           |                                                           | 12.02.15.                                                 |
+|                                                           |                                                           |                                                           |
+|                                                           |                                                           | Retningslinjer fra universitetsdirektør i de årlige       |
+|                                                           |                                                           | bevilgningsbrev                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Lederes egne utgifter                                   | Overordnet leder som har budsjettdisponeringsmyndighet    | Universitetsdirektør anviser rektors «egne utgifter»      |
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+|  - Fullmakt til å beslutte salg eller avhendelse av       | Person med budsjettdisponeringsmyndighet                  |                                                           |
+|    utstyr                                                 |                                                           |                                                           |
+|  - herunder sikre at disposisjonen er gjort etter         |                                                           |                                                           |
+|    grundig vurdering av likebehandling og                 |                                                           |                                                           |
+|    konkurransehensyn                                      |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Bidrags- og oppdragsfinansiert aktivitet**              |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Ref. eget kapittel                                        |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+
+**Oversikt over saksområder fordelt på myndighetsnivå**
+
+EKSTERNT SAMARBEID, BIDRAGS- OG OPPDRAGSFINANSIERT VIRKSOMHET
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Saksområde**                                            | **Myndighetsnivå**                                        | **Merknader**                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **A. Selskapsdeltakelse**                                 | Universitetsstyret                                        | Rammevilkår:                                              |
+|                                                           |                                                           |                                                           |
+|                                                           |                                                           | - Reglement om statlige universiteter og høyskolers       |
+|                                                           |                                                           |   forpliktende samarbeid og erverv av aksjer 28.6.2013/   |
+|                                                           |                                                           |   Rundskrive F-07-13                                      |
+|                                                           |                                                           | - Retningslinje for forvaltning av statens eierinteresser |                                                                                                                                                                 
+|                                                           |                                                           |   i aksjeselskaper ved Universitetet i Bergen             |
+|                                                           |                                                           |                                                           |
+|                                                           |                                                           | - Tildelingsbrev fra KD (årlig)                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| A.1 Opprette nye selskap og kjøp og salg av aksjer        | Universitetsstyret                                        |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| A.2 Bruke utbytte fra selskap som virksomheten har kjøpt  | Universitetsstyret                                        |                                                           |
+| aksjer i, eller etter fullmakt forvalter, til drift eller |                                                           |                                                           |
+| til kapitalinnskudd                                       |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| A.3 Fullmakt til å forvalte statens eierinteresser på     | Universitetsstyret                                        | Tildelingsbrev fra KD (årlig),                            |
+| vegne av KD                                               |                                                           |                                                           |
+|                                                           |                                                           | Jf. KDs retningslinjer for forvaltning av statens         |
+|                                                           |                                                           | eierinteresser                                            |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| A.4 Fullmakt til å innkalle til generalforsamling i       | Rektor på fullmakt fra universitetsstyret                 | Tildelingsbrev fra KD (årlig),                            |
+| aksjeselskap der staten eier alle aksjene og hvor         |                                                           |                                                           |
+| institusjonen forvalter                                   |                                                           | Jf. Aksjelov § 20-5, 1. ledd, se §§ 20-7 og 20-6.         |
+| eierskapet                                                |                                                           | Se Retningslinjer for forpliktende samarbeid og erverv    |
+|                                                           |                                                           | av aksjer ved Universitetet i Bergen                      |
+|                                                           |                                                           | vedtatt 11.02.16 av universitetsstyret.                   |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **B Bidrags- og oppdragsfinansiert virksomhet**           | Universitetsstyret                                        | Rammevilkår:                                              |
+|                                                           |                                                           |                                                           |
+|                                                           |                                                           | - Reglement om statlige universiteter og høyskolers       |
+|                                                           |                                                           |   forpliktende samarbeid og erverv av aksjer              |
+|                                                           |                                                           |                                                           |
+|                                                           |                                                           | - Retningslinjer for forpliktende samarbeid og for        |
+|                                                           |                                                           |   forvaltning av bidrags- og oppdragsfinansiert           |
+|                                                           |                                                           |   aktivitet (BOA) ved UiB                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| B.1 Vedta totalbudsjettet for den bidrags- og             | Universitetsstyret                                        | Fakultetene vedtar fakultetets totalbudsjett              |
+| oppdragsfinansierte aktiviteten                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| B.2 Godkjenning av søknad om bidrags- og                  | Instituttleder, Fakultetet                                | Økonomidirektør skal godkjenne søknader som stiller       |
+| oppdragsfinansiering                                      |                                                           | krav til store egenandeler. Forskningsdirektør orienteres |
+|                                                           |                                                           | søknad om EU-midler.                                      |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| B.3 Saksbehandling av avtale                              | Forsknings- og innovasjonsavdelingen                      | Samarbeid med fakultet og institutt                       |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| B.4 Kontraktssignatur                                     | Forskningsdirektør                                        | Instituttleder paraferer                                  |
+|                                                           |                                                           | (unntatt v/EU-prosjekter: Instituttet signerer en         |
+|                                                           |                                                           | erklæring før søknad sendes inn)                          |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| B.5 Godkjenne prosjekt inkl. prosjektbudsjett             | Person med budsjettdisponeringsmyndighet                  |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| B.6 Fullmakt til å foreta disposisjoner som medfører      | Person med budsjettdisponeringsmyndighet                  | Reglement for økonomistyr. i staten(R) Bestemmelser om    |
+| økonomiske forpliktelser for virksomheten                 |                                                           | økonomistyr. i staten(B) 12.12.03                         |
+|                                                           |                                                           |                                                           |
+| - herunder sikre at alle disposisjoner som medfører       |                                                           | Hovedinstruks om økonomiforvaltning (HI) 10.07.14         |
+|   utbetaling er nødvendige utgifter for                   |                                                           |                                                           |
+|   prosjekt-gjennomføringen                                |                                                           | Hovedregler for økonomiforvaltningen for UiB (HR)         |
+|                                                           |                                                           | 12.02.15.                                                 |
+| - sikre at oppdragsprosjekter er fullfinansiert og at     |                                                           |                                                           |
+|   alle direkte og indirekte kostnader (inkl. egeninnsats) |                                                           | Retningslinjer fra universitetsdirektør i de årlige       |
+|   blir belastet                                           |                                                           | bevilgningsbrev                                           |
+|   prosjektregnskapet for bidragsprosjekter                |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| B.7 Fullmakt til å foreta rapportering til bidragsyter og | Person med budsjettdisponeringsmyndighet                  |                                                           |
+| avslutte prosjektet iht krav i kontrakt og interne        |                                                           |                                                           |
+| retningslinjer                                            |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **C Andre forskningsavtaler**                             | Forskningsdirektør                                        |                                                           |
+|                                                           |                                                           |                                                           |
+| Retningslinjger for avtaler som gjelder forskning, men    |                                                           |                                                           |
+| som ikke kan sies å være bidrags- og oppdragsfinansiert   |                                                           |                                                           |
+| virksomhet, for eksempel                                  |                                                           |                                                           |
+|                                                           |                                                           |                                                           |
+| - taushetserklæringer                                     |                                                           |                                                           |
+|                                                           |                                                           |                                                           |
+| - intensjonsavtaler                                       |                                                           |                                                           |
+|                                                           |                                                           |                                                           |
+| - avtaler om overføring av materiale                      |                                                           |                                                           |
+|                                                           |                                                           |                                                           |
+| - andre avtaler relatert til forskning                    |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| C.1 Saksbehandling av avtale                              | Forsknings- og innovasjonsavdelingen                      | Samarbeid med fakultet og institutt                       |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| C.2 Kontraktssignatur                                     | | Forskningsdirektør                                      | | Instituttleder paraferer                                |
+|                                                           | | (Universitetsdirektør)                                  | | Ved større avtaler signerer Universitetsdirektøren      |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| D Andre (generelle) samarbeidsavtaler som gjelder         | Forskningsdirektør eller studiedirektør                   | - Retningslinjer for forpliktende samarbeid og erverv av  |
+| forskning, forskerutdanning og utdanning                  |                                                           |   aksjer ved Universitetet i Bergen                       |
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| D.1 Saksbehandling av forskningsavtaler, generelle        | Forsknings- og innovasjonsavdelingen                      | Jf. Rutine pkt 3                                          |
+| samarbeidsavtaler og                                      |                                                           |                                                           |
+| avtaler om samarbeid på doktorgradsnivå                   |                                                           | Samarbeid med fakultet/institutt og fagmiljø              |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| D.2 Saksbehandling av avtaler knyttet til                 | Studieavdelingen                                          | Jf. Rutine pkt 3                                          |
+| studentutveksling                                         |                                                           |                                                           |
+|                                                           |                                                           | Samarbeid med fakultet/institutt og fagmiljø              |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| D.2 Kontraktssignatur                                     | - Internasjonale/bilaterale avtaler: Rektor               | - Avtaler med forankring i spesifikke fagmiljø bør        |
+|                                                           |                                                           |   paraferes av dekan, instituttleder eller senterleder    |
+|                                                           | - Rammeavtaler ellers: Universitetsdirektør               |                                                           |
+|                                                           |                                                           | - Erasmusavtaler signeres normalt på                      |
+|                                                           | - Erasmusavtaler: Fakultetsdirektør                       |   fakultets/instituttnivå                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| D.3 Signaturmyndighet ved UiB som gjelder                 | Forskning- og innovasjonsavdelingen                       | - studie- og utdanningskontrakter                         |
+| avtaler om ekstern finansiering                           |                                                           |                                                           |
+|                                                           |                                                           | - etter og videreutdanningskontrakter                     |
+|                                                           |                                                           |   jf. sak nr 2020/1998                                    |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+
+**Oversikt over saksområder fordelt på myndighetsnivå**
+
+PERSONALFORVALTNING 
+~~~~~~~~~~~~~~~~~~~
+
+.. Definisjon av lenke som er for lang for tabellen
+
+.. |sidegjoremal| replace:: :doc:`/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.4-Etikk-og-personvern-i-forskning/Reglement-og-retningslinjer-fastsatt-av-universitetsstyret/Prinsipper-for-sidegjoeremaal-for-ansatte-ved-Universitetet-i-Bergen`
+
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Saksområde                                                | Myndighetsnivå                                            | Merknader                                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Ansettelse av dekan**                                   |                                                           | Regler for styringsorganene ved fakultetene og            |
+|                                                           |                                                           | instiuttene                                               |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| a) Utlysning av stilling                                  | Rektor                                                    | Reglement for ansettelse i vitenskapelig stilling og      |
+|                                                           |                                                           | faglig/administrative lederstillinger                     |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| b) Oppnevning av innstillingsutvalg                       | Rektor                                                    |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| c) Ansettelse av dekan                                    | Universitetsstyret                                        |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Ansettelse  av instituttleder**                         | Fakultetsstyret                                           | Regler for styringsorganene ved fakultetene og            |
+|                                                           |                                                           | instituttene                                              |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| a) Utlysning av stilling                                  | | Fakultetsstyret                                         | Reglement for ansettelse i vitenskapelig stilling og      |
+|                                                           | | Kan delegeres til dekan                                 | faglig/administrative lederstillinger                     |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| b) Oppnevning av innstillingsutvalg                       | Fakultetsstyret                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| c) Ansettelse av instituttleder                           | Fakultetsstyret                                           |                                                           |
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Ansettelse i undervisnings- og forskerstillinger          | uhl § 6-3                                                 | Regler for styringssorganene ved fakultetene og           |
+|                                                           |                                                           | instututtene                                              |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| a) beslutning om utlysning                                | Fakultetsstyret                                           | Reglement for ansettelse i vitenskapelig stilling og      |
+|                                                           |                                                           | falig/administrative lederstillinger                      |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| b) oppnevning av sakkyndige i ansettelsessaker            | | Fakultetsstyret                                         | Reglement for ansettelse i vitenskapelig stilling og      | 
+|                                                           | | Kan delegeres til dekan                                 | faglig/administrative lederstillinger                     |   
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| c) innstilling                                            | Instituttleder                                            |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| d) oppnevning av sakkyndigkomité ved søknad om            | Fakultetsstyret                                           | Delegert jf. styrevedtak datert 14.09.2010 og 2008/7421   |
+|    kompetanseopprykk til professor                        |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| e) ansettelse (og opprykk etter kompetanse)               | Fakultetsstyret                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| f) ansettelse uten utlysning i faste stillinger           | Universitetsstyret                                        | uhl. § 7-8 (1)                                            |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| g) ansettelse uten utlysning i ekstraverv etter uhl § 7-7 | Fakultetsstyret                                           | Reglement for ansettelse i vitenskapelig stilling og      |
+|                                                           |                                                           | faglig/administrative lederstillinger                     |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Midlertidig ansettelse av eksternt finansierte          | Fakultetsstyret                                           | Reglement for ansettelse i vitenskapelig stilling og      |
+| forskere**                                                |                                                           | faglig/administrative lederstillinger                     |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Som pkt. a-e - med mindre det er foretatt delegasjon til  |                                                           |                                                           |
+| særskilt myndighetsnivå                                   |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **ansettelse av postdoktorer, stipendiater**              |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Som pkt. a-e - med mindre det er foretatt delegasjon til  |                                                           |                                                           |
+| særskilt myndighetsnivå                                   |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Ansettelse i enkelte tannlegestillinger                   | Ansettelsesrådet for tannlegestillinger ved Odontologisk  | Personalreglement for UiB                                 |
+|                                                           | klinikk                                                   |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Ansettelse i tekniske og administrative stillinger        | Ansettelsesrådet for teknisk-/administrative stillinger   | Personalreglement for UiB                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Utlysing på fakultets- og instituttnivå                   | Fakultetsdirektør                                         |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Utlysing i sentraladministrasjonen                        | HR-direktør                                               |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Innstilling på fakultetsnivå                              | Fakultetsdirektør                                         |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Innstilling på instituttnivå                              | Instituttleder                                            |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Innstilling i sentraladministrasjonen                     | Avdelingsdirektør                                         |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Innstilling i fakultets- og stabsdirektørstillinger       | HR-direktør                                               |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Ansettelse på fakultets- og instituttnivå                 | Ansettelsessrådet for tekniske stillinger                 |                                                           |
+|                                                           |                                                           |                                                           |
+|                                                           | Ansettelsessrådet for administrative stillinger           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Ansettelse i sentraladministrasjonen                      | Ansettelsessrådet for tekniske stillinger                 |                                                           |
+|                                                           |                                                           |                                                           |
+|                                                           | Ansettelsessrådet for administrative stillinger           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Midlertidige ansetttelser inntil 6 mnd                    | Person med budsjettsdisponeringsmyndighet                 |                                                           |
+| Ansettelse av Universitetsdirektør                        | Universitetsstyret                                        | uhl. § 7-4                                                |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Ordensstraffer, suspensjon, oppsigelse og avskjed**     |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - vedtak                                                  | Ansettelsesgsorganet                                      |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - klage                                                   | Universitetsstyret, eller dep.                            | uhl. § 7-10                                               |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Likestilling og vern mot diskriminering**               | HR-direktør/likestillingsrådgiver                         |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Sidegjøremål**                                          |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Ansatte som må melde/                                     | Avdelingsdirektør/Instituttleder                          | Jf. |sidegjoremal|, 25.10.12 og                           |
+| få godkjent sidegjøremål                                  |                                                           |                                                           |
+|                                                           |                                                           | Brev om delegasjon 04.11.02                               |
+|                                                           |                                                           |                                                           |
+|                                                           |                                                           | - Sidegjøremål som skal meldes/godkjennes skal gå         |
+|                                                           |                                                           |   tjenestevei                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Innvilgning av permisjon**                              |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| a) Fødsels- og foreldrepermisjon                          | Person med budsjettsdisponeringsmyndighet                 |                                                           |
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| b) velferdsperm.                                          | Person med budsjettsdisponeringsmyndighet                 |                                                           |
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| c) utdanningspermisjoner                                  | Person med budsjettsdisponeringsmyndighet                 |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| d) forskningstermin                                       | Fakultetsstyret                                           | `Jf. Retningslinjer for tildeling av forskningstermin,    |
+|                                                           |                                                           | <https://regler.uib.no/regelsamling/show.do?id=334>`__    |
+|                                                           |                                                           |                                                           |
+|                                                           |                                                           | sist endret 28.04.2016                                    |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| e) permisjon uten lønn ved sykdom over 12 mnd             | HR-direktør                                               |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| f) permisjoner uten lønn ved overgang til annen stilling  | Fakultetsdirektør/                                        | Brev om delegasjon 04.11.02                               |
+|                                                           | HR-direktør                                               |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Oppfølging av sykemeldte mv - Inkluderende arbeidsliv     | Instituttleder/avdelingsdirektør                          |                                                           |
+| (IA)                                                      |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Beredskap - delansvar                                     | HR-direktør                                               | HR-beredskapsplan                                         |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Fastsettelse og avvikling av ferie                        | Instituttleder/avdelingsleder                             |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Hovedtariffavtalen                                        |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Forhandlinger etter HTA                                 | Universitetsdirektør/HR-direktør                          | Jf HTA pkt. 2.5                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Overtid                                                 | Person med budsjettsdisponeringsmyndighet                 |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Stedfortredetjenste                                     | Fakultetsdirektør/HRdirektør                              | Jf HTA Fellesbestemmelsene § 12                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Lønnsjustering etter inntil 12 måneders tilsetting      | Fakultetsdirektør/HR-direktør                             |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Hovedavtalen m/Tilpasningsavtale for UiB                  |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Medbestemmelsesretten for hele virksomheten ved UiB     | Forhandlingsutvalget                                      |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Medbestemmelsesrett ved fakultetene, UM, UB og          | Informasjons- og drøftingsutvalg (IDU)                    |                                                           |
+|   Odont. klinikk                                          |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Lønnslån**                                              | HR-direktør                                               |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Gaver og andre fordeler                                   | Instituttleder/                                           | `Jf. Regler om gaver og andre fordeler for ansatte ved    |
+|                                                           | Fakultetsdirektører                                       | UiB                                                       |
+|                                                           |                                                           | <https://regler.uib.no/regelsamling/show.do?id=143>`__ .  |
+|                                                           | Avdelingsdirektør                                         | 14.02.08                                                  |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+
+**Oversikt over saksområder fordelt på myndighetsnivå**
+
+EIENDOMSFORVALTNING 
+~~~~~~~~~~~~~~~~~~~
+
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Saksområde**                                            | **Myndighetsnivå**                                        | **Merknader**                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Salg og kjøp av fast eiendom                              | Universitetsstyret/Kunnskapsdepartementet (KD)            | Uhl. § 12-3, ref. § 10-3 (7), jf. Eiendomsfullmakten      |
+|                                                           |                                                           | fra KD i Tildelingsbrev 2023, jf sak nr 21/14477, og      |
+|                                                           |                                                           | Instruks for avhending av statlig eiendom                 |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Nytte inntekter av salg av eiendommer til kjøp,           | Universitetsstyret                                        | Tildelingsbrev fra KD for 2023, jf sak nr. 21/14477       |
+| vedlikehold og bygging av andre lokaler til               |                                                           |                                                           |
+| undervisnings- og forskningsformål                        |                                                           |                                                           |
+| ved UiB                                                   |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Utleie av driftslokaler, leiligheter                      | Avdelingsdirektør                                         | Instruks for avhending av statlig eiendom                 |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Innleie av fast eiendom**                               |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Fullmakt til å inngå avtale om leie av lokaler            | Universitetsstyret/KD                                     | Tildelingsbrev fra KD for 2023, jf sak nr 21/14477        |
+|                                                           |                                                           |                                                           |
+|                                                           |                                                           | (Fullmakten gjelder ikke for leieprosjekt som etter sin   |
+|                                                           |                                                           | art eller omfang klassifiseres som byggesak.)             |
+|                                                           |                                                           | Mrk. Statsbygg skal konsulteres for avtaler med total     |
+|                                                           |                                                           | verdi >30 mill.                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| a) leieperiode > 1 år                                     | Universitetsdirektør/avdelingsdirektør                    | Avdelingsdirektør har fullmakt til å signere *etter       |
+|                                                           |                                                           | godkjenning** fra Universitetsdirektør                    |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| b) leieperiode < 1 år                                     | Avdelingsdirektør                                         | Fullmakten gjelder ikke for avtale om leie av lokaler med |
+|                                                           |                                                           | varighet utover 10 år, jf Tildelingsbrev fra KD for 2023  |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Arealdisponering                                          | Avdelingsdirektør                                         | Inkl. arealbruk utover ord. åpningstid, parkeringsbest.   |
+|                                                           |                                                           | (reserv. plasser, ford. m.v.)                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Ombygging / vedlikehold                                   | Avdelingsdirektør                                         |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+
+**Oversikt over saksområder fordelt på myndighetsnivå**
+
+PARTSFORHOLD VED SØKSMÅL 
+~~~~~~~~~~~~~~~~~~~~~~~~
+
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Saksområde**                                            | **Myndighetsnivå**                                        | **Merknader**                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Partsforhold ved søksmål**                              |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Rett til å begjære påtale (og til å ta ut forliksklage) | Kunnskapsdepartementet                                    | | Jf strl § 79                                            |
+|                                                           |                                                           | | Delegert fra KD til universitetsstyret, jf brev         |
+|                                                           | Universitetsstyret (i saker som gjelder misligheter i     |   29.08.94. Delegert fra universitetsstyret til           |
+|                                                           | statstjenesten)                                           |   universitetsdirektør, jf vedtak i sak                   |
+|                                                           |                                                           |   96/222, 26.09.96.                                       |
+|                                                           |                                                           |                                                           |
+|                                                           |                                                           | I Tildelingsbrev har UiB fått delegert fullmakt til å     |
+|                                                           |                                                           | ta ut påtalebegjæring på vegne av Staten (gjelder kun     |
+|                                                           |                                                           | saker som gjelder misligheter i statstjenesten)           |
+|                                                           |                                                           |                                                           |
+|                                                           |                                                           | Departementet delegert til styret å påtale økonomiske     |
+|                                                           |                                                           | misligheter ved institusjonen. Styret kan delegere        |
+|                                                           |                                                           | denne fullmakten til rektor og universitetsdirektør.      |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| a) enkeltvedtak                                           | Staten v/UiB                                              | Jf. fvl. § 2b                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| b) ellers                                                 | Staten v/dept.                                            |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Føring av rettssaker                                    | Universitetsdirektør.                                     | Regjeringsadvokaten                                       |
+|                                                           |                                                           |                                                           |
+|                                                           | (Staten v/KD kan gi fullmakt til UIB. UiB v/rektor kan gi |                                                           |
+|                                                           | fullmakt videre)                                          |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Inkassosaker                                            | Økonomidirektør                                           |                                                           |
+|                                                           |                                                           |                                                           |
+| - Beslutte oversendelse for videre inndriving             | Unntak: Odontologisk klinikk                              |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Ettergivelse av krav                                    | Stortingsvedtak. I mindre saker kan også Kongen og        | Alle saker om ettergivelse skal sendes                    |
+|                                                           | Finansdepartementet samtykke                              | Finansdepartementet,                                      |
+|                                                           |                                                           | Jf. Bestemmelsene pkt.5.4.4                               |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Unnlate å avbryte en foreldelsesfrist                   | Økonomidirektør                                           | Jf. Bestemmelsene pkt 5.4.3, og                           |
+|                                                           |                                                           |                                                           |
+|                                                           |                                                           | Hovedinstruksen pkt. 4.5                                  |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Innrømme erstatningsansvar eller inngå forlik på        | Universitetsstyret                                        | Delegert fra KD. Jf. Rundskriv G-83/92 § 2                |
+|   inntil kr. *300 000.*                                   |                                                           |                                                           |
+|   Saker utover denne grensen skal                         |                                                           | Rundskriv G-03/2006                                       |
+|   forelegges departementet til avgjørelse                 |                                                           |                                                           |
+|                                                           |                                                           | Jf Tildelingsbrev for Universitetet i Bergen              |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+
+**Oversikt over saksområder fordelt på myndighetsnivå**
+
+BEHANDLING AV PERSON - OG HELSEOPPLYSNINGER 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. Definisjon av lenker som er for lang for tabellen
+
+.. |forskningsrutiner| replace:: http://helse-bergen.no/fagfolk/forskning/Sider/forskingsrutinar.aspx
+
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Saksområde**                                            | **Myndighetsnivå**                                        | **Merknader**                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| I administrative system ved UiB                           | Behandlingsansvarlig: Rektor, delegert til systemeier     | Styringssystem for informasjonssikkerhet, Del 1, 4.1      |
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| I forskning ved UiB                                       | Behandlingsansvarlig: Rektor, delegert til systemeier     | Styringssystem for informasjonssikkerhet, Del 1, 4.1      |
+|                                                           | universitetsdirektør og leder for organisatoriske enheter |                                                           |
+|                                                           |                                                           |                                                           |
+|                                                           | Forskningsansvarlig: Rektor, delegert til dekanene ved    | Styringssystem for informasjonssikkerhet, Del 1, 4.2      |
+|                                                           | fakultetene og instituttlederne                           | jf. Overordnede rammer for behandling av person-          |
+|                                                           |                                                           | opplysninger ved Universitetet i Bergen                   |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Internkontroll - administrative system                    | Behandlingsansvarlig: Rektor, delegert til                | Styringssystem for informasjonssikkerhet, Del 2, 5        |
+|                                                           | universitetsdirektør                                      | Ledelsens årlige gjennomgang                              |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Internkontroll i forskning                                | Behandlingsansvarlig/forskningsansvarlig                  | Overordnede rammer for behandling av personopplysninger   |
+|                                                           |                                                           | ved Universitetet i Bergen, del 1, kap 4                  |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+
+**Oversikt over saksområder fordelt på myndighetsnivå**
+
+IKT-SIKKERHET (*Fullmakt/ansvar ligger hos systemeier og følger av IKT reglementet)*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Saksområde**                                            | **Myndighetsnivå**                                        | **Merknader**                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Overordnede ansvar for IKT-sikkerheten ved UiB            | Universitetsdirektør i samråd med rektor                  | Jf. Styringssystem for informasjonssikkerhet og           |
+|                                                           |                                                           | personvern punkt 4                                        |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Overordnet ansvar for operativ IKT-sikkerhet              | IT-direktør                                               | Jf. Styringssystem for informasjonssikkerhet og           |
+|                                                           |                                                           | personvern punkt 4                                        |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Ansvar for IKT-sikkerhet i og for det enkelte system      | Systemeier, dvs. instituttleder, avdelingsdirektør        | Jf. Styringssystem for informasjonssikkerhet og           |
+|                                                           |                                                           | personvern                                                |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Tilgang til UiBs IT-systemer for andre enn ansatte og     | Øverste leder ved enheten og systemeier                   | IKT-reglement ved UiB punkt 3 a                           |
+| og studenter				                    |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Stenging av brukerkonto                                   | Universitetsdirektøren                                    | IKT-reglement ved UiB punkt 7                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Isolering av personlig datamaskin                         |                                                           | IKT-reglement ved UiB punkt 7                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+
+
+**Oversikt over saksområder fordelt på myndighetsnivå**
+
+INTERNREVISJON 
+~~~~~~~~~~~~~~
+
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Saksområde**                                            | **Myndighetsnivå**                                        | **Merknader**                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Fastsette regler for internrevisjon for UiB               | Universitetsstyret                                        | Jf. uhl. § 4-1                                            |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Overordnede ansvar for tilsyn ved institusjonen           | Styret, rektor, universitetsdirektør                      | Jf. uhl. §§ 4-1, 4-6 og Instruks for                      |
+|                                                           |                                                           | internrevisjon                                            |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Forberede, gjennomføre og rapportere interne revisjoner   | Universitetsdirektøren                                    | Jf. Instruks for internrevisjon                           |
+|                                                           |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Iverksette korrigerende tiltak og/eller forbedringer      | Avdelingsdirektør                                         | Jf. Instruks for internrevisjon                           |
+| basert på rapporter fra interne revisjoner                |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Påse at oppfølging av merknader og korrigerende tiltak    | Universitetsdirektør                                      | Jf. Instruks for internrevisjon                           |
+| følges opp                                                |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+
+**Oversikt over saksområder fordelt på myndighetsnivå**
+
+HELSE, MILJØ OG SIKKERHET 
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. Definering av lenker, som er for lange for tabellen. 
+
+.. |3.2.2| replace:: :doc:`/regler/Del-3-Personal-og-HMS/3.2-Helse-miljoe-og-sikkerhet/3.2.2-Ansvar-og-oppgaver-i-HMS-arbeidet`
+
+.. |3.2.3-retningslinje| replace:: :doc:`/regler/Del-3-Personal-og-HMS/3.2-Helse-miljoe-og-sikkerhet/3.2.3-HMS-retningslinjer/Retningslinje-for-aarlig-gjennomgang-av-det-systematiske-helse-miljoe-og-sikkerhetsarbeidet-internkontroll`
+
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| **Saksområde**                                            | **Myndighetsnivå**                                        | **Merknader**                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Vedta overordnede mål, strategier og handlingsplaner    | Universitetsstyret                                        | Jf. uhl. § 4-1 og Regelsamlingen Del 3. Personal og       |
+|   for HMS                                                 |                                                           | HMS.                                                      |
+| - Fører tilsyn gjennom årlig rapportering                 |                                                           |                                                           |
+| - Sørge for at det avsettes ressurser                     |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| Rektor har på styrets vegne det overordnede ansvar for og | Rektor                                                    | Jf. uhl. § 4-6 og                                         |
+| ledelse av institusjonens virksomhet og fører tilsyn med  |                                                           |                                                           |
+| denne.                                                    |                                                           | Regelsamlingen Del 3. Personal og HMS. For sikkerhet se   |
+|                                                           |                                                           | arbeidsmiljøloven kap. 3.                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Etablere, utvikle og vedlikeholde det systematiske      | Universitetsdirektør                                      | Jf. uhl. § 4-2, § 4-7 og                                  |
+|   HMS-arbeidet                                            |                                                           | Regelsamlingen Del 3. Personal og HMS.                    |
+| - Sørge for at nødvendig opplæring og bistand til         |                                                           |                                                           |
+|   enhetene blir gitt                                      |                                                           | |3.2.3-retningslinje| *, se spesielt pkt. 6.3*            |
+| - Legge fram årlige rapporter over HMS-status             |                                                           |                                                           |
+| - Påse at det gjennomføres tiltak slik at                 |                                                           | |3.2.2| *, se spesielt pkt. 2.3*                          |
+|   Universitetsstyrets mål og myndighetenes krav for       |                                                           |                                                           |
+|   HMS-arbeidet nås.                                       |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Vedta HMS-mål, strategier og handlingsplaner.           | Fakultetsstyret,                                          | Jf. Regelsamlingen Del 1. punkt. 1.3. Regler for          |
+|                                                           |                                                           | styringsorganene og Regelsamlingen Del 3. Personal og HMS.|
+| - Sørge for at nødvendige midler blir stilt til           | Styret ved Universitetsmuseet i Bergen                    |                                                           |
+|   disposisjon.                                            |                                                           | |3.2.2| *, se spesielt pkt. 2.4*                          |
+|                                                           | Rådet for ved Universitetsbiblioteket                     |                                                           |
+| - Foreta årlig internkontroll og behandle HMS-status.     |                                                           | |3.2.3-retningslinje|                                     |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Vedta HMS-mål, strategier og handlingsplaner.           | Instituttråd og avdelingsråd ved                          | Jf. Regelsamlingen Del 1. punkt 1.3. Regler for           |
+|                                                           | Universitetsmuseet i Bergen                               | styringsorganene og Regelsamlingen Del 3. Personal og     |
+| - Sørge for at nødvendige midler blir stilt til           |                                                           | HMS.                                                      |
+|   disposisjon.                                            |                                                           |                                                           |
+|                                                           |                                                           | |3.2.2| *, se spesielt pkt. 2.5*                          |
+| - Foreta årlig internkontroll og behandle HMS-status      |                                                           |                                                           |
+|                                                           |                                                           |                                                           |
+| - Være et rådgivende informasjons- og kontaktorgan mellom |                                                           |                                                           |
+|   linjeleder, alle ansatte og studenter i øvrige          |                                                           |                                                           |
+|   HMS-saker.                                              |                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+| - Ansvar for HMS-arbeidet innenfor eget ansvarsområde.    | Leder for enheten                                         | Jf. Regelsamlingen Del 1. punkt 1.3. Regler for           |
+|                                                           |                                                           | styringsorganene og Regelsamlingen Del 3. Personal og     |
+| - Planlegge for et fullt forsvarlig arbeidsmiljø          |                                                           | HMS.                                                      |
++-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
+
+Ajourføring av myndighetskartet
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Henvendelser om myndighetskartet rettes til Universitetsdirektørens kontor v/ Sekretariat for universitetsledelsen som er ansvarlig for å holde myndighetskartet oppdatert i henhold
+til de lover, regler og fullmakter som til enhver tid gjelder. Fagavdelingene/De administrative avdelinger vil være ansvarlig for å melde inn til sekretariatet om endringer
+vedrørende sine respektive saksområder.
+
+HR-avdelingen er ansvarlig for ajourhold av navneliste over personer med beslutningsmyndighet. Endringer meddeles skriftlig til avdelingen.
+
+Kontaktperson i Sekretariat for universitetsledelsen er:
+
+arne.ramslien@uib.no

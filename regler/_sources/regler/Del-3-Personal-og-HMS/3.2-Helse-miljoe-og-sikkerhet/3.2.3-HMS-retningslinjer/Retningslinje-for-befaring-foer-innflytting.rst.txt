@@ -1,0 +1,170 @@
+Retningslinje for befaring før innflytting
+------------------------------------------
+
+:doc:`English version </regler_en/Part-3-Human-Resources-and-HSE/3.2-Health-Safety-and-Environment/3.2.3-HSE-guidelines/Guidelines-for-inspection-prior-to-occupation>`
+
+**UTGÅTT** Godkjent av Universitetsdirektøren 28.10.2008, sist endret 08.03.2022.
+
+1. Formål
+~~~~~~~~~
+
+Formålet med retningslinjen er å sikre at innflytting ikke iverksettes før Universitetet i Bergen (UiB)
+som tiltakshaver i samarbeid med bruker, lokalt verneombud og HR-avdelingen finner det tilrådelig.
+Alle forhold som påvirker de som flytter inn skal være ivaretatt.
+
+2. Forankring
+~~~~~~~~~~~~~
+
+Retningslinjen er en del av UiBs regelsamling (Del 3. Personal og HMS).
+
+3. Omfang
+~~~~~~~~~
+
+Retningslinjen omfatter alle byggeprosjekt (se punkt 5.) ved UiB.
+
+4. Ansvar
+~~~~~~~~~
+
+Eiendomsavdelingen (EIA) er ansvarlig for at retningslinjen følges.
+
+5. Definisjoner
+~~~~~~~~~~~~~~~
+
+- **Byggeprosjekt:** Systematisk inspeksjon av byggeprosjektet.
+- **Brukerkoordinator:** Oppnevnes av Eiendomsavdelingen. Leder brukerutvalget. 
+  Kontaktledd mellom brukerutvalget og prosjektorganisasjonen.
+- **Brukstillatelse:** Når et tiltak er ferdig, men det gjenstår arbeider av 
+  mindre vesentlig betydning kan ansvarlig søker anmode kommunen om midlertidig
+  brukstillatelse.
+- **Byggeprosjekt:** Alle nye byggeprosjekter og større ombyggings- eller 
+  rehabiliteringsprosjekter ved UiB, samt flytting av en enhet til innleide lokaler.
+- **Driftskoordinator:** EIA-ansatt som skal sikre at byggeprosjekter er i samsvar med
+  intensjonen for framtidig drift og vedlikehold av bygningen.
+- **Ferdigattest**: Når et søknadspliktig tiltak er ferdig skal ansvarlig søker anmode
+  kommunen om ferdigattest. Ferdigattest eller brukstillatelse skal foreligge før innflytting. 
+  Mindre omfattende tiltak vil ikke alltid falle inn under søknadsplikten og krav om 
+  brukstillatelse eller ferdigattest vil derfor ikke gjelde for disse prosjektene.  
+- **Overtakelsesforretning:** Entreprenør kaller inn til overtakelsesforretning når bygget 
+  er klar for overtakelse. Dette forutsetter at bygget for det meste er ferdig og kan tas i bruk.
+- **Prosjektleder:** EIA-ansatt som leder byggeprosjektet. I noen tilfeller vil prosjektleder
+  være en innleid ressurs. 
+- **Tiltakshaver:** Eier av bygget.
+
+6. Befaring før innflytting
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Befaring skal gjennomføres før innflytting ved alle byggeprosjekter, for å forebygge
+helseplager og unødvendig ubehag som følge av innflytting i lokaler som ikke er tilstrekkelig
+ferdigstilt og rengjort.
+
+6.1. Oppgaver
+^^^^^^^^^^^^^
+
+Prosjektleder fra EIA kaller inn til befaring før innflytting og leder denne. 
+
+Deltakere på befaring før innflytting: 
+
+- Prosjektleder
+- Brukerkoordinator
+- Driftskoordinator 
+- Representanter fra brukermiljøet
+- Verneombud, dersom det gjelder flere enheter vil HVO være involvert
+- Representant fra Bedriftshelsetjenesten
+
+Representant for Læringsmiljøutvalget og konsulent for funksjonshemmede studenter kalles inn
+når det er `aktuelt <https://www.uib.no/student/48799/l%C3%A6ringsmilj%C3%B8h%C3%A5ndboken>`__.
+
+
+6.2. Gjennomføring
+^^^^^^^^^^^^^^^^^^
+
+- Brukerkoordinator orienterer om innflyttingsplan, og er ansvarlig for at sjekkliste gås
+  igjennom og referat fra befaring skrives. 
+- Prosjektleder orienterer om byggvask, overtakelsesforretning, ferdigattest og brukstillatelse.
+- Fysisk gjennomgang av alle etasjer og rom, for eksempel etter sjekkliste.
+- Avslutningsvis foretas en oppsummering og konklusjon vedrørende eventuell anbefaling om
+  innflytting. Konklusjonen fra befaringen skal alltid foreligge skriftlig i form av et kort
+  referat og/ eller utfylt sjekkliste.
+- Sjekkliste eller referat godkjennes av deltakerne før det sendes AMU sitt byggutvalg til informasjon.
+
+7. Referanser
+~~~~~~~~~~~~~
+
+| `Internkontrollforskriften <https://lovdata.no/dokument/SF/forskrift/1996-12-06-1127>`__
+| `Læringsmiljøhåndboken <https://www.uib.no/student/48799/l%C3%A6ringsmilj%C3%B8h%C3%A5ndboken>`__
+
+**Vedlegg:**
+
+- `Sjekkliste ferdigbefaring <https://intern.filer.uib.no/poa/Hms/Nye%20arbeidsplasser/Sjekkliste%20ferdigbefaring.docx>`__
+
+- `Sjekkliste for nybygg eller rehabilitering 
+  laboratorier <https://intern.filer.uib.no/poa/Hms/Nye%20arbeidsplasser/HMS-sjekkliste%20for%20nybygg%20og%20rehabilitering.xlsx>`__
+
++-------------------------+-------------------------+---------------+
+| Dato                    | Kommentar               | Lagt inn av   |
++=========================+=========================+===============+
+| 9. juni 2023            | Endring i pkt. 6.1 og   |  Mona Viksøy  |
+|                         | 1. vedlegg              |               |
++-------------------------+-------------------------+---------------+   
+| 15. mars 2022           | Ny Retningslinje        | Mona Viksøy   |
++-------------------------+-------------------------+---------------+                        
+| 20. juni 2014 08:17:40  | Retningslinjen legges   | Olaug Eiksund |
+|                         | over fra HMS-håndboken, |               |
+|                         | Del 5. Helse, miljø og  |               |
+|                         | sikkerhet i forbindelse |               |
+|                         | med ny Regelsamling.    |               |
++-------------------------+-------------------------+---------------+
+| 20. juni 2014 08:16:52  | Retningslinjen legges   | Olaug Eiksund |
+|                         | over fra HMS-håndboken, |               |
+|                         | Del 5. Helse, miljø og  |               |
+|                         | sikkerhet i forbindelse |               |
+|                         | med ny Regelsamling.    |               |
++-------------------------+-------------------------+---------------+
+| 26. april 2013 11:18:45 | Retningslinjen legges   | Olaug Eiksund |
+|                         | over fra HMS-håndboken, |               |
+|                         | Del 5. Helse, miljø og  |               |
+|                         | sikkerhet i forbindelse |               |
+|                         | med ny Regelsamling.    |               |
++-------------------------+-------------------------+---------------+
+| 05. juli 2011 09:54:45  | Retningslinjen legges   | Olaug Eiksund |
+|                         | over fra HMS-håndboken, |               |
+|                         | Del 5. Helse, miljø og  |               |
+|                         | sikkerhet i forbindelse |               |
+|                         | med ny Regelsamling.    |               |
++-------------------------+-------------------------+---------------+
+| 05. juli 2011 09:48:41  | Retningslinjen legges   | Olaug Eiksund |
+|                         | over fra HMS-håndboken, |               |
+|                         | Del 5. Helse, miljø og  |               |
+|                         | sikkerhet i forbindelse |               |
+|                         | med ny Regelsamling.    |               |
++-------------------------+-------------------------+---------------+
+| 05. juli 2011 09:49:41  | Retningslinjen legges   | Olaug Eiksund |
+|                         | over fra HMS-håndboken, |               |
+|                         | Del 5. Helse, miljø og  |               |
+|                         | sikkerhet i forbindelse |               |
+|                         | med ny Regelsamling.    |               |
++-------------------------+-------------------------+---------------+
+| 05. juli 2011 09:24:27  | Retningslinjen legges   | Olaug Eiksund |
+|                         | over fra HMS-håndboken, |               |
+|                         | Del 5. Helse, miljø og  |               |
+|                         | sikkerhet i forbindelse |               |
+|                         | med ny Regelsamling.    |               |
++-------------------------+-------------------------+---------------+
+| 05. juli 2011 09:19:37  | Retningslinjen legges   | Olaug Eiksund |
+|                         | over fra HMS-håndboken, |               |
+|                         | Del 5. Helse, miljø og  |               |
+|                         | sikkerhet i forbindelse |               |
+|                         | med ny Regelsamling.    |               |
++-------------------------+-------------------------+---------------+
+| 06. april 2011 15:40:21 | Retningslinjen legges   | Olaug Eiksund |
+|                         | over fra HMS-håndboken, |               |
+|                         | Del 5. Helse, miljø og  |               |
+|                         | sikkerhet i forbindelse |               |
+|                         | med ny Regelsamling.    |               |
++-------------------------+-------------------------+---------------+
+| 06. april 2011 15:39:16 | Retningslinjen legges   | Olaug Eiksund |
+|                         | over fra HMS-håndboken, |               |
+|                         | Del 5. Helse, miljø og  |               |
+|                         | sikkerhet i forbindelse |               |
+|                         | med ny Regelsamling.    |               |
++-------------------------+-------------------------+---------------+

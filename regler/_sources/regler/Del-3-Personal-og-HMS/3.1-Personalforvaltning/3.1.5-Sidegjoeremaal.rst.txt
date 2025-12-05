@@ -1,0 +1,4 @@
+3.1.5 Sidegjøremål
+==================
+
+-  :doc:`Retningslinjer for registering av ansattes sidegjøremål og offenliggjøring av disse <../../Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.4-Etikk-og-personvern-i-forskning/Reglement-og-retningslinjer-fastsatt-av-universitetsstyret/Retningslinjer-for-registrering-av-ansattes-sidegjoeremaal-og-offentliggjøring-av-disse>`

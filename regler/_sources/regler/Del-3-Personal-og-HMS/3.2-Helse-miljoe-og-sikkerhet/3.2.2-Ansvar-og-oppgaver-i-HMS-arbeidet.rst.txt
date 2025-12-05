@@ -1,0 +1,351 @@
+3.2.2 Ansvar og oppgaver i HMS-arbeidet
+---------------------------------------
+
+Godkjent av Universitetsdirektøren 26.10.2001.
+
+.. contents::
+   :local:
+   :depth: 1
+
+1. Ansvar og medvirkning
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Helse, miljø og sikkerhet (HMS) ved Universitetet i Bergen (UiB) er et
+lederansvar på alle nivå. Aktiv medvirkning fra ansatte og studenter,
+klar ansvarsfordeling og tydelig organisering av HMS-arbeidet er en
+forutsetning for å etablere gode arbeids- og læringsmiljø. Ansatte har
+plikt til å følge de krav som er satt for det systematiske HMS-arbeidet.
+Verneombudene har en tilsynsfunksjon, er de ansattes representanter i
+arbeidsmiljøsaker og er samarbeidspartnere for ledelsen.
+
+2. Ansvar og oppgaver i linjen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Linjeledere (ledere på alle nivå) ved UiB har ansvar for at
+bestemmelsene gitt i Arbeidsmiljøloven (AML) (§ 2-1, § 3-1, § 3-2, § 2-3
+(3)) og øvrig lovgivning innen HMS, blir overholdt. Ansvaret kan ikke
+overføres til andre, men HMS-oppgaver kan delegeres.
+
+2.1 Universitetsstyret
+^^^^^^^^^^^^^^^^^^^^^^
+
+Universitetsstyret vedtar overordnede mål, strategier og handlingsplaner
+for arbeidet med HMS, fører tilsyn gjennom årlig rapportering slik at
+disse følges opp og sørger for at det avsettes ressurser til å følge opp
+de mål, strategier og handlingsplaner som er vedtatt (jf. Lov om
+universiteter og høyskoler, kapittel 4).
+
+2.2. Rektor
+^^^^^^^^^^^
+
+Rektor er ansvarlig for at de HMS-oppgaver som er tillagt
+Universitetsstyret blir utført (jf. Lov om universiteter og høyskoler §
+4-6).
+
+2.3 Universitetsdirektøren
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Universitetsdirektøren har fått delegert avgjørelsesmyndighet fra
+Universitetsstyret til å etablere, utvikle og vedlikeholde det
+systematiske HMS-arbeidet ved universitetet (jf. Lov om universiteter og
+høgskoler §§ 4-2 og 4-7.
+
+Universitetsdirektøren skal, i tråd med myndighetskrav og UiBs interne
+HMS-regler, sørge for at nødvendig opplæring og bistand til enhetene
+blir gitt, legge fram årlige rapporter over HMS-status ved UiB, påse at
+det gjennomføres tiltak slik at Universitetsstyrets mål og myndighetenes
+krav for HMS-arbeidet nås.
+
+2.4 Fakultetsstyret og museumsstyret
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Fakultetstyret mv. skal, i tråd med myndighetskrav, Regelsamlingens Del
+1. punkt 1.3. Regler for styringsorganene, UiBs interne HMS-regler,
+sentral HMS-handlingsplan og lokale utfordringer:
+
+-  Vedta HMS-mål, strategier og handlingsplaner.
+-  Sørge for at nødvendige midler blir stilt til disposisjon.
+-  Foreta årlig internkontroll og behandle HMS-status.
+
+2.5 Instituttråd og avdelingsråd 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Instituttråd mv. skal, i tråd med myndighetskrav, Regelsamlingens Del 1.
+punkt 1.3. Regler for styringsorganene, UiBs interne HMS-regler,
+overordnede HMS-handlingsplaner og lokale utfordringer:
+
+-  Vedta HMS-mål, strategier og handlingsplaner.
+-  Sørge for at nødvendige midler blir stilt til disposisjon.
+-  Foreta årlig internkontroll og behandle HMS-status
+-  Være et rådgivende informasjons- og kontaktorgan mellom linjeleder,
+   alle ansatte og studentene i øvrige HMS-saker.
+-  Ikke behandle saker som omhandler enkeltpersoner.
+
+2.6 Linjeleder (ledere på alle nivå)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Linjeleder har ansvar for HMS-arbeidet innenfor eget ansvarsområde og
+skal, i tråd myndighetskrav, Regelsamlingens Del 1. punkt 1.3. Regler
+for styringsorganene, UiBs interne HMS-regler, overordnede
+HMS-handlingsplaner og lokale utfordringer planlegge for et fullt
+forsvarlig arbeidsmiljø.
+
+Linjeleders ansvar og oppgaver er beskrevet i `Retningslinje for
+systematisk
+HMS-arbeid <https://regler.app.uib.no/regler/Del-3-Personal-og-HMS/3.2-Helse-miljoe-og-sikkerhet/3.2.3-HMS-retningslinjer/Retningslinje-for-systematisk-helse-miljoe-og-sikkerhetsarbeid/>`__.
+
+2.7 Arbeidstaker som har til oppgave å lede eller kontrollere andre arbeidstakere
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Personer som har fått delegert HMS-oppgave til å lede eller kontrollere
+andre arbeidstakere eller studenter (for eksempel prosjektleder,
+HMS-koordinator, miljøkontakter, strålevernskoordinator, arbeid i
+laboratorier), skal påse at hensynet til sikkerhet og helse blir
+ivaretatt under planleggingen og utførelsen av de arbeidsoppgaver som
+hører under eget ansvarsområde (jf. AML § 2-3 (3) og UiBs interne
+HMS-regler).
+
+2.8 Arbeidstakere og eksternt lønnet personale
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+En arbeidstaker er enhver som utfører arbeid i en annens tjeneste. Dette
+er fast eller midlertidig ansatte i vitenskapelig, teknisk eller
+administrative stillinger ved UiB.
+
+Arbeidstaker har medvirkningsplikt. Dette innebærer at ansatte skal
+medvirke ved utforming, gjennomføring og oppfølging av UiBs systematiske
+HMS-arbeid. Ifølge AML § 2-3 og § 2-4 skal alle arbeidstakere:
+
+-  Vise ansvar for egen og andres sikkerhet.
+-  Ta initiativ og være en pådriver i HMS-arbeidet på eget arbeidssted.
+-  Holde seg orientert om arbeidsmiljøsituasjonen på eget arbeidssted.
+-  Melde fra når farlige forhold oppdages.
+-  Melde fra om skader eller sykdom vedkommende blir påført og som
+   han/hun mener har sin grunn i arbeidet eller forholdet på
+   arbeidsstedet.
+-  Varsle om kritikkverdige forholdt i virksomheten.
+
+Ved opphold på universitetets eiendom og under tokt- og feltarbeid (jf.
+samordningsavtaler, Forskrift om systematisk HMS-arbeid og Retningslinje
+for HMS ved feltarbeid, tokt og gruppereiser) har også eksternt lønnet personale
+tilsvarende plikt som arbeidstakere.
+
+2.9 Student
+^^^^^^^^^^^
+
+Studentene plikter å innrette seg i henhold til de mål og planer som
+gjelder for HMS-arbeid ved UiB, og som angår dem.
+
+Arbeid som utføres, som praktisk opplæring av studenter med undervisning
+eller forskning som formål, skal være underlagt Arbeidsmiljølovens
+bestemmelser når arbeidet foregår under forhold som kan innebære fare
+for liv og helse f. eks. i laboratoriefag, undervisning på verksted og
+feltarbeid/tokt. Studentenes rettigheter og plikter i det systematiske
+HMS-arbeid blir i disse tilfellene som for ansatte, jf. 2.8
+Arbeidstakere og eksternt lønnet personale (jf. AML § 1-6 og Forskrift
+om arbeidsmiljølovens anvendelse for personer som ikke er
+arbeidstakere).
+
+I studiesituasjonen for øvrig (lesesaler, auditorier, datalab. osv.)
+gjelder ikke Arbeidsmiljølovens bestemmelser for studentene. Lov om
+Universitets- og høyskoler kapittel 10 beskriver hvordan læringsmiljøet for
+studentene skal utformes.
+
+3. Vernetjenesten ved UiB
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Vernetjenesten skal ivareta arbeidstakernes interesser i saker som angår
+arbeidsmiljøet. Verneombudene har en tilsynsplikt og skal holde øye med
+arbeidsgivers plikter etter AML Kap. 6. Vernetjenesten ved UiB består av
+Universitetets hovedvernombud (UHVO), hovedverneombud (HVO) og
+verneombud (VO).
+
+Verneombud velges for to år av gangen. Verneombud forholder seg til
+linjeleder på samme nivå. Linjeleder skal sørge for at verneombud får
+nødvendig opplæring, slik at vervet kan utføres på en forsvarlig måte.
+Verneombudet skal gjøre seg kjent med verneregler, instrukser, pålegg og
+henstillinger som er gitt av ledelsen eller tilsynsmyndigheter innen
+HMS.
+
+3.1 Universitetets hovedverneombud (UHVO)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Universitetets hovedverneombud (UHVO) er valgt av hovedverneombudene og
+blant verneombudene eller andre ansatte som har eller har hatt
+tillitsverv ved virksomheten, og har ansvar for å koordinere
+hovedverneombudene sine aktiviteter. UHVO er fristilt 100 % av sin
+arbeidstid til arbeid som UHVO. UHVO er arbeidstakerrepresentant i
+Arbeidsmiljøutvalget, og representerer arbeidstakerne i arbeidet med
+etablering og vedlikehold av det sentrale HMS-systemet ved
+universitetet. UHVO samarbeider med og melder til
+Universitetsdirektøren.
+
+3.2 Hovedverneombud (HVO)
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Hovedverneombudene (HVO) er valgt av verneombudene og blant
+verneombudene eller andre ansatte som har eller har hatt tillitsverv ved
+virksomheten. HVO representerer arbeidstakerne i arbeidet med etablering
+og vedlikehold av HMS-systemet på fakultets-/avdelingsnivå og har ansvar
+for å samordne verneombudenes virksomhet i sitt område. HVO samarbeider
+med og melder til linjeleder på fakultets-/avdelingsnivå.
+
+3.3 Verneombud (VO)
+^^^^^^^^^^^^^^^^^^^
+
+Det er valgt verneombud (VO) ved hvert verneområde ved universitetet.
+Disse velges blant ansatte og eventuelt eksternt lønnet personale i
+samme verneområde i tråd med samordningsavtaler (jf. Forskift om
+systematisk HMS-arbeid § 6). VO skal ivareta arbeidstakernes interesser
+i verneområdet i saker som angår arbeidsmiljøet. VO representerer
+arbeidstakerne i arbeidet med etablering og vedlikehold av det lokale
+HMS-arbeidet ved verneområdet. VO samarbeider og melder til linjeleder
+på instituttnivå, eller tilsvarende.
+
+-  `Liste med verneområdene og tilhørende
+   verneombud <https://skjema.app.uib.no/apex/f?p=129:8:::NO:::>`__
+
+4. Fellesadministrasjonens ansvar og oppgaver innen HMS og beredskap
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Universitetsdirektøren har delegert og fordelt oppgaver innen HMS og
+beredskap til Faggruppen for HMS, beredskap og BHT, HR-avdelingen,
+Eiendomsavdelingen og Sekretariat for universitetsledelsen.
+
+4.1 HR-avdelingen 
+^^^^^^^^^^^^^^^^^
+
+HR-avdelingen bistår og rådgir universitetets ledere og ansatte i
+personal-, organisasjons- og arbeidsmiljøfaglige spørsmål. 
+
+**Seksjon for arbeidsgiverpolitikk og strategi** har det overordnede
+og koordinerende ansvar for å utvikle, rådgi og følge opp strategi, 
+politikk og regler knyttet til UiBs arbeidsgiverpolitikk og -praksis. 
+
+**Seksjon for arbeidsmiljø og organisasjonsutvikling** er UiBs fagenhet
+innen HMS, beredskap, organisasjons- og kompetanseutvikling. 
+Seksjonen arbeider med å utvikle og følge opp rammer, verktøy og 
+metoder for HMS, beredskap, kompetanseutvikling og endring- og 
+omstillingsprosesser.
+
+
+4.2 Bedriftshelsetjenesten
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+UiBs Bedriftshelsetjeneste (BHT) er en del av HR-avdelingen. BHT bistår
+ved ulike arbeidsmiljøutfordringer, gjennomfører befaringer og
+kartlegginger ved enhetene og gir individuelle vurderinger innen
+fagfeltene arbeidshelse, psykososialt og organisatorisk arbeidsmiljø,
+ergonomi og yrkeshygiene.
+
+BHT har en fri og uavhengig stilling i arbeidsmiljøspørsmål, og tar
+hensyn til personvern og taushetsplikt. BHT er godkjent av
+Arbeidstilsynet.
+
+-  `HR-avdelingens
+   nettsider. <https://www.uib.no/hr/74443/om-hr-avdelingen>`__
+-  `I HMS-portalen finner du sentral informasjon om HMS ved
+   universitetet. <https://www.uib.no/hms-portalen>`__
+
+
+4.3 Eiendomsavdelingen
+^^^^^^^^^^^^^^^^^^^^^^
+
+Eiendomsavdelingen har ansvar for forvaltning, drift og vedlikehold av
+den samlede bygningsmassen til UiB, inkludert brannvern og vakthold.
+Avdelingen er også ansvarlig for planlegging og gjennomføring av nye
+byggeprosjekt, drift av bygningene, utearealer og post- og
+transporttjenester.
+
+-  `Eiendomsavdelingens nettsider. <https://www.uib.no/eia>`__
+
+4.4 Sekretariat for universitetsledelsen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Sekretariat for universitetsledelsen, Universitetsdirektørens kontor har
+hovedansvaret for sekretariatsfunksjonene for universitetsstyret og en
+rekke andre utvalg, og er tillagt tilsyns- og koordineringsoppgaver innenfor
+intern revisjon, personvern og etikk.
+
+-  `Sekretariat for universitetsledelsens
+   nettsider. <http://www.uib.no/ledelsen/73872/kollegiesekretariatet>`__
+
+5. Referanser:
+~~~~~~~~~~~~~~
+
+-  `Arbeidsmiljøloven <https://lovdata.no/dokument/NL/lov/2005-06-17-62>`__
+-  `Lov om universiteter og
+   høgskoler <https://lovdata.no/dokument/NL/lov/2024-03-08-9>`__
+-  `Forskrift om systematisk helse-, miljø- og sikkerhetsarbeid i
+   virksomheter <https://lovdata.no/dokument/SF/forskrift/1996-12-06-1127>`__
+-  `Regelsamling for Universitetet i
+   Bergen <https://regler.app.uib.no/regler>`__
+
++-------------------------+-------------------------+---------------+
+| Dato                    | Kommentar               | Lagt inn av   |
++=========================+=========================+===============+
+| 10. april 2025          | Oppdatering av avd.navn,| Mona Viksøy   |
+|                         | § henvisninger, justert |               |
+|                         | tekst HR-avdeling       |               |
++-------------------------+-------------------------+---------------+
+| 15.februar 2023         | 4.1.Seksjon HMS.. endret| Mona Viksøy   |
+|                         | til faggruppe HMS ...   |               |
++-------------------------+-------------------------+---------------+
+| 29. juli 2020 09:40:01  | Oppdatering av url      | Olaug Eiksund |
++-------------------------+-------------------------+---------------+
+| 27. mars 2020 11:00:04  | Oppdatering av kapittel | Olaug Eiksund |
+|                         | 4.                      |               |
+|                         | Bedriftshelsetjenesten  |               |
+|                         | legges inn som en egen  |               |
+|                         | enhet                   |               |
++-------------------------+-------------------------+---------------+
+| 09. august 2019         | Oppdatering av url i    | Olaug Eiksund |
+| 13:38:23                | kap. 3.                 |               |
++-------------------------+-------------------------+---------------+
+| 07. januar 2019         | Mindre justering i 2.9. | Olaug Eiksund |
+| 12:18:05                | Studenter               |               |
++-------------------------+-------------------------+---------------+
+| 04. juni 2018 14:13:43  | Oppdatering av 2.7.     | Olaug Eiksund |
+|                         | "Miljøkontakt" lagt inn |               |
+|                         | som eksempel.           |               |
++-------------------------+-------------------------+---------------+
+| 12. juli 2017 09:26:45  | Oppdatering av          | Olaug Eiksund |
+|                         | seksjonsnavn og ansvar  |               |
+|                         | for: Seksjon for HMS,   |               |
+|                         | beredskap og BHT, samt  |               |
+|                         | oppdatert navn for      |               |
+|                         | Sekretariat for         |               |
+|                         | universitetsledelsen    |               |
++-------------------------+-------------------------+---------------+
+| 12. juli 2017 09:23:58  | Oppdatering av          | Olaug Eiksund |
+|                         | seksjonsnavn og ansvar  |               |
+|                         | for: Seksjon for HMS,   |               |
+|                         | beredskap og BHT, samt  |               |
+|                         | oppdatert navn for      |               |
+|                         | Sekretariat for         |               |
+|                         | universitetsledelsen    |               |
++-------------------------+-------------------------+---------------+
+| 10. juli 2017 13:21:07  | Oppdatering av          | Olaug Eiksund |
+|                         | seksjonsnavn og ansvar  |               |
+|                         | for: Seksjon for HMS,   |               |
+|                         | beredskap og BHT, samt  |               |
+|                         | oppdatert navn for      |               |
+|                         | Sekretariat for         |               |
+|                         | universitetsledelsen    |               |
++-------------------------+-------------------------+---------------+
+| 10. juli 2017 13:18:49  | Oppdatering av          | Olaug Eiksund |
+|                         | seksjonsnavn og ansvar  |               |
+|                         | for: Seksjon for HMS,   |               |
+|                         | beredskap og BHT, samt  |               |
+|                         | oppdatert navn for      |               |
+|                         | Sekretariat for         |               |
+|                         | universitetsledelsen    |               |
++-------------------------+-------------------------+---------------+
+| 10. juli 2017 13:16:03  | Oppdatering av          | Olaug Eiksund |
+|                         | seksjonsnavn og ansvar  |               |
+|                         | for: Seksjon for HMS,   |               |
+|                         | beredskap og BHT, samt  |               |
+|                         | oppdatert navn for      |               |
+|                         | Sekretariat for         |               |
+|                         | universitetsledelsen    |               |
++-------------------------+-------------------------+---------------+

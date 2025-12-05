@@ -1,0 +1,8 @@
+:orphan:
+
+3.1.5 Supplementary work
+========================
+
+:doc:`Norwegian version </regler/Del-3-Personal-og-HMS/3.1-Personalforvaltning/3.1.5-Sidegjoeremaal>`
+
+- :doc:`/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.4-Etikk-og-personvern-i-forskning/Reglement-og-retningslinjer-fastsatt-av-universitetsstyret/Prinsipper-for-sidegjoeremaal-for-ansatte-ved-Universitetet-i-Bergen>`

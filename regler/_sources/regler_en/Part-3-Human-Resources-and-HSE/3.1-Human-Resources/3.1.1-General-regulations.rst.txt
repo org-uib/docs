@@ -1,0 +1,18 @@
+:orphan:
+
+3.1.1 General regulations
+=========================
+
+:doc:`Norwegian version </regler/Del-3-Personal-og-HMS/3.1-Personalforvaltning/3.1.1-Overordnet-regelverk-for-personalfeltet/index>`
+
+-  `The Working Environment Act <https://arbeidstilsynet.no/contentassets/e54635c3d2e5415785a4f23f5b852849/working-environment-act-october-web-2017.pdf>`__
+-   Statsansatteloven (norwegian only)
+-   Universitets- og høyskoleloven (norwegian only)
+-   Forvaltningsloven (norwegian only)
+-   Offentleglova (norwegian only)
+-  `Act relating to equality and a prohibition against discrimination <https://lovdata.no/dokument/NLE/lov/2017-06-16-51>`__
+-   Ferieloven (norwegian only)
+-   Forskrift til lov om statens ansatte (norwegian only)
+-   Forskrift til forvaltningsloven, kap. 5 Partsinnsyn i saker om tilsetting i den offentlige forvaltning (norwegian only)
+-   Hovedtariffavtalene i staten 1. mai 2024-30.april 2026 (norwegian only)
+-   Hovedavtalen for arbeidstakere i staten 01.01.2023 - 31.12.2025 med Tilpasningsavtale for UiB (norwegian only)

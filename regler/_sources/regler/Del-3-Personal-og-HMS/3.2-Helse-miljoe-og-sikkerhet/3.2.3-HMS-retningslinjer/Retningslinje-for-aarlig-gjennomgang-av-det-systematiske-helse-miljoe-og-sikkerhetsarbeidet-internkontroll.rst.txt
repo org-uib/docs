@@ -1,0 +1,168 @@
+Retningslinje for årlig gjennomgang av det systematiske helse-, miljø- og sikkerhetsarbeidet (internkontroll)
+-------------------------------------------------------------------------------------------------------------
+
+:doc:`English version </regler_en/Part-3-Human-Resources-and-HSE/3.2-Health-Safety-and-Environment/3.2.3-HSE-guidelines/Guidelines-for-annual-review-of-systematic-health-safety-and-environment-work-Internal-control>`
+
+Godkjent av Universitetsdirektøren 28.01.2009, sist endret 31.10.2024, arkivreferanse 2008/14884.
+
+1. Formål
+~~~~~~~~~
+
+Formålet med retningslinjen er å se til at elementene i det systematiske
+helse-, miljø- og sikkerhetsarbeidet (HMS) ved Universitetet i Bergen
+(UiB) stemmer overens med myndighetskrav og interne regler, vurdere om
+aktivitetene i HMS-arbeidet er hensiktsmessige i forhold til UiBs
+virksomhetsmål og avdekke forbedringspotensialer, slik at tiltak kan
+vurderes og prioriteres.
+
+2. Forankring
+~~~~~~~~~~~~~
+
+Retningslinjen inngår i UiBs regelsamling (Del 3. Personal og HMS) og er
+forankret i Forskrift om systematisk helse-, miljø- og sikkerhetsarbeid
+i virksomheter (Internkontrollforskriften) § 5. andre ledd punkt 8.
+
+3. Omfang
+~~~~~~~~~
+
+Retningslinjen omfatter alle enheter ved UiB.
+
+4. Ansvar
+~~~~~~~~~
+
+| Linjeleder er ansvarlig for å iverksette og følge opp retningslinjen.
+
+5. Definisjoner
+~~~~~~~~~~~~~~~
+
+-  *Linjeleder*: Universitetsdirektør, dekan, fakultets-/avdelingsdirektør
+   og instituttleder, eller tilsvarende som har det overordnete HMS-ansvaret
+   ved enheten.
+-  *Enhet*: Fakultet, avdeling, institutt og sentre ved UiB.
+-  *Verneombud*: Universitetets hovedverneombud, hovedverneombud og
+   verneombud.
+-  *Årsrapport – Helse, miljø og sikkerhet (HMS)*: Rapportering av
+   HMS-arbeid. Gjennomføres av alle UiBs enheter.
+
+6. Årlig gjennomgang av det systematiske HMS-arbeidet
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+6.1. Organisering
+^^^^^^^^^^^^^^^^^
+
+*Linjeleder* gjennomgår det systematiske HMS-arbeidet og rapporterer
+videre i linjen. Dersom forbedringspotensialer blir avdekket skal
+korrigerende tiltak vurderes og prioriteres.
+
+*Verneombud* skal sammen med linjeleder gjennomgå det systematiske
+HMS-arbeidet.
+
+6.2. Gjennomgang
+^^^^^^^^^^^^^^^^
+
+Følgende elementer i det systematiske HMS-arbeidet gjennomgås:
+
+-  Vurdere om HMS-mål er nådd og sette nye HMS-mål.
+-  Ansvar og oppgavefordeling i HMS-arbeidet.
+-  HMS-handlingsplan.
+
+   -  Resultater fra HMS-kartlegging, som HMS-møter og HMS-runder, 
+      risikovurdering og iverksetting av tiltak.
+
+-  Innrapporterte HMS-avvik.
+-  Se til at eksisterende rutiner og planer er hensiktsmessige og i
+   samsvar med regelverk.
+-  Etterse at nye aktiviteter/prosesser utføres på en forsvarlig måte.
+-  Kartlegge HMS-opplæringsbehov for neste år.
+-  Utføre nødvendig oppdatering av HMS-dokumenter.
+
+6.3. Rapportering
+^^^^^^^^^^^^^^^^^
+
+Universitetsdirektøren ber årlig om rapportering av status for lokalt
+HMS-arbeid:
+
+-  Linjeleder i samarbeid med verneombud fyller ut skjema for 
+   årsrapportering og returnerer det i linjen.
+-  Linjeleder ved fakultetene, Universitetsmuseet i Bergen og
+   Universitetsbiblioteket med respektive hovedverneombud utarbeider
+   samlet HMS-årsrapport for enheten. Rapporten styrebehandles og
+   oversendes universitetsdirektøren.
+-  UiBs HMS-årsrapport, der lokale årsrapporter for HMS er et viktig
+   element, behandles av Universitetsstyret, som gjennom rapport får
+   innspill til styrende vedtak for HMS-arbeidet ved UiB.
+
+6.4. Oppfølgning
+^^^^^^^^^^^^^^^^
+
+-  Universitetsdirektøren gjennomgår lokale HMS-årsrapporter, gir nødvendige
+   tilbakemeldinger, og foretar «en ledelsens gjennomgang» ved hvert
+   fakultet/avdeling som skal følges opp ved lokal enhet og ved
+   fakultet/avdeling.
+
+7. Referanser
+~~~~~~~~~~~~~
+
+| `Forskrift for helse-, miljø- og sikkerhetsarbeid i virksomheter
+  (Internkontrollforskriften) <http://www.lovdata.no/cgi-wift/ldles?doc=/sf/sf/sf-19961206-1127.html>`__
+| :doc:`Internrevisjon </regler/Del-1-Overordnede-rammer/1.5-Kvalitetssystemer/Internrevisjon>`
+| `Systematisk HMS-arbeid i
+  HMS-portalen <http://www.uib.no/poa/hms-portalen/systematisk-hms-arbeid/systematisk-hms-arbeid>`__
+| `HMS-årsrapportering <http://www.uib.no/poa/hms-portalen/94615/%C3%A5rsrapportering-hms>`__
+
+| **Utarbeidet av**: HR-avdelingen
+| **Erstatter**: ”Retningslinjer for internt tilsyn (revisjon) med det
+  systematiske HMS-arbeidet ved UiB” av 19.11.2003.
+
++-------------------------+-------------------------+---------------+
+| Dato                    | Kommentar               | Lagt inn av   |
++=========================+=========================+===============+
+|  31.10.2024             | Språklige justeringer i |  Mona Viksøy  |
+|                         | pkt. 6.3.og 6.4.        |               |
++-------------------------+-------------------------+---------------+
+|  6.12.2023              | Språklige justeringer i |  Mona Viksøy  |
+|                         | pkt. 5, 6.2, og 6.3     |               |
++-------------------------+-------------------------+---------------+
+|  6.10.2022              | Rettet lenke - instruks |  Mona Viksøy  |
+|                         | for internrevisjon      |               |
++-------------------------+-------------------------+---------------+
+| 07. januar 2019         | Kulepunkt i 6.3.        | Olaug Eiksund |
+| 12:34:08                | Rapportering lagt inn   |               |
+|                         | som delkapittel 6.4     |               |
+|                         | Oppfølging              |               |
++-------------------------+-------------------------+---------------+
+| 07. januar 2019         | Kulepunkt i 6.3.        | Olaug Eiksund |
+| 12:28:45                | Rapportering lagt inn   |               |
+|                         | som delkapittel 6.4     |               |
+|                         | Oppfølging              |               |
++-------------------------+-------------------------+---------------+
+| 16. november 2017       | Oppdatering av url      | Olaug Eiksund |
+| 12:34:13                |                         |               |
++-------------------------+-------------------------+---------------+
+| 16. november 2017       | Oppdatering av url      | Olaug Eiksund |
+| 11:14:32                |                         |               |
++-------------------------+-------------------------+---------------+
+| 07. november 2017       | Oppdatering av url      | Olaug Eiksund |
+| 13:45:58                |                         |               |
++-------------------------+-------------------------+---------------+
+| 06. februar 2017        | Oppdatering av url      | Olaug Eiksund |
+| 10:56:02                |                         |               |
++-------------------------+-------------------------+---------------+
+| 06. februar 2017        | Oppdatering av url      | Olaug Eiksund |
+| 10:53:45                |                         |               |
++-------------------------+-------------------------+---------------+
+| 15. juni 2015 13:17:38  | Oppdatering av          | Olaug Eiksund |
+|                         | avdelingsnavn:          |               |
+|                         | HR-avdelingen           |               |
++-------------------------+-------------------------+---------------+
+| 10. februar 2015        | Endring av navn i punkt | Olaug Eiksund |
+| 08:02:30                | 6.3 Rapportering        |               |
++-------------------------+-------------------------+---------------+
+| 20. juni 2014 08:10:49  | Retningslinje for årlig | Olaug Eiksund |
+|                         | gjennomgang av det      |               |
+|                         | systematiske helse-,    |               |
+|                         | miljø- og               |               |
+|                         | sikkerhetsarbeidet      |               |
+|                         | (internkontrollen)      |               |
+|                         | publiseres.             |               |
++-------------------------+-------------------------+---------------+

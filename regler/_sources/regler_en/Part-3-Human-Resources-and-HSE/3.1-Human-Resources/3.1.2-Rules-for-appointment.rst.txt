@@ -1,0 +1,13 @@
+:orphan:
+
+3.1.2 Rules for appointment
+===========================
+
+:doc:`Norwegian version </regler/Del-3-Personal-og-HMS/3.1-Personalforvaltning/3.1.2-Regler-om-tilsetting/index>`
+
+- :doc:`/regler_en/Part-3-Human-Resources-and-HSE/3.1-Human-Resources/3.1.2-Rules-for-appointment/Personnel-regulations-for-The-University-of-Bergen`
+- :doc:`/regler_en/Part-3-Human-Resources-and-HSE/3.1-Human-Resources/3.1.2-Rules-for-appointment/Regulations-for-appointments-to-academic-positions-and-academic-administrative-management-positions`
+- :doc:`/regler/Del-3-Personal-og-HMS/3.1-Personalforvaltning/3.1.2-Regler-om-tilsetting/Regler-for-personell-til-oppdragsstillinger-ved-universitet-og-hoegskoler` (norwegian only)
+- :doc:`/regler_en/Part-3-Human-Resources-and-HSE/3.1-Human-Resources/3.1.2-Rules-for-appointment/Rules-for-appointments-procedure-etc.-at-the-Sars-Centre`
+- :doc:`/regler/Del-3-Personal-og-HMS/3.1-Personalforvaltning/3.1.2-Regler-om-tilsetting/Avtale-om-midlertidig-tilsetting-for-instruktoertannleger-mellom-UiO-UiB-og-Den-norske-tannlegeforening` (norwegian only)
+

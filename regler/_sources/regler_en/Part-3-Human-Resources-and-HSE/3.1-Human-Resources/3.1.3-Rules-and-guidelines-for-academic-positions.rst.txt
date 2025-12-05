@@ -1,0 +1,15 @@
+:orphan:
+
+3.1.3 Rules and guidelines for academic positions
+=================================================
+
+:doc:`Norwegian version </regler/Del-3-Personal-og-HMS/3.1-Personalforvaltning/3.1.3-Regler-og-retningslinjer-for-vitenskapelige-stillinger/index>`
+
+-   Reglement for opprykk til forsker 1109 i statlige virksomheter (norwegian only)
+-   Regler for opprykk til forsker kode 1183 (norwegian only)
+-   Reglement for opprykk til stilling som førstebibliotekar (norwegian only)
+-   Retningslinjer for stilling som instruktørtannlege ved UiB og UiO (norwegian only)
+-   Retningslinjer for bruk av innstegsstillingar ved Universitetet i Bergen (norwegian only)
+-  `Guidelines for the allocation of research leave and specific time
+   arrangements for R&D
+   initiatives <3.1.3-Rules-and-guidelines-for-academic-positions/Guidelines-for-the-allocation-of-research-leave-and-specific-time-arrangements-for-R-D-initiatives.html>`__

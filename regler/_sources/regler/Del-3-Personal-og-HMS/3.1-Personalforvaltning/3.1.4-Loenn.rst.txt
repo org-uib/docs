@@ -1,0 +1,13 @@
+3.1.4 Lønn
+==========
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+
+   Lov om arbeidsmiljø, arbeidstid og stillingsvern mv.  (arbeidsmiljøloven) <http://www.lovdata.no/all/hl-20050617-062.html>
+   Lov om statens ansatte <https://lovdata.no/dokument/NL/lov/2017-06-16-67?q=statsansatteloven>
+   Lov om skatt av formue og inntekt (skatteloven) <http://www.lovdata.no/all/hl-19990326-014.html>
+   Lov om skatteforvaltning (skatteforvaltningsloven) <https://lovdata.no/dokument/NL/lov/2016-05-27-14>
+   Lov om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven) <http://www.lovdata.no/all/hl-20050617-067.html>
+   Statens personalhåndbok <https://lovdata.no/dokument/SPH/sph-2022>

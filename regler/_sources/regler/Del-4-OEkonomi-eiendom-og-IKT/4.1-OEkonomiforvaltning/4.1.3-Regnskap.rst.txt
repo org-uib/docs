@@ -1,0 +1,15 @@
+4.1.3 Regnskap
+==============
+
+-  `Lov om årsregnskap m.v.
+   (regnskapsloven) <http://www.lovdata.no/all/hl-19980717-056.html>`__
+-  `Lov om bokføring
+   (bokføringsloven) <http://www.lovdata.no/all/hl-20041119-073.html>`__
+-  `Forskrift om
+   bokføring <http://www.lovdata.no/cgi-wift/ldles?doc=/sf/sf/sf-20041201-1558.html>`__
+-  `Lov om merverdiavgift
+   (merverdiavgiftsloven) <http://www.lovdata.no/all/hl-20090619-058.html>`__
+-  `Statlige
+   regnskapsstandarder <http://www.regjeringen.no/nb/dep/fin/tema/statlig_okonomistyring/statlige-regnskapsstandarder.html?id=588778>`__
+-  `Retningslinjer for
+   konsernregnskap <http://www.regjeringen.no/nb/dep/kd/dok/lover_regler/reglement/2005/retningslinjer-for-konsernregnskap.html?id=107584>`__
