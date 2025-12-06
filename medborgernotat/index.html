@@ -76,11 +76,49 @@
             font-size: 0.9em;
             text-align: center;
         }
+        .search-container {
+            margin: 20px 0;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-radius: 6px;
+            border: 1px solid #ddd;
+        }
+        .search-box {
+            width: 100%;
+            padding: 12px 15px;
+            font-size: 16px;
+            border: 2px solid #4CAF50;
+            border-radius: 4px;
+            box-sizing: border-box;
+            transition: border-color 0.3s;
+        }
+        .search-box:focus {
+            outline: none;
+            border-color: #45a049;
+        }
+        .search-info {
+            margin-top: 10px;
+            color: #666;
+            font-size: 0.9em;
+        }
+        .highlight {
+            background-color: #fff59d;
+            font-weight: 600;
+        }
+        tr.hidden {
+            display: none;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Index of /</h1>
+
+        <div class="search-container">
+            <input type="text" id="searchBox" class="search-box" placeholder="Søk etter kodebøker (f.eks. NCP, round 15, COVID-19, NFP...)">
+            <div class="search-info" id="searchInfo">Viser alle filer</div>
+        </div>
+
         <table>
             <thead>
                 <tr>
@@ -136,5 +174,34 @@
             Generated on 2025-11-27 15:38:48
         </footer>
     </div>
+
+    <script>
+        const searchBox = document.getElementById('searchBox');
+        const searchInfo = document.getElementById('searchInfo');
+        const tableRows = document.querySelectorAll('tbody tr');
+        const totalRows = tableRows.length;
+
+        searchBox.addEventListener('input', function() {
+            const searchTerm = this.value.toLowerCase().trim();
+            let visibleCount = 0;
+
+            tableRows.forEach(row => {
+                const fileName = row.querySelector('td:first-child')?.textContent.toLowerCase() || '';
+
+                if (searchTerm === '' || fileName.includes(searchTerm)) {
+                    row.classList.remove('hidden');
+                    visibleCount++;
+                } else {
+                    row.classList.add('hidden');
+                }
+            });
+
+            if (searchTerm === '') {
+                searchInfo.textContent = 'Viser alle filer';
+            } else {
+                searchInfo.textContent = `Viser ${visibleCount} av ${totalRows} filer`;
+            }
+        });
+    </script>
 </body>
 </html>
