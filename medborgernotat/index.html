@@ -164,8 +164,8 @@
         </div>
 
         <div class="search-container">
-            <input type="text" id="searchBox" class="search-box" placeholder="Søk etter filer i alle mapper (f.eks. NCP, round 15, COVID-19, NFP...)">
-            <div class="search-info" id="searchInfo">Viser alle filer i denne mappen</div>
+            <input type="text" id="searchBox" class="search-box" placeholder="Søk med flere ord (f.eks. 'NCP round 15' eller 'COVID-19 fast track')">
+            <div class="search-info" id="searchInfo">Viser alle filer i denne mappen. Tips: Bruk flere ord for å begrense søket.</div>
         </div>
         <table>
             <thead>
@@ -258,12 +258,18 @@
                 return;
             }
 
+            // Split search term into multiple words
+            const searchWords = searchTerm.split(/\s+/).filter(word => word.length > 0);
+
             // Search through all files (filename, path, and content)
             const matchingFiles = allFiles.filter(file => {
                 const fileName = file.name.toLowerCase();
                 const filePath = file.path.toLowerCase();
-                const content = file.content || '';
-                return fileName.includes(searchTerm) || filePath.includes(searchTerm) || content.includes(searchTerm);
+                const content = (file.content || '').toLowerCase();
+                const combinedText = `${fileName} ${filePath} ${content}`;
+
+                // ALL search words must be present (AND logic)
+                return searchWords.every(word => combinedText.includes(word));
             });
 
             // Clear table and show matching files
