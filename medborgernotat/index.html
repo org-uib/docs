@@ -101,24 +101,16 @@
             color: #666;
             font-size: 0.9em;
         }
-        .highlight {
-            background-color: #fff59d;
-            font-weight: 600;
-        }
-        tr.hidden {
-            display: none;
-        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Index of /</h1>
-
+        
         <div class="search-container">
-            <input type="text" id="searchBox" class="search-box" placeholder="Søk etter kodebøker (f.eks. NCP, round 15, COVID-19, NFP...)">
-            <div class="search-info" id="searchInfo">Viser alle filer</div>
+            <input type="text" id="searchBox" class="search-box" placeholder="Søk etter filer i alle mapper (f.eks. NCP, round 15, COVID-19, NFP...)">
+            <div class="search-info" id="searchInfo">Viser alle filer i denne mappen</div>
         </div>
-
         <table>
             <thead>
                 <tr>
@@ -149,9 +141,14 @@
                     <td class="date">2021-08-17 10:01</td>
                 </tr>
                 <tr>
+                    <td><a href="files_index.json" class="file">files_index.json</a></td>
+                    <td class="size">22.1 KB</td>
+                    <td class="date">2025-12-06 21:26</td>
+                </tr>
+                <tr>
                     <td><a href="generate_index.py" class="file">generate_index.py</a></td>
-                    <td class="size">6.4 KB</td>
-                    <td class="date">2025-11-27 15:38</td>
+                    <td class="size">12.2 KB</td>
+                    <td class="date">2025-12-06 21:27</td>
                 </tr>
                 <tr>
                     <td><a href="medborgernotat_systemstotte.html" class="file">medborgernotat_systemstotte.html</a></td>
@@ -171,35 +168,67 @@
             </tbody>
         </table>
         <footer>
-            Generated on 2025-11-27 15:38:48
+            Generated on 2025-12-06 21:27:46
         </footer>
     </div>
-
+    
     <script>
         const searchBox = document.getElementById('searchBox');
         const searchInfo = document.getElementById('searchInfo');
-        const tableRows = document.querySelectorAll('tbody tr');
-        const totalRows = tableRows.length;
+        const tableBody = document.querySelector('tbody');
+        const originalRows = Array.from(document.querySelectorAll('tbody tr'));
+        let allFiles = [];
+
+        // Load the comprehensive file index
+        fetch('files_index.json')
+            .then(response => response.json())
+            .then(data => {
+                allFiles = data;
+                searchInfo.textContent = `Klar til å søke i ${allFiles.length} filer fra alle mapper`;
+            })
+            .catch(error => {
+                console.error('Error loading file index:', error);
+                searchInfo.textContent = 'Søk er begrenset til denne mappen (kunne ikke laste filindeks)';
+            });
 
         searchBox.addEventListener('input', function() {
             const searchTerm = this.value.toLowerCase().trim();
-            let visibleCount = 0;
-
-            tableRows.forEach(row => {
-                const fileName = row.querySelector('td:first-child')?.textContent.toLowerCase() || '';
-
-                if (searchTerm === '' || fileName.includes(searchTerm)) {
-                    row.classList.remove('hidden');
-                    visibleCount++;
-                } else {
-                    row.classList.add('hidden');
-                }
-            });
 
             if (searchTerm === '') {
-                searchInfo.textContent = 'Viser alle filer';
+                // Show original rows when search is empty
+                tableBody.innerHTML = '';
+                originalRows.forEach(row => tableBody.appendChild(row.cloneNode(true)));
+                searchInfo.textContent = `Klar til å søke i ${allFiles.length} filer fra alle mapper`;
+                return;
+            }
+
+            // Search through all files
+            const matchingFiles = allFiles.filter(file => {
+                const fileName = file.name.toLowerCase();
+                const filePath = file.path.toLowerCase();
+                return fileName.includes(searchTerm) || filePath.includes(searchTerm);
+            });
+
+            // Clear table and show matching files
+            tableBody.innerHTML = '';
+
+            if (matchingFiles.length === 0) {
+                const row = document.createElement('tr');
+                row.innerHTML = `<td colspan="3" style="text-align: center; color: #999;">Ingen filer matcher "${searchTerm}"</td>`;
+                tableBody.appendChild(row);
+                searchInfo.textContent = `Ingen treff`;
             } else {
-                searchInfo.textContent = `Viser ${visibleCount} av ${totalRows} filer`;
+                matchingFiles.forEach(file => {
+                    const row = document.createElement('tr');
+                    const directoryLabel = file.directory === '/' ? 'rot' : file.directory;
+                    row.innerHTML = `
+                        <td><a href="${file.path}" class="file">${file.name}</a><br><small style="color: #999; margin-left: 24px;">📁 ${directoryLabel}</small></td>
+                        <td class="size">${file.size}</td>
+                        <td class="date">${file.modified}</td>
+                    `;
+                    tableBody.appendChild(row);
+                });
+                searchInfo.textContent = `Viser ${matchingFiles.length} av ${allFiles.length} filer`;
             }
         });
     </script>

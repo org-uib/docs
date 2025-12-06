@@ -5,6 +5,7 @@ This script creates directory listings similar to Apache's DirectoryIndex.
 """
 
 import os
+import json
 from pathlib import Path
 from datetime import datetime
 
@@ -87,11 +88,37 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             font-size: 0.9em;
             text-align: center;
         }}
+        .search-container {{
+            margin: 20px 0;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-radius: 6px;
+            border: 1px solid #ddd;
+        }}
+        .search-box {{
+            width: 100%;
+            padding: 12px 15px;
+            font-size: 16px;
+            border: 2px solid #4CAF50;
+            border-radius: 4px;
+            box-sizing: border-box;
+            transition: border-color 0.3s;
+        }}
+        .search-box:focus {{
+            outline: none;
+            border-color: #45a049;
+        }}
+        .search-info {{
+            margin-top: 10px;
+            color: #666;
+            font-size: 0.9em;
+        }}
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Index of {relative_path}</h1>
+        {search_box}
         <table>
             <thead>
                 <tr>
@@ -108,6 +135,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             Generated on {generated_time}
         </footer>
     </div>
+    {search_script}
 </body>
 </html>
 """
@@ -145,6 +173,9 @@ def create_index_html(directory_path, root_path):
             relative_path = '/'
     except:
         relative_path = '/'
+
+    # Check if this is the root directory
+    is_root = (directory == root)
 
     # Collect directories and files
     items = []
@@ -185,11 +216,86 @@ def create_index_html(directory_path, root_path):
                 </tr>"""
         table_rows.append(row)
 
+    # Add search box and script only for root directory
+    if is_root:
+        search_box = """
+        <div class="search-container">
+            <input type="text" id="searchBox" class="search-box" placeholder="Søk etter filer i alle mapper (f.eks. NCP, round 15, COVID-19, NFP...)">
+            <div class="search-info" id="searchInfo">Viser alle filer i denne mappen</div>
+        </div>"""
+
+        search_script = """
+    <script>
+        const searchBox = document.getElementById('searchBox');
+        const searchInfo = document.getElementById('searchInfo');
+        const tableBody = document.querySelector('tbody');
+        const originalRows = Array.from(document.querySelectorAll('tbody tr'));
+        let allFiles = [];
+
+        // Load the comprehensive file index
+        fetch('files_index.json')
+            .then(response => response.json())
+            .then(data => {
+                allFiles = data;
+                searchInfo.textContent = `Klar til å søke i ${allFiles.length} filer fra alle mapper`;
+            })
+            .catch(error => {
+                console.error('Error loading file index:', error);
+                searchInfo.textContent = 'Søk er begrenset til denne mappen (kunne ikke laste filindeks)';
+            });
+
+        searchBox.addEventListener('input', function() {
+            const searchTerm = this.value.toLowerCase().trim();
+
+            if (searchTerm === '') {
+                // Show original rows when search is empty
+                tableBody.innerHTML = '';
+                originalRows.forEach(row => tableBody.appendChild(row.cloneNode(true)));
+                searchInfo.textContent = `Klar til å søke i ${allFiles.length} filer fra alle mapper`;
+                return;
+            }
+
+            // Search through all files
+            const matchingFiles = allFiles.filter(file => {
+                const fileName = file.name.toLowerCase();
+                const filePath = file.path.toLowerCase();
+                return fileName.includes(searchTerm) || filePath.includes(searchTerm);
+            });
+
+            // Clear table and show matching files
+            tableBody.innerHTML = '';
+
+            if (matchingFiles.length === 0) {
+                const row = document.createElement('tr');
+                row.innerHTML = `<td colspan="3" style="text-align: center; color: #999;">Ingen filer matcher "${searchTerm}"</td>`;
+                tableBody.appendChild(row);
+                searchInfo.textContent = `Ingen treff`;
+            } else {
+                matchingFiles.forEach(file => {
+                    const row = document.createElement('tr');
+                    const directoryLabel = file.directory === '/' ? 'rot' : file.directory;
+                    row.innerHTML = `
+                        <td><a href="${file.path}" class="file">${file.name}</a><br><small style="color: #999; margin-left: 24px;">📁 ${directoryLabel}</small></td>
+                        <td class="size">${file.size}</td>
+                        <td class="date">${file.modified}</td>
+                    `;
+                    tableBody.appendChild(row);
+                });
+                searchInfo.textContent = `Viser ${matchingFiles.length} av ${allFiles.length} filer`;
+            }
+        });
+    </script>"""
+    else:
+        search_box = ''
+        search_script = ''
+
     # Generate HTML content
     html_content = HTML_TEMPLATE.format(
         relative_path=relative_path,
+        search_box=search_box,
         table_rows='\n'.join(table_rows),
-        generated_time=datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        generated_time=datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+        search_script=search_script
     )
 
     # Write index.html file
@@ -198,6 +304,44 @@ def create_index_html(directory_path, root_path):
         f.write(html_content)
 
     print(f"Created: {index_file}")
+
+
+def collect_all_files(root_path):
+    """Collect all HTML files from all subdirectories."""
+    all_files = []
+
+    for dirpath, dirnames, filenames in os.walk(root_path):
+        # Skip hidden directories
+        dirnames[:] = [d for d in dirnames if not d.startswith('.')]
+
+        dir_path = Path(dirpath)
+
+        # Calculate relative directory path
+        try:
+            if dir_path == root_path:
+                rel_dir = ''
+            else:
+                rel_dir = str(dir_path.relative_to(root_path)) + '/'
+        except:
+            continue
+
+        for filename in filenames:
+            # Skip index.html files, hidden files, and non-HTML files
+            if filename == 'index.html' or filename.startswith('.') or not filename.endswith('.html'):
+                continue
+
+            file_path = dir_path / filename
+            size, mtime = get_file_info(file_path)
+
+            all_files.append({
+                'name': filename,
+                'path': rel_dir + filename,
+                'directory': rel_dir.rstrip('/') if rel_dir else '/',
+                'size': size,
+                'modified': mtime
+            })
+
+    return all_files
 
 
 def main():
@@ -221,6 +365,16 @@ def main():
             continue
 
         create_index_html(dir_path, root_path)
+
+    # Generate comprehensive file index JSON
+    print("\nGenerating files index JSON...")
+    all_files = collect_all_files(root_path)
+    json_file = root_path / 'files_index.json'
+
+    with open(json_file, 'w', encoding='utf-8') as f:
+        json.dump(all_files, f, ensure_ascii=False, indent=2)
+
+    print(f"Created: {json_file} ({len(all_files)} files indexed)")
 
     print("\nDone! All index.html files have been generated.")
     print("You can now commit and push these files to GitHub.")
