@@ -327,15 +327,30 @@
             const wordEl = document.createElement('span');
             wordEl.className = 'word';
             wordEl.textContent = item.word;
-            wordEl.title = `Forekomster: ${item.count}`;
+            wordEl.title = `Klikk for å se filer med "${item.word}" (${item.count} forekomster)`;
 
             // Calculate font size based on frequency (14px to 42px)
             const fontSize = 14 + ((item.count - minCount) / (maxCount - minCount)) * 28;
             wordEl.style.fontSize = fontSize + 'px';
 
-            // Add click event to show count
+            // Add click event to search for this word
             wordEl.addEventListener('click', () => {
-                alert(`"${item.word}" forekommer ${item.count} ganger i analysen`);
+                // Set the search box value to this word
+                searchBox.value = item.word;
+
+                // Trigger the search by dispatching an input event
+                searchBox.dispatchEvent(new Event('input'));
+
+                // Scroll to the search results
+                searchBox.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+                // Highlight the search box briefly
+                searchBox.style.borderColor = '#45a049';
+                searchBox.style.boxShadow = '0 0 10px rgba(69, 160, 73, 0.5)';
+                setTimeout(() => {
+                    searchBox.style.borderColor = '#4CAF50';
+                    searchBox.style.boxShadow = 'none';
+                }, 1000);
             });
 
             wordCloud.appendChild(wordEl);
