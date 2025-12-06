@@ -101,12 +101,55 @@
             color: #666;
             font-size: 0.9em;
         }
+        .word-cloud-header {
+            background: linear-gradient(135deg, #4CAF50 0%, #45a049 100%);
+            border-radius: 12px;
+            padding: 30px 20px;
+            margin: 20px 0;
+            box-shadow: 0 4px 15px rgba(76, 175, 80, 0.3);
+        }
+        .word-cloud-title {
+            text-align: center;
+            color: white;
+            margin-bottom: 20px;
+            font-size: 1.3em;
+            font-weight: 600;
+        }
+        .word-cloud {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            padding: 10px;
+            min-height: 200px;
+        }
+        .word {
+            display: inline-block;
+            padding: 8px 15px;
+            border-radius: 6px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            font-weight: bold;
+            background-color: rgba(255, 255, 255, 0.9);
+            color: #2e7d32;
+        }
+        .word:hover {
+            transform: scale(1.1) rotate(2deg);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            background-color: white;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Index of /</h1>
-        
+        <h1>Medborgerundersøkelser</h1>
+
+        <div class="word-cloud-header">
+            <div class="word-cloud-title">Nøkkelord fra forskningen</div>
+            <div class="word-cloud" id="wordCloud"></div>
+        </div>
+
         <div class="search-container">
             <input type="text" id="searchBox" class="search-box" placeholder="Søk etter filer i alle mapper (f.eks. NCP, round 15, COVID-19, NFP...)">
             <div class="search-info" id="searchInfo">Viser alle filer i denne mappen</div>
@@ -231,6 +274,52 @@
                 });
                 searchInfo.textContent = `Viser ${matchingFiles.length} av ${allFiles.length} filer`;
             }
+        });
+
+        // Word cloud data and rendering
+        const wordData = [
+            { word: 'generasjon', count: 50 },
+            { word: 'eldre', count: 47 },
+            { word: 'yngre', count: 46 },
+            { word: 'uenig', count: 42 },
+            { word: 'utdanning', count: 35 },
+            { word: 'stemme', count: 33 },
+            { word: 'viser', count: 31 },
+            { word: 'kjønn', count: 28 },
+            { word: 'norge', count: 26 },
+            { word: 'region', count: 26 },
+            { word: 'inntekt', count: 26 },
+            { word: 'vekst', count: 20 },
+            { word: 'spørsmålet', count: 20 },
+            { word: 'bekymret', count: 18 },
+            { word: 'mange', count: 17 },
+            { word: 'skilnad', count: 16 },
+            { word: 'fordel', count: 15 },
+            { word: 'februar', count: 15 },
+            { word: 'verken', count: 15 },
+            { word: 'ulempe', count: 14 }
+        ];
+
+        const wordCloud = document.getElementById('wordCloud');
+        const maxCount = Math.max(...wordData.map(w => w.count));
+        const minCount = Math.min(...wordData.map(w => w.count));
+
+        wordData.forEach((item) => {
+            const wordEl = document.createElement('span');
+            wordEl.className = 'word';
+            wordEl.textContent = item.word;
+            wordEl.title = `Forekomster: ${item.count}`;
+
+            // Calculate font size based on frequency (14px to 42px)
+            const fontSize = 14 + ((item.count - minCount) / (maxCount - minCount)) * 28;
+            wordEl.style.fontSize = fontSize + 'px';
+
+            // Add click event to show count
+            wordEl.addEventListener('click', () => {
+                alert(`"${item.word}" forekommer ${item.count} ganger i analysen`);
+            });
+
+            wordCloud.appendChild(wordEl);
         });
     </script>
 </body>
