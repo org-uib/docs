@@ -143,12 +143,12 @@
                 <tr>
                     <td><a href="files_index.json" class="file">files_index.json</a></td>
                     <td class="size">22.1 KB</td>
-                    <td class="date">2025-12-06 21:26</td>
+                    <td class="date">2025-12-06 21:27</td>
                 </tr>
                 <tr>
                     <td><a href="generate_index.py" class="file">generate_index.py</a></td>
-                    <td class="size">12.2 KB</td>
-                    <td class="date">2025-12-06 21:27</td>
+                    <td class="size">14.5 KB</td>
+                    <td class="date">2025-12-06 21:36</td>
                 </tr>
                 <tr>
                     <td><a href="medborgernotat_systemstotte.html" class="file">medborgernotat_systemstotte.html</a></td>
@@ -168,7 +168,7 @@
             </tbody>
         </table>
         <footer>
-            Generated on 2025-12-06 21:27:46
+            Generated on 2025-12-06 21:36:38
         </footer>
     </div>
     
@@ -202,11 +202,12 @@
                 return;
             }
 
-            // Search through all files
+            // Search through all files (filename, path, and content)
             const matchingFiles = allFiles.filter(file => {
                 const fileName = file.name.toLowerCase();
                 const filePath = file.path.toLowerCase();
-                return fileName.includes(searchTerm) || filePath.includes(searchTerm);
+                const content = file.content || '';
+                return fileName.includes(searchTerm) || filePath.includes(searchTerm) || content.includes(searchTerm);
             });
 
             // Clear table and show matching files

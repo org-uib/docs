@@ -6,8 +6,57 @@ This script creates directory listings similar to Apache's DirectoryIndex.
 
 import os
 import json
+import re
 from pathlib import Path
 from datetime import datetime
+from html.parser import HTMLParser
+
+
+class HTMLTextExtractor(HTMLParser):
+    """Extract text content from HTML."""
+    def __init__(self):
+        super().__init__()
+        self.text_parts = []
+        self.skip_tags = {'script', 'style', 'head'}
+        self.current_tag = None
+
+    def handle_starttag(self, tag, attrs):
+        self.current_tag = tag
+
+    def handle_endtag(self, tag):
+        self.current_tag = None
+
+    def handle_data(self, data):
+        if self.current_tag not in self.skip_tags:
+            text = data.strip()
+            if text:
+                self.text_parts.append(text)
+
+    def get_text(self):
+        return ' '.join(self.text_parts)
+
+
+def extract_text_from_html(file_path, max_length=50000):
+    """Extract searchable text from an HTML file."""
+    try:
+        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+            html_content = f.read()
+
+        parser = HTMLTextExtractor()
+        parser.feed(html_content)
+        text = parser.get_text()
+
+        # Limit text length to avoid huge JSON files
+        if len(text) > max_length:
+            text = text[:max_length]
+
+        # Normalize whitespace
+        text = re.sub(r'\s+', ' ', text)
+
+        return text.lower()
+    except Exception as e:
+        print(f"  Warning: Could not extract text from {file_path}: {e}")
+        return ""
 
 
 HTML_TEMPLATE = """<!DOCTYPE html>
@@ -255,11 +304,12 @@ def create_index_html(directory_path, root_path):
                 return;
             }
 
-            // Search through all files
+            // Search through all files (filename, path, and content)
             const matchingFiles = allFiles.filter(file => {
                 const fileName = file.name.toLowerCase();
                 const filePath = file.path.toLowerCase();
-                return fileName.includes(searchTerm) || filePath.includes(searchTerm);
+                const content = file.content || '';
+                return fileName.includes(searchTerm) || filePath.includes(searchTerm) || content.includes(searchTerm);
             });
 
             // Clear table and show matching files
@@ -309,6 +359,17 @@ def create_index_html(directory_path, root_path):
 def collect_all_files(root_path):
     """Collect all HTML files from all subdirectories."""
     all_files = []
+    total_files = 0
+
+    # First, count total files for progress indication
+    for dirpath, dirnames, filenames in os.walk(root_path):
+        dirnames[:] = [d for d in dirnames if not d.startswith('.')]
+        for filename in filenames:
+            if filename != 'index.html' and not filename.startswith('.') and filename.endswith('.html'):
+                total_files += 1
+
+    print(f"Extracting content from {total_files} HTML files...")
+    processed = 0
 
     for dirpath, dirnames, filenames in os.walk(root_path):
         # Skip hidden directories
@@ -333,12 +394,20 @@ def collect_all_files(root_path):
             file_path = dir_path / filename
             size, mtime = get_file_info(file_path)
 
+            # Extract text content from the HTML file
+            text_content = extract_text_from_html(file_path)
+
+            processed += 1
+            if processed % 10 == 0:
+                print(f"  Processed {processed}/{total_files} files...")
+
             all_files.append({
                 'name': filename,
                 'path': rel_dir + filename,
                 'directory': rel_dir.rstrip('/') if rel_dir else '/',
                 'size': size,
-                'modified': mtime
+                'modified': mtime,
+                'content': text_content
             })
 
     return all_files
