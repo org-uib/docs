@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medborgernotat - Tematisk Ordsky</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            max-width: 1400px;
+            width: 100%;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        h2 {
+            text-align: center;
+            color: #666;
+            margin-bottom: 40px;
+            font-size: 1.2em;
+            font-weight: normal;
+        }
+        .word-cloud {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 15px;
+            padding: 20px;
+            min-height: 500px;
+        }
+        .word {
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .word:hover {
+            transform: scale(1.15) rotate(3deg);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+        }
+        .legend {
+            text-align: center;
+            margin-top: 30px;
+            color: #666;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Medborgernotat</h1>
+        <h2>Tematisk Ordsky</h2>
+        <div class="word-cloud" id="wordCloud"></div>
+        <div class="legend">
+            Tematiske nøkkelord fra medborgernotatene. Tallet viser hvor mange filer som inneholder ordet.
+        </div>
+    </div>
+
+    <script>
+        const wordData = [
+            { word: 'viser', count: 5 },
+            { word: 'norge', count: 4 },
+            { word: 'utdanning', count: 3 },
+            { word: 'kjønn', count: 3 },
+            { word: 'februar', count: 3 },
+            { word: 'spørsmålet', count: 3 },
+            { word: 'vekst', count: 2 },
+            { word: 'yngre', count: 2 },
+            { word: 'eldre', count: 2 },
+            { word: 'verken', count: 2 },
+            { word: 'mange', count: 2 },
+            { word: 'inntekt', count: 2 },
+            { word: 'flyktninger', count: 1 },
+            { word: 'ulempe', count: 1 },
+            { word: 'økonomiske', count: 1 },
+            { word: 'oksit', count: 1 },
+            { word: 'stemt', count: 1 },
+            { word: 'stemme', count: 1 },
+            { word: 'stemmer', count: 1 },
+            { word: 'spørsmålsformulering', count: 1 }
+        ];
+
+        const colors = [
+            '#667eea', '#764ba2', '#f093fb', '#4facfe',
+            '#43e97b', '#fa709a', '#fee140', '#30cfd0',
+            '#a8edea', '#fed6e3', '#c471ed', '#12c2e9',
+            '#ff6b6b', '#4ecdc4', '#45b7d1', '#96ceb4'
+        ];
+
+        const wordCloud = document.getElementById('wordCloud');
+        const maxCount = Math.max(...wordData.map(w => w.count));
+        const minCount = Math.min(...wordData.map(w => w.count));
+
+        wordData.forEach((item, index) => {
+            const wordEl = document.createElement('span');
+            wordEl.className = 'word';
+            wordEl.textContent = item.word;
+            wordEl.title = `Forekomster: ${item.count}`;
+
+            // Calculate font size based on frequency (25px to 90px)
+            const fontSize = 25 + ((item.count - minCount) / (maxCount - minCount)) * 65;
+            wordEl.style.fontSize = fontSize + 'px';
+
+            // Assign color
+            wordEl.style.backgroundColor = colors[index % colors.length];
+            wordEl.style.color = 'white';
+
+            // Add click event to show count
+            wordEl.addEventListener('click', () => {
+                alert(`"${item.word}" finnes i ${item.count} filer`);
+            });
+
+            wordCloud.appendChild(wordEl);
+        });
+    </script>
+</body>
+</html>

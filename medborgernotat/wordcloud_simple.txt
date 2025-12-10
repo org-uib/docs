@@ -1,0 +1,23 @@
+WORD CLOUD - Top words and their frequencies
+============================================================
+
+dei: 113
+enig: 54
+generasjon: 50
+svært: 49
+eldre: 47
+yngre: 46
+uenig: 42
+ein: 39
+signifikant: 37
+data: 35
+frå: 35
+utdanning: 35
+stemme: 33
+kjønn: 28
+region: 26
+inntekt: 26
+enn: 25
+blant: 21
+vekst: 20
+bekymret: 18

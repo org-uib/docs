@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medborgernotat Word Cloud</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            max-width: 1200px;
+            width: 100%;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 40px;
+            font-size: 2.5em;
+        }
+        .word-cloud {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 15px;
+            padding: 20px;
+            min-height: 500px;
+        }
+        .word {
+            display: inline-block;
+            padding: 8px 16px;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .word:hover {
+            transform: scale(1.1) rotate(2deg);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        .legend {
+            text-align: center;
+            margin-top: 30px;
+            color: #666;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Medborgernotat Ordsky</h1>
+        <div class="word-cloud" id="wordCloud"></div>
+        <div class="legend">
+            Ordene er hentet fra analyse av medborgernotatene. Størrelsen reflekterer frekvens.
+        </div>
+    </div>
+
+    <script>
+        const wordData = [
+            { word: 'dei', count: 113 },
+            { word: 'enig', count: 54 },
+            { word: 'generasjon', count: 50 },
+            { word: 'svært', count: 49 },
+            { word: 'eldre', count: 47 },
+            { word: 'yngre', count: 46 },
+            { word: 'uenig', count: 42 },
+            { word: 'ein', count: 39 },
+            { word: 'signifikant', count: 37 },
+            { word: 'data', count: 35 },
+            { word: 'frå', count: 35 },
+            { word: 'utdanning', count: 35 },
+            { word: 'stemme', count: 33 },
+            { word: 'kjønn', count: 28 },
+            { word: 'region', count: 26 },
+            { word: 'inntekt', count: 26 },
+            { word: 'enn', count: 25 },
+            { word: 'blant', count: 21 },
+            { word: 'vekst', count: 20 },
+            { word: 'bekymret', count: 18 }
+        ];
+
+        const colors = [
+            '#667eea', '#764ba2', '#f093fb', '#4facfe',
+            '#43e97b', '#fa709a', '#fee140', '#30cfd0',
+            '#a8edea', '#fed6e3', '#c471ed', '#12c2e9'
+        ];
+
+        const wordCloud = document.getElementById('wordCloud');
+        const maxCount = Math.max(...wordData.map(w => w.count));
+        const minCount = Math.min(...wordData.map(w => w.count));
+
+        wordData.forEach((item, index) => {
+            const wordEl = document.createElement('span');
+            wordEl.className = 'word';
+            wordEl.textContent = item.word;
+            wordEl.title = `Forekomster: ${item.count}`;
+
+            // Calculate font size based on frequency (20px to 80px)
+            const fontSize = 20 + ((item.count - minCount) / (maxCount - minCount)) * 60;
+            wordEl.style.fontSize = fontSize + 'px';
+
+            // Assign color
+            wordEl.style.backgroundColor = colors[index % colors.length];
+            wordEl.style.color = 'white';
+
+            // Add click event to show count
+            wordEl.addEventListener('click', () => {
+                alert(`"${item.word}" forekommer ${item.count} ganger`);
+            });
+
+            wordCloud.appendChild(wordEl);
+        });
+    </script>
+</body>
+</html>
