@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;1,300&display=swap');
+
+body {background-color:#ededed ;}
+.container { 
+    background-color: whitesmoke;
+    padding-top: 40px;
+    margin-top: -50px;
+}
+
+
+.btn-info {
+    background-color: #f8f9fa;
+    color: #000;
+    border: none;
+}
+
+.btn-primary {
+    background-color:  #f8f9fa;
+    color: #000;
+    border:none;
+}
+
+.important-note
+{
+    color: #000;
+}
+
+.internal-note {
+    color: #888;
+}
+
+.local-publication {
+    color: #454545;
+}
+
+.internal-warning {
+    color: #766e6e;
+}
+
+
+.research-meta {
+    margin-top:0.2em;
+    margin-bottom:0.2em;
+    border-bottom: 1px solid #ddd;
+}
+
+.research-meta-title {
+    margin-bottom:0.0em;
+    margin-top:0.0em;
+}
+
+.research-meta-status {
+    font-size:0.85em;
+    font-weight:normal;
+    color:#555;
+    margin-bottom: 0.2em;
+    margin-top: 0.2em;
+}
+
+.research-meta-type {
+    font-size:0.7em;
+    color:#888;
+}
+
+.research-meta-author {
+    font-size: 0.9em;
+    font-weight: regular;
+    display: block;
+    margin-top:0.2em;
+    margin-bottom:0.2em;
+}
+
+
+.keyword {
+    /* t r b l */
+    margin: 0px 25px 0px 0px;
+}
+
+
+
+.keyword-research-list {
+    margin-top:5em;
+}
+
+li {
+    list-style-type: none;
+}
+
+.back-to-top {
+    font-size: 8px;
+}
+
+#keywords {
+    text-align: left;
+}
+
+.keywordlink {
+    display: inline-block;
+}
+
+h5.keywordlink a {
+    font-size: 0.7em;
+}
+
+h4.keywordlink a {
+    font-size: 0.85em;
+}
+
+h3.keywordlink a {
+    font-size: 1.0em;
+}
+
+h2.keywordlink a {
+    font-size: 1.15em;
+}
+
+h1.keywordlink a {
+    font-size: 1.3em;
+}
+
+.headers h1 {
+    font-family: Rubik;
+    font-size: 4em;
+}
+
+.headers h4 {
+    font-size: 2em;
+    font-family: Rubik;
+    font-style: italic;
+}
+
+.headers {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+#keywords h1,h2,h3,h4,h5 {
+    font-family: sans-serif;
+}
+
+

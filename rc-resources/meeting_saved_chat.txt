@@ -1,0 +1,22 @@
+10:13:02 From  Casper Schipper  to  Everyone : https://github.com/casperschipper/kc-keywords-elm
+10:13:17 From  Casper Schipper  to  Everyone : https://guide.elm-lang.org/install/elm.html
+10:19:36 From  Casper Schipper  to  Everyone : elm make src/Main.elm
+10:54:23 From  Casper Schipper  to  Everyone : <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+11:12:48 From  Casper Schipper  to  Everyone : elm make src/Main.elm —output elm.js
+11:13:05 From  Casper Schipper  to  Everyone : elm make src/Main.elm --output=elm.js
+11:22:59 From  Casper Schipper  to  Everyone : let app = Elm.Main.init({node: document.getElementById("elm")});
+11:26:22 From  Casper Schipper  to  Everyone : elm make src/Main.elm -—output=“output-elm.js”
+11:29:14 From  Casper Schipper  to  Everyone : List.member “someMagicKeyword” research.keywords
+11:43:13 From  Casper Schipper  to  Everyone : npm install -g elm-format
+11:47:14 From  Jonas Howden Sjøvaag  to  Everyone : Grieg-academyInstitute for designArt academy PhDOngoing and open expositions
+11:49:44 From  Casper Schipper  to  Everyone : researchType : Research -> Research
+        researchType research =
+            let
+                calculatedtype =
+                    if isGrieg then
+                        Grieg
+
+                    else
+                        Basic
+            in
+            { research | researchType = calculatedtype }
