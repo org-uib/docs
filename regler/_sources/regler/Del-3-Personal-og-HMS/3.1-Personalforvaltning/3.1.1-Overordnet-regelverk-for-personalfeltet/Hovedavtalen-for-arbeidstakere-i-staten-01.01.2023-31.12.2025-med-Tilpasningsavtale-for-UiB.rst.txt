@@ -1,0 +1,56 @@
+=============================================================================================
+Hovedavtalen for arbeidstakere i staten 01.01.2023 - 31.12.2025 med Tilpasningsavtale for UiB
+=============================================================================================
+
+| **Hovedavtalen i staten**
+| **Gjeldende i perioden 1. januar 2023 – 31. desember 2025(avtale mellom
+    Kommunal- og distriktsdepartementet (KDD) og hovedsammenslutningene LO
+    Stat, YS Stat, Unio og Akademikerne)**
+| **med Tilpasningsavtale for UiB Inngått 4. oktober 2023 (§ 30 ble revidert 29.11.2023)**
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+
+`Hovedavtalen for arbeidstakere i staten 01.01.2023 - 31.12.2025 med Tilpasningsavtale for
+UiB <https://ekstern.filer.uib.no/ledelse/Regler/Tilpasningsavtale-til-hovedavtalen-i-staten.pdf>`__
+ 
+Vedlegg:`Kjønnsfordeling i stillinger ved UiB kategorisert med utgangspunkt i
+stillingskategori definert i DBH. <https://ekstern.filer.uib.no/ledelse/Regler/2024_Vedllegg-til-tilpasningsavtalens-§30-ved-UiB.pdf>`__
+
++----------------------+----------------------+----------------------+
+| Dato                 | Kommentar            | Lagt inn av          |
++======================+======================+======================+
+| 15. desember 2023    | Endring i §§ 30,     |Mona Viksøy           |
+|                      | 33, 34               |                      |
++----------------------+----------------------+----------------------+
+| 1. november 2023     | Ny avtale 2023-2025  | Mona Viksøy          |
++----------------------+----------------------+----------------------+
+| 17. desember 2019    | § 14 nummerering     | Mona Viksøy          |
+| 15:45:54             | byttet ut med        |                      |
+|                      | bokstav              |                      |
++----------------------+----------------------+----------------------+
+| 21. september 2017   | Ny avtale            | Kathrine Brosvik     |
+| 08:59:16             |                      | Thorsen              |
++----------------------+----------------------+----------------------+
+| 19. juni 2014        | Rettet opp feil      | Kathrine Brosvik     |
+| 08:31:29             |                      | Thorsen              |
++----------------------+----------------------+----------------------+
+| 02. oktober 2013     | Hovedavtalen er      | Kathrine Brosvik     |
+| 09:50:13             | forlenget            | Thorsen              |
++----------------------+----------------------+----------------------+
+| 02. oktober 2013     | Hovedavtalen er      | Kathrine Brosvik     |
+| 09:49:15             | forlenget            | Thorsen              |
++----------------------+----------------------+----------------------+
+| 27. mars 2012        | Med endringer        | Kathrine Brosvik     |
+| 10:22:56             | 22.3.12              | Thorsen              |
++----------------------+----------------------+----------------------+
+| 17. mars 2011        | Lagt inn             | Kathrine Brosvik     |
+| 12:19:57             |                      | Thorsen              |
++----------------------+----------------------+----------------------+
+| 03. februar 2011     | Lagt inn             | Kathrine Brosvik     |
+| 14:33:49             |                      | Thorsen              |
++----------------------+----------------------+----------------------+
+| 10. mars 2010        | Lagt inn             | Kathrine Brosvik     |
+| 13:40:18             |                      | Thorsen              |
++----------------------+----------------------+----------------------+

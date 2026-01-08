@@ -1,0 +1,869 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="nb-NO" data-content_root="../../../">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Styringssystem for informasjonssikkerhet og personvern (SIP) – Del I – Styrende del &mdash; Regelsamlingen  documentation</title>
+      <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/css/theme.css?v=e59714d7" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/css/uib.css?v=23176d20" />
+
+  
+  
+      <script src="../../../_static/jquery.js?v=5d32c60e"></script>
+      <script src="../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="../../../_static/documentation_options.js?v=ba109994"></script>
+      <script src="../../../_static/doctools.js?v=9bcbadda"></script>
+      <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="../../../_static/translations.js?v=b06a96f2"></script>
+    <script src="../../../_static/js/theme.js"></script>
+  <script type="text/javascript">
+        <!-- Adds target=_blank to external links -->
+
+    $(document).ready(function () {
+            $('a[href^="http://"], a[href^="https://"]').not('a[class*=internal]').attr('target', '_blank');
+          });
+  </script>
+
+  <!-- Matomo -->
+  <script type="text/javascript">
+      var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+        var u="//stats.uib.no/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '73']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+      })();
+  </script>
+  <noscript><p><img src="//stats.uib.no/matomo.php?idsite=73&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+  <!-- End Matomo Code -->
+
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Søk" href="../../../search.html" />
+    <link rel="next" title="Styringssystem for informasjonssikkerhet og personvern (SIP) – Del II – Gjennomførende del" href="Styringssystem-for-informasjonssikkerhet-og-personvern-Del-II-Gjennomfoerende-del.html" />
+    <link rel="prev" title="4.3 Informasjons- og kommunikasjonsteknologi" href="index.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../../../index.html" class="icon icon-home">
+            Regelsamlingen
+              <img src="../../../_static/UiB-emblem_white.svg" class="logo" alt="Logo"/>
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Søk" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Innhold</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../Del-1-Overordnede-rammer/index.html">Del 1 Overordnede rammer</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../Del-2-Forskning-utdanning-og-formidling/index.html">Del 2 - Forskning, utdanning og formidling</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../Del-3-Personal-og-HMS/index.html">Del 3 Personal og HMS</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Del 4 Økonomi, eiendom og IKT</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../4.1-OEkonomiforvaltning/index.html">4.1 Økonomiforvaltning</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../4.2-Drifts-og-eiendomsforvaltning/index.html">4.2 Drifts- og eiendomsforvaltning</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">4.3 Informasjons- og kommunikasjonsteknologi</a><ul class="current">
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Styringssystem for informasjonssikkerhet og personvern (SIP) – Del I – Styrende del</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#styringssystem-for-informasjonssikkerhet-og-personvern-sip"><strong>1 Styringssystem for informasjonssikkerhet og personvern (SIP)</strong></a></li>
+<li class="toctree-l4"><a class="reference internal" href="#sikkerhetspolicy-og-policy-for-personvern"><strong>2. Sikkerhetspolicy og policy for personvern</strong></a></li>
+<li class="toctree-l4"><a class="reference internal" href="#risikostyring"><strong>3 Risikostyring</strong></a></li>
+<li class="toctree-l4"><a class="reference internal" href="#sikkerhetsorganisasjon-roller-ansvar-og-myndighet"><strong>4 Sikkerhetsorganisasjon, roller, ansvar og myndighet</strong></a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="Styringssystem-for-informasjonssikkerhet-og-personvern-Del-II-Gjennomfoerende-del.html">Styringssystem for informasjonssikkerhet og personvern (SIP) – Del II – Gjennomførende del</a></li>
+<li class="toctree-l3"><a class="reference internal" href="Styringssystem-for-informasjonssikkerhet-og-personvern-Del-III-Kontrollerende-del.html">Styringssystem for informasjonssikkerhet og personvern (SIP) – Del III – Kontrollerende del</a></li>
+<li class="toctree-l3"><a class="reference internal" href="IKT-reglement-for-Universitetet-i-Bergen.html">IKT-reglement for Universitetet i Bergen</a></li>
+<li class="toctree-l3"><a class="reference internal" href="Retningslinje-for-bruk-av-kameraovervaaking-ved-UiB.html">Retningslinje for bruk av kameraovervåking ved UiB</a></li>
+<li class="toctree-l3"><a class="reference internal" href="Styringssystem-for-sikkerhet-etter-sikkerhetsloven-Del-I.html">Styringssystem for sikkerhet etter sikkerhetsloven</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../index.html">Regelsamlingen</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content style-external-links">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../../index.html" class="icon icon-home" aria-label="Home"></a></li>
+          <li class="breadcrumb-item"><a href="../index.html">Del 4 Økonomi, eiendom og IKT</a></li>
+          <li class="breadcrumb-item"><a href="index.html">4.3 Informasjons- og kommunikasjonsteknologi</a></li>
+      <li class="breadcrumb-item active">Styringssystem for informasjonssikkerhet og personvern (SIP) – Del I – Styrende del</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../../../_sources/regler/Del-4-OEkonomi-eiendom-og-IKT/4.3-Informasjons-og-kommunikasjonsteknologi/Styringssystem-for-informasjonssikkerhet-SIP-Del-1-Styrende-del.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="styringssystem-for-informasjonssikkerhet-og-personvern-sip-del-i-styrende-del">
+<h1>Styringssystem for informasjonssikkerhet og personvern (SIP) – Del I – Styrende del<a class="headerlink" href="#styringssystem-for-informasjonssikkerhet-og-personvern-sip-del-i-styrende-del" title="Link to this heading"></a></h1>
+<p>Vedtatt i Universitetsstyret 26.11.2015, sist endret 1.2.2024, jf. sak nr 2015/11386</p>
+<section id="styringssystem-for-informasjonssikkerhet-og-personvern-sip">
+<h2><strong>1 Styringssystem for informasjonssikkerhet og personvern (SIP)</strong><a class="headerlink" href="#styringssystem-for-informasjonssikkerhet-og-personvern-sip" title="Link to this heading"></a></h2>
+<section id="formal">
+<h3>1.1 Formål<a class="headerlink" href="#formal" title="Link to this heading"></a></h3>
+<p>Universitetet i Bergen (UiB) forvalter betydelige mengder informasjon inkludert
+personopplysninger. Denne informasjonen er av avgjørende betydning for UiBs forskning,
+utdanning og formidling. For å ivareta UiB sitt samfunnsoppdrag er det nødvendig at all
+informasjon som forvaltes er tilfredsstillende sikret mot brudd på konfidensialitet, integritet
+og tilgjengelighet i tråd med gjeldende lover, forskrifter og retningslinjer.</p>
+<p>For å ivareta disse behov og krav er det etablert et Styringssystem for informasjonssikkerhet
+og personvern (heretter kalt SIP), som skal bidra til at UiBs informasjonsverdier sikres på en
+systematisk, planmessig og tilfredsstillende måte.</p>
+<p>Styringssystem for informasjonssikkerhet og personvern ved UiB skal bidra til å støtte opp
+under institusjonens mål, verdier og hovedoppgaver.</p>
+</section>
+<section id="struktur-og-beslutning-av-styringssystemet">
+<h3>1.2 Struktur og beslutning av styringssystemet<a class="headerlink" href="#struktur-og-beslutning-av-styringssystemet" title="Link to this heading"></a></h3>
+<p>Styringssystem for informasjonssikkerhet og personvern (SIP) ved Universitetet i Bergen
+(UiB) består av tre deler:</p>
+<p><a href="#id1"><span class="problematic" id="id2">|</span></a>I. Styrende del
+<a href="#id3"><span class="problematic" id="id4">|</span></a>II. Gjennomførende del
+<a href="#id5"><span class="problematic" id="id6">|</span></a>III. Kontrollerende del</p>
+<p>Den styrende delen (del I) består av to dokumenter Styringsdokument og IKT-reglementet ved
+UiB. I Styringsdokumentet, det vil si dette dokumentet, beskrives virkeområdet for
+styringssystemet, sikkerhetsmål, sikkerhetsstrategi og fordeling av ansvar og arbeidsoppgaver
+i sikkerhetsorganisasjonen. IKT-reglementet regulerer bruken av UiBs IT-systemer, IT-utstyr
+og IT-anlegg.</p>
+<p>Den gjennomførende del (del II) sammen med dets vedlegg gir utfyllende opplysninger om
+oppgaver og aktiviteter som skal gjennomføres i henhold til styringssystemet. I tillegg gjelder
+bestemmelsene i Retningslinjer – Overordnede rammer for behandling av personopplysninger
+ved Universitetet i Bergen.</p>
+<p>Den kontrollerende del (del III) sammen med dets vedlegg, beskriver kontrollerende
+aktiviteter som inngår i SIP.</p>
+<p>Universitetsstyret beslutter del I Styrende del. Universitetsdirektør i samråd med rektor
+beslutter del II Gjennomførende del og del III Kontrollerende del.</p>
+<p>IT direktør forvalter styringssystemet, og beslutter underliggende retningslinjer, instrukser og
+øvrige dokumenter og vedlegg som inngår i styringssystemet.</p>
+</section>
+<section id="virkeomrade">
+<h3>1.3 Virkeområde<a class="headerlink" href="#virkeomrade" title="Link to this heading"></a></h3>
+<p>Styringssystem for informasjonssikkerhet og personvern ved UiB gjelder for:</p>
+<ul class="simple">
+<li><p>UiBs organisasjon med de roller, oppgaver og myndighet den enkelte har, samt de
+strukturer og prosesser som er etablert for virksomheten.</p></li>
+<li><p>Alle ansatte, studenter, eksterne brukere, innleid personell og gjester (heretter kalt
+brukere) ved UiB som behandler eller har tilgang til UiBs informasjon, eller
+informasjon lagret på UiBs utstyr, eller på utstyr tilkoblet UiBs infrastruktur.</p></li>
+<li><p>All data- og informasjonsbehandling, lagring og prosesser for dette, uavhengig av
+lagrings- og prosesseringsform.</p></li>
+<li><p>Infrastruktur, utstyr samt privat og annet eksternt utstyr som tilkobles UiBs
+infrastruktur.</p></li>
+</ul>
+</section>
+<section id="aktuelle-lover-forskrifter-og-regler">
+<h3>1.4 Aktuelle lover, forskrifter og regler<a class="headerlink" href="#aktuelle-lover-forskrifter-og-regler" title="Link to this heading"></a></h3>
+<p>Styringssystemet bygger på det til enhver tid gjeldende lovverk med
+forskrifter. Blant disse er:</p>
+<ul class="simple">
+<li><p>Lov om behandling av personopplysninger (personopplysningsloven)
+inkludert personvernforordningen, GDPR.</p></li>
+<li><p>Lov om behandlingsmåten i forvaltningssaker (forvaltningsloven) og
+Forskrift om elektronisk kommunikasjon med og i forvaltningen
+(eForvaltningsforskriften)</p></li>
+<li><p>Lov om rett til innsyn i dokument i offentleg verksemd
+(offentleglova)</p></li>
+<li><p>Lov om arkiv (arkivlova) og Forskrift om offentlige arkiv</p></li>
+<li><p>Instruks for behandling av dokumenter som trenger beskyttelse av
+andre grunner enn nevnt i sikkerhetsloven med forskrifter
+(beskyttelsesinstruksen)</p></li>
+<li><p>Lov om opphavsrett til åndsverk mv. (åndsverkloven)</p></li>
+<li><p>Lov om universiteter og høyskoler (universitets- og høyskoleloven)</p></li>
+<li><p>Lov om medisinsk og helsefaglig forskning (helseforskningsloven)</p></li>
+<li><p>Forskrift om organisering av medisinsk og helsefaglig forskning
+(helseforskningsforskriften)</p></li>
+<li><p>Lov om helseregistre og behandling av helseopplysninger
+(helseregisterloven)</p></li>
+<li><p>Lov om helsepersonell m.v. (helsepersonelloven).</p></li>
+<li><p>UiB regelsamlingen</p></li>
+</ul>
+</section>
+<section id="definisjoner">
+<h3>1.5 Definisjoner<a class="headerlink" href="#definisjoner" title="Link to this heading"></a></h3>
+<p>I dette dokumentet benyttes følgende definisjoner:</p>
+<table class="docutils align-default">
+<tbody>
+<tr class="row-odd"><td><p><strong>Begrep</strong></p></td>
+<td><p><strong>Definisjoner</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Informasjonssikkerhet</p></td>
+<td><p>Beskyttelse av informasjonens
+konfidensialitet, integritet og
+tilgjengelighet.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Konfidensialitet</p></td>
+<td><p>Sikre at informasjonen og
+systemer kun er tilgjengelig for
+de som skal ha tilgang.</p></td>
+</tr>
+<tr class="row-even"><td><p>Integritet</p></td>
+<td><p>Sikre at informasjonen er
+korrekt, oppdatert og
+fullstendig, og hindre uønsket
+endring, sletting eller
+manipulering.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tilgjengelighet</p></td>
+<td><p>Sikre at brukere har tilgang til
+informasjon ved behov innenfor
+de tilgjengelighetskrav som er
+satt.</p></td>
+</tr>
+<tr class="row-even"><td><p>Risikovurdering</p></td>
+<td><p>Vurdering av trusler mot,
+konsekvenser for og sårbarheten
+til informasjonen og
+informasjonssystemene, og
+sannsynligheten for at
+sikkerhetshendelser kan
+inntreffe.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Risikostyring</p></td>
+<td><p>Prosessen med å identifisere,
+kontrollere og redusere eller
+eliminere sikkerhetsrisikoer som
+kan påvirke
+informasjonssystemer, innenfor
+en akseptabel kostnadsramme.</p></td>
+</tr>
+<tr class="row-even"><td><p>Systemeier</p></td>
+<td><p>Den øverste lederen ved den
+enheten som er ansvarlig for et
+system eller en IT-tjeneste.
+Alle systemer ved UiB skal ha en
+definert systemeier.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Forskningsansvarlig</p></td>
+<td><p>Institusjon eller annen juridisk
+eller fysisk person som har det
+overordnede ansvaret for
+forskningsprosjekt, og som har
+de nødvendige forutsetningene
+for å kunne oppfylle den
+forskningsansvarliges plikter.</p></td>
+</tr>
+<tr class="row-even"><td><p>Personvern</p></td>
+<td><p>Omhandler retten til et
+privatliv og retten til å
+bestemme over egne
+personopplysninger.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Personopplysning</p></td>
+<td><p>Alle former for data,
+informasjon, opplysninger og
+vurderinger som kan knyttes til
+en enkeltperson.</p></td>
+</tr>
+<tr class="row-even"><td><p>Behandlingsansvarlig</p></td>
+<td><p>Den som alene eller sammen med
+andre bestemmer formålet med
+behandlingen av
+personopplysninger og hvilke
+midler som skal benyttes.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Særlige kategorier av
+personopplysninger</p></td>
+<td><p>Opplysninger om rasemessig eller
+etnisk opprinnelse, politisk
+oppfatning, religion, filosofisk
+overbevisning eller
+fagforeningsmedlemskap,
+genetiske og biometriske
+opplysninger, helseopplysninger
+eller opplysninger om seksuelle
+forhold.</p></td>
+</tr>
+<tr class="row-even"><td><p>Informasjonsverdier</p></td>
+<td><p>Alle typer data, opplysninger og
+dataressurser (IT utstyr,
+applikasjoner, systemer,
+datanettverk m.m) som har
+betydning for UiB sin virksomhet.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Personvern-konsekvensvurdering
+(DPIA)</p></td>
+<td><p>Lovpålagt vurdering når det er
+sannsynlig at behandlingen av
+personopplysninger medfører høy
+risiko.</p></td>
+</tr>
+<tr class="row-even"><td><p>IRT</p></td>
+<td><p>Incident Response Team, et eget
+team av ressurspersoner som er
+utpekt særskilt til å håndtere
+sikkerhetshendelser på IKT
+området.</p></td>
+</tr>
+<tr class="row-odd"><td><p>IKT</p></td>
+<td><p>Informasjons- og kommunikasjons-
+teknologi.</p></td>
+</tr>
+<tr class="row-even"><td><p>EduCSC</p></td>
+<td><p>Cybersikkerhetssenteret hos SIKT,
+innehar rollen som sektorvist
+responsmiljø (SRM) for
+universitets og høyskolesektoren.
+Sektorvise responsmiljø inngår i
+nasjonalt rammeverk for
+håndtering av IKT-sikkerhets-
+hendelser.</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="sikkerhetspolicy-og-policy-for-personvern">
+<h2><strong>2. Sikkerhetspolicy og policy for personvern</strong><a class="headerlink" href="#sikkerhetspolicy-og-policy-for-personvern" title="Link to this heading"></a></h2>
+<section id="identifisering-av-kritiske-verdier-ved-uib">
+<h3>2.1 Identifisering av kritiske verdier ved UiB<a class="headerlink" href="#identifisering-av-kritiske-verdier-ved-uib" title="Link to this heading"></a></h3>
+<p>Mennesker, informasjon, herunder personopplysninger, omdømme, fysiske
+gjenstander og miljø anses som kritiske verdier ved UIB.</p>
+</section>
+<section id="overordnede-sikkerhetsmal">
+<h3>2.2 Overordnede sikkerhetsmål<a class="headerlink" href="#overordnede-sikkerhetsmal" title="Link to this heading"></a></h3>
+<p>Følgende sikkerhetsmål skal gjelde for arbeidet med
+informasjonssikkerhet:</p>
+<ul class="simple">
+<li><p>UiB skal sikre konfidensialitet, integritet og tilgjengelighet av
+informasjon på en tilfredsstillende måte i henhold til gjeldende
+lover, forskrifter og regler.</p></li>
+<li><p>Informasjon som behandles ved UiB skal ha riktig sikkerhetsnivå basert
+på klassifisering og risikovurderinger, og behandles i henhold til dette.</p></li>
+<li><p>Alle ansatte, studenter, eksterne brukere, samarbeidspartner og gjester
+skal være kjent med UiBs krav til informasjonssikkerhet, og er ansvarlig
+for å etterleve disse kravene.</p></li>
+</ul>
+</section>
+<section id="overordnede-styringsmal-for-personvern">
+<h3>2.3 Overordnede styringsmål for personvern<a class="headerlink" href="#overordnede-styringsmal-for-personvern" title="Link to this heading"></a></h3>
+<p>Følgende styringsmål skal gjelde for arbeidet med personvern:</p>
+<ul class="simple">
+<li><p>UiB skal kun samle inn personopplysninger for berettigete formål, og
+behandle opplysningene på en lovlig, rettferdig og åpen måte.</p></li>
+<li><p>UiB skal ikke behandle personopplysninger i større utstrekning enn det
+som er nødvendig for å oppfylle universitetets formål. Når
+personopplysningene ikke lenger er nødvendige for formålet skal de
+slettes eller anonymiseres, med mindre det foreligger lovkrav eller
+skriftlige vurderinger som tilsier fortsatt oppbevaring.</p></li>
+<li><p>Personopplysningene som behandles skal være korrekte og oppdaterte, og
+hvis ikke slettes eller rettes.</p></li>
+<li><p>Alle som behandler personopplysninger ved UiB, skal være kjent med
+kravene i personopplysningsloven og etterleve disse kravene.</p></li>
+</ul>
+</section>
+<section id="sikkerhetsstrategi">
+<h3>2.4 Sikkerhetsstrategi<a class="headerlink" href="#sikkerhetsstrategi" title="Link to this heading"></a></h3>
+<p>Alt arbeid med informasjonssikkerhet ved UiB skal basere seg på risikovurderinger.</p>
+<p>I tillegg skal arbeidet med informasjonssikkerhet basere seg på anbefalte og anerkjente
+standarder for styringssystemer for informasjonssikkerhet i offentlig sektor.</p>
+<p>IKT-reglementet regulerer bruken av IKT-systemene ved UiB, og gjelder for alle brukere.</p>
+<p>UiB skal utvikle en sikkerhetskultur hvor alle brukere har god kunnskap om, holdning og
+adferd med tanke på sikkerhetstrusler og sårbarheter.</p>
+<p>Det skal gjennomføres sikkerhetsrevisjoner som verifiserer at UiBs og eksterne myndigheters
+krav til informasjonssikkerhet er ivaretatt og fungerer etter sin hensikt.</p>
+<p>Arbeidet med informasjonssikkerhet skal bygge på prosesser for kontinuerlig forbedring.</p>
+</section>
+<section id="strategi-for-personvern">
+<h3>2.5 Strategi for personvern<a class="headerlink" href="#strategi-for-personvern" title="Link to this heading"></a></h3>
+<p>Arbeidet med personvern ved UiB skal basere seg på krav i personopplysningsloven i
+tillegg til bransjestandard.</p>
+<p>Det skal utarbeides retningslinjer for behandling av personopplysninger ved UiB for
+både forskningsdata, administrative data og andre data.</p>
+<p>For alle aktiviteter der det behandles personopplysninger skal det utføres
+risikovurderinger, og det skal vurderes om det må gjennomføres en
+personvernkonsekvensvurdering (DPIA).</p>
+</section>
+<section id="kompetanse">
+<h3>2.6 Kompetanse<a class="headerlink" href="#kompetanse" title="Link to this heading"></a></h3>
+<p>UiB skal sørge for nødvendig opplæring og kompetanseheving for ledere og ansatte
+som har ansvar for informasjonssikkerhet og personvern.</p>
+<p>Alle som skal bruke UiB sine informasjonssystemer og som skal behandle
+personopplysninger skal ha nødvendig kunnskap om og få opplæring i
+informasjonssikkerhet og personvern.</p>
+<p>Brukerne skal være informert om rutiner for rapportering av avvik og sikkerhetsbrudd
+samt hensikten med dem.</p>
+</section>
+</section>
+<section id="risikostyring">
+<h2><strong>3 Risikostyring</strong><a class="headerlink" href="#risikostyring" title="Link to this heading"></a></h2>
+<p>Alt arbeid med informasjonssikkerhet og personvern skal basere seg på
+risikovurderinger. Risikovurderingen baseres på konkret vurdering av
+trusler og sårbarheter ved UiB, og tar utgangspunkt i informasjonsverdier
+som skal sikres. Risikovurderinger skal gjennomføres for alle system og
+personopplysningsbehandlinger og dokumenteres skriftlig i det til enhver
+tid gjeldende system UIB benytter.</p>
+<p>For hvert risikoelement vurderes sannsynligheten for at den skal inntreffe
+og konsekvensen av at den inntreffer. Konfidensialiteten og integriteten
+til informasjon skal vektlegges foran hensynet til tilgjengeligheten ved
+risikovurdering.</p>
+<p>Høye risikoer skal ikke aksepteres før det er gjort et grundig arbeid for
+å finne realistiske risikoreduserende tiltak.</p>
+</section>
+<section id="sikkerhetsorganisasjon-roller-ansvar-og-myndighet">
+<h2><strong>4 Sikkerhetsorganisasjon, roller, ansvar og myndighet</strong><a class="headerlink" href="#sikkerhetsorganisasjon-roller-ansvar-og-myndighet" title="Link to this heading"></a></h2>
+<table class="docutils align-default">
+<tbody>
+<tr class="row-odd"><td><p><strong>Rolle/funksjon</strong></p></td>
+<td><p><strong>Ansvar</strong></p></td>
+<td><p><strong>Myndighet</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Rektor</p></td>
+<td><p>Forskningsansvarlig ved UiB og
+behandlingsansvarlig for UiB sin
+behandling av personopplysninger
+som inngår i UiBs faglige
+virksomhet.</p></td>
+<td><p>Kan samme med
+universitetsdirektør
+beslutte retnings-
+linjer for behandling
+av personopplysninger</p></td>
+</tr>
+<tr class="row-odd"><td><p>Universitetsdirektør</p></td>
+<td><p>Har overordnet ansvar for
+informasjonssikkerheten
+ved UiB.</p>
+<p>Ansvarlig for sentral beredskap
+ved UIB, inkludert
+informasjonssikkerhetsberedskap.</p>
+<p>Overordnet ansvarlig for å sikre
+UIB sine eiendommer og fysiske
+gjenstander mot brann, tyveri og
+skadeverk. Overordnet ansvarlig
+for sikring mot uautorisert
+adgang i bygningsmassen.</p>
+<p>Gjennomfører sammen med rektor
+ledelsens årlige gjennomgang og
+godkjenner fremlagt rapport til
+denne.</p>
+</td>
+<td><p>Utpeker systemeiere for
+administrative systemer
+gir føringer for
+behandlingen.</p>
+<p>Kan sammen med rektor
+beslutte retningslinjer
+for behandling av
+personopplysninger.</p>
+<p>Godkjenner eventuell
+restrisiko der det
+fremdeles foreligger
+risiko etter
+tiltaksgjennomføring.</p>
+<p>Godkjenner årsplan for
+informasjonssikkerhet.</p>
+</td>
+</tr>
+<tr class="row-even"><td><p>IT- direktør</p></td>
+<td><p>Operativt ansvarlig for
+informasjonssikkerheten ved UiB.</p>
+<p>Ansvarlig for forvaltning
+av SIP med alle vedlegg.</p>
+<p>I samråd med HR-direktør
+ansvarlig for forvaltning
+av IKT reglementet.</p>
+<p>Ansvarlig for utarbeidelse av
+nødvendige sikkerhets-
+prosedyrer, retningslinjer og
+rutiner for å ivareta sikkerhet
+i UiBs systemer.</p>
+<p>Ansvarlig for å utarbeide
+årsplan for informasjonssikkerhet
+samt oppfølging og gjennomføring
+av denne.</p>
+<p>Ansvarlig for å vedlikeholde
+oversikt over hvilke
+sikringstiltak som er etablert
+ved UiB.</p>
+<p>Systemeier for IKT infrastruktur
+og sentrale IKT tjenester,
+inkludert kommunikasjon,
+sikkerhetsløsninger, datalagring
+og sikkerhetskopiering.</p>
+<p>Ansvarlig for at det tilbys
+opplæring for systemeiere i
+deres roller.</p>
+<p>Ansvarlig for at det tilbys
+opplæring i informasjonssikkerhet
+for ansatte og studenter som
+brukere av informasjonsteknologi.</p>
+<p>Ansvarlig for å forvalte en
+oversikt over godkjente IT
+systemer der systemeiere er
+ansvarlige for å registrere sine
+systemer, og en  oversikt over
+UiBs informasjonsverdier der
+informasjonseiere kan registrere
+sine verdier.</p>
+<p>Ansvarlig for å varsle
+universitetsledelsen og UiBs
+beredskapsledelse ved alvorlige
+hendelser og avvik.</p>
+<p>Ansvarlig for beredskap innen
+informasjonssikkerhet inkludert
+helhetlig kontinuitets-
+planlegging.</p>
+<p>Ansvarlig for at  sikkerhets-
+revisjoner gjennomføres.</p>
+</td>
+<td><p>Kan iverksette tiltak
+eller beslutte
+gjennomføring av tiltak
+for å hindre skade,
+forebygge fare for
+skade, samt iverksette
+tiltak med sikte på
+bevissikring og
+koordinere tiltak for å
+utbedre eventuelle
+skader.</p>
+<p>Beslutter alle
+instrukser,
+retningslinjer og
+rutiner samt øvrige
+vedlegg til SIP.</p>
+</td>
+</tr>
+<tr class="row-odd"><td><p>Informasjons-
+sikkerhetsleder</p></td>
+<td><p>Informasjonssikkerhetsleder
+er av IT-direktøren tildelt
+ansvar og myndighet innen
+informasjonssikkerhetsområdet
+og rapporterer til denne.</p>
+<p>Leder det løpende arbeidet med
+informasjonssikkerhet ved UIB
+og ser til at UIB overvåker
+sikkerhet i nettverk og systemer.</p>
+<p>Ansvar for at det gjennomføres
+sikkerhetsrevisjoner og
+-kontroller på tvers av UiBs
+virksomhet etter en helhetlig
+verdi- og risikovurdering og
+i henhold til UiBs struktur
+for andrelinje internkontroll.</p>
+<p>Behandler avvik på
+informasjonssikkerhet og
+personvern, og varsler
+relevante parter slik at det
+iverksettes tiltak ved behov.
+Holde IT-direktør orientert
+om arbeidet, og varsle ved
+vesentlige hendelser og avvik.</p>
+<p>Leder IRT Teamet og
+vedlikeholde beredskapsplaner
+for informasjonssikkerhet.</p>
+<p>Bidra til at opplæring og
+rådgivning innenfor
+informasjonssikkerhet og
+personvern gjennomføres.</p>
+</td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Systemeier</p></td>
+<td><p>Ansvarlig for å ha nødvendige
+risikovurderinger, og at
+risikohåndtering og tiltak
+gjennomføres slik at gjenværende
+risiko er på et akseptabelt nivå.</p>
+<p>Ansvarlig for å sette
+sikkerhetsnivå i systemer man
+eier ut fra dokumentert
+klassifisering av informasjon
+og personinformasjon, samt å ha
+dokumentasjon på at
+informasjonssikkerhet og
+personvern ivaretas.</p>
+<p>Ansvarlig for sikker drift og
+forvaltning av systemene de eier
+i henhold til lover, forskrifter,
+regler og øvrige bestemmelser,
+inkludert SIP, i hele systemets
+levetid.</p>
+<p>Ansvarlig for at nødvendig
+opplæring tilbys og gjennomføres
+i tilknytningtil systemer de er
+eier av.</p>
+<p>Ansvarlig for å gjennomføre
+årlig egenrapportering til bruk
+i ledelsens gjennomgang.</p>
+</td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Dekan</p></td>
+<td><p>Er delegert det operative
+forskningsansvaret inkludert
+personopplysningsbehandling.</p>
+<p>Ansvarlig for å ivareta
+forskningsaktivitetene på en
+forsvarlig måte i henhold til
+over, regler, retningslinjer mv.</p>
+</td>
+<td><p>Kan delegere det
+operative forsknings-
+ansvaret videre til
+instituttleder,
+senterleder eller
+tilsvarende (eks.
+prosjektleder for
+forskningsprosjekter)</p></td>
+</tr>
+<tr class="row-even"><td><p>Institttleder,
+senterleder eller
+tilsvarende (eks.
+prosjektleder)</p></td>
+<td><p>Kan ha fått delegert fra dekan
+det operative forsknings-
+ansvaret på sitt område, dette
+inkluderer personopplysnings-
+behandling.</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Klinikkleder,
+senterleder eller
+tilsvarende (eks.
+prosjektleder)</p></td>
+<td><p>Operativt ansvarlig for
+behandling  av personopplysninger
+om pasienter.</p>
+<p>Ansvarlig for at det er innført
+nødvendige rutiner for å sikre
+konfidensialitet og kvalitet,
+samt at personopplysningene ikke
+ikke lagres lenger enn nødvendig.</p>
+<p>Ansvarlig for at det tilbys
+nødvendig opplæring i bruk av
+av IT-systemer og gjeldene
+rutiner.</p>
+</td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Avdelingsdirektør
+ved Studieavdelingen</p></td>
+<td><p>Operativt ansvarlig for
+behandling av personopplysninger
+om søkere og studenter.</p>
+<p>Ansvarlig for at det er innført
+nødvendige rutiner for å sikre
+konfidensialitet og kvalitet,
+samt at personopplysningene ikke
+ikke lagres lenger enn nødvendig.</p>
+<p>Ansvarlig for at det tilbys
+nødvendig opplæring i bruk av
+av IT-systemer og gjeldene
+rutiner.</p>
+</td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>HR-direktør</p></td>
+<td><p>Operativt ansvarlig for
+behandling av personopplysninger
+om ansatte.</p>
+<p>Ansvarlig for at det er innført
+nødvendige rutiner for å sikre
+konfidensialitet og kvalitet,
+samt at personopplysningene ikke
+ikke lagres lenger enn nødvendig.</p>
+<p>Ansvarlig for at det tilbys
+nødvendig opplæring i bruk av
+av IT-systemer og gjeldene
+rutiner.</p>
+</td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Driftspersonell IT</p></td>
+<td><p>Ansvarlig for å kjenne til alle
+deler av SIP og i særlig grad
+driftsinstruksen og de sikrings-
+tiltak som er etablert ved UiB.</p>
+<p>Ansvarlig  or å varsle ved brudd
+på sikkerheten.</p>
+</td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Brukere</p></td>
+<td><p>Ansvarlig for å holde seg
+oppdatert på gjeldende regler
+for informasjonssikkerhet og
+personvern, og følge disse.</p>
+<p>Ansvarlig for å gjennomføre
+pålagt opplæring innenfor
+informasjonssikkerhet og
+personvern.</p>
+<p>Ansvarlig for å ivareta
+informasjonssikkerheten og sikre
+ivaretakelse av personvern i
+forbindelse med utførelse av
+eget arbeid.</p>
+<p>Ansvarlig for å melde avvik i
+henhold til gjeldende rutiner
+ved brudd på informasjons-
+sikkerheten eller personvernet.</p>
+</td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Personvernombud</p></td>
+<td><p>Skal informere og gi råd
+til UIB sine brukere om
+forpliktelsene etter
+personvernlovgivningen.</p>
+<p>Skal kontrollere UIB sin
+etterlevelse av
+personvernlovgivningen.</p>
+<p>Skal involveres på rett
+nivå i spørsmål som vedrører
+personvern.</p>
+<p>Skal gi råd ved utarbeidelse av
+DPIA.</p>
+<p>Skal involveres ved behov i
+håndtering av avvik.</p>
+<p>Skal håndtere henvendelser fra
+de registerte.</p>
+<p>Skal årlig rapportere om status
+på personvernområdet til
+universitetsstyret.</p>
+</td>
+<td><p>Har en uavhengig rolle
+og kan varsle
+Datatilsynet om  avvik
+på eget initiativ uten
+godkjenning fra UiB.</p></td>
+</tr>
+<tr class="row-odd"><td><p>Direktør ved
+Eiendomsavdelingen</p></td>
+<td><p>Operativt ansvarlig for å sikre
+UiBs eiendommer og fysiske
+gjenstander mot brann, tyveri og
+skadeverk.</p>
+<p>Operativt ansvarlig for å sikre
+mot uautorisert adgang.</p>
+</td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>IRT - Incident
+Response Team</p></td>
+<td><p>Være virksomheten sin operative
+vaktstyrke for å overvåke,
+oppdage og håndtere IKT
+sikkerhetshendelser, og ha tett
+dialog med sektorvis
+responsmiljø i eduCSC (SIKT).</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<section id="kontinuitetsplanlegging">
+<h3>4.1 Kontinuitetsplanlegging<a class="headerlink" href="#kontinuitetsplanlegging" title="Link to this heading"></a></h3>
+<p>Basert på en vurdering av relevante risikoer for driftsavbrudd,
+skal systemeier utarbeide planer og iverksette tiltak som kan
+redusere avbrudd ved sikkerhetssvikt til et akseptabelt nivå.
+For de sentrale og kritiske IKT-systemer, skal det utføres
+realistiske kontroller for å verifisere effektiviteten av de
+tiltakene som er iverksatt.</p>
+</section>
+<section id="fysisk-sikkerhet">
+<h3>4.2 Fysisk sikkerhet<a class="headerlink" href="#fysisk-sikkerhet" title="Link to this heading"></a></h3>
+<p>Fysiske sikringstiltak skal gjennomføres basert på
+risikovurdering gjennomført av systemeier.</p>
+<p>IKT-utstyr som benyttes som basis for fellesfunksjoner
+(servere, datalager, nettverkstjenere m.m.) og kritiske
+systemer skal være plassert i lokaler som er fysisk sikret
+mot tilkomst for uvedkommende.</p>
+</section>
+<section id="beredskap">
+<h3>4.3 Beredskap<a class="headerlink" href="#beredskap" title="Link to this heading"></a></h3>
+<p>Beredskap for informasjonssikkerhet og personvern skal inngå
+i UiBs beredskapsplaner og beredskapsorganisasjon. IT-avdelingen
+skal ha en beredskapsplan og en beredskapsorganisasjon med
+særlig ansvar for informasjonssikkerhet. Beredskapen for
+informasjonssikkerhet og personvern skal bygge på
+ansvarsprinsippet, likhetsprinsippet, nærhetsprinsippet og
+samvirkeprinsippet.</p>
+<p>Som en del av beredskapen skal det eksistere et Incident Respons
+Team (IRT) ved IT avdelingen for særskilt håndtering av
+sikkerhetshendelser. Mandat og instruks for dette er vedlegg
+til styringssystem for informasjonssikkerhet og personvern del II,
+gjennomførende del.</p>
+</section>
+<section id="rapportering">
+<h3>4.4 Rapportering<a class="headerlink" href="#rapportering" title="Link to this heading"></a></h3>
+<p>Ivaretagelse av informasjonssikkerhet og personvern er et
+lederansvar. Årlig skal det utarbeides en rapport til ledelsens
+gjennomgang. Rapporten oppsummerer arbeidet med
+informasjonssikkerhet og personvern. Rapporten fremmes til
+universitetsstyret i løpet av første kvartal påfølgende år
+av universitetsdirektør.</p>
+<p>Personvernombudet utarbeider egen årsrapport som fremmes
+universitetsstyret i separat sak, men bør såfremt det er mulig
+legge denne frem sammen med rapport for informasjonssikkerhet
+og personvern.</p>
+<p>I tillegg til denne faste årlige rapporteringen, skal
+universitetsledelsen holdes orientert om status for
+informasjonssikkerhet og personvern ved UiB.</p>
+<p>Universitetsstyret kan be om ytterligere rapportering utover
+årlig statusrapportering ved behov.</p>
+</section>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2021, Universitetet i Bergen.</p>
+  </div>
+
+  
+Adresse: Postboks 7800 5020 Bergen
+<br/>
+Besøksadresse: Nygårdsgaten 5
+<br/>
+Telefon: (+47) 55584201 Faks: (+47) 55548299
+
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

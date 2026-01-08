@@ -1,0 +1,148 @@
+Guidelines for inspection prior to occupation
+---------------------------------------------
+
+:doc:`Norwegian version </regler/Del-3-Personal-og-HMS/3.2-Helse-miljoe-og-sikkerhet/3.2.3-HMS-retningslinjer/Retningslinje-for-befaring-foer-innflytting>`
+
+**REPEALED** Approved by the University Director 08.03.2022
+
+**1. Objective**
+~~~~~~~~~~~~~~~~
+
+The purpose of the guideline is to ensure that moving in is not implemented until the University of Bergen (UiB)
+as the developer in collaboration with the user, local safety delegate and the HR-department finds it advisable.
+All conditions that affect those who move in must be taken care of.
+
+**2. Basis**
+~~~~~~~~~~~~
+
+The guidelines form part of UiB’ s Regulations (Part 3. Human Resources and Health, safety, and environment).
+
+**3. Scope and area of use**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The guideline covers all construction projects (see point 5.) at UiB.
+
+**4. Responsibility**
+~~~~~~~~~~~~~~~~~~~~~
+
+The Estate and Facilities Management division (EIA) is responsible for ensuring that the guidelines are followed.
+
+**5. Definitions**
+~~~~~~~~~~~~~~~~~~
+
+- **Inspection:** Systematic inspection of the construction project.
+- **User coordinator:** Appointed by the Estate and Facilities Management division. Leads the user committee.
+  Liaison between the user committee and the project organization.
+- **Permit of use:** When a construction project has been completed, but work of minor importance remains,
+  the responsible applicant can request the municipality for a temporary use permit.
+- **Construction project:** All new construction projects and major rebuilding or rehabilitation projects at UiB,
+  as well as moving a unit to leased premises.
+- **Operations coordinator:** EIA employee who must ensure that construction projects are in accordance with
+  the intention for future operation and maintenance of the building.
+- **Certificate of completion:** When a construction project requiring an application has been completed, 
+  the responsible applicant must request the municipality for a certificate of completion. Certificate of 
+  completion or permit of use must be available before moving in. Less extensive measures will not always fall
+  under the application obligation and requirements for a permit of use or completion certificate will therefore
+  not apply to these projects.
+- **Takeover business:** The contractor calls for a takeover business when the building is ready for takeover.
+  This presupposes that the building is mostly finished and can be used.
+- **Project manager:** EIA employee who leads the construction project. In some cases, the project manager will
+  be a hired resource.
+- **Developer:** Owner of the building.
+
+**6. Inspection prior to occupation**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Inspections must be carried out before moving in at all construction projects, in order to prevent health problems
+and unnecessary discomfort as a result of moving into premises that have not been sufficiently completed and cleaned.
+
+**6.1. Tasks:**
+^^^^^^^^^^^^^^^
+
+The project manager from EIA calls in for an inspection before moving in and leads this.
+
+Participants on the inspection before moving in:
+
+- Project Manager
+- User coordinator
+- Operations Coordinator Representatives from the user community
+- Safety delegate, in the case of several units, HVO will be involved
+- Representative from the Occupational Health Service
+
+A representative of the Learning Environment Committee and a consultant for students with disabilities are called in
+when `applicable <https://www.uib.no/en/quality-in-studies/78002/learning-environment-handbook>`__.
+
+**6.2**. **Execution**
+^^^^^^^^^^^^^^^^^^^^^^
+
+- The user coordinator informs about the move-in plan and is responsible for reviewing the checklist and writing
+  a summary of the inspection.
+- Project manager informs about construction cleaning, takeover business, certificate of completion and permit of use.
+- Physical review of all floors and rooms, for example by checklist.
+- Finally, a summary and conclusion are made regarding any recommendation for moving in. The conclusion from the
+  inspection must always be in writing, in the form of a short summary and / or completed checklist.
+- Checklist or summary are approved by the participants before it is sent to the AMU's building committee for information.
+
+**7. References**
+~~~~~~~~~~~~~~~~~
+
+| `Quality in Studies and Education <https://www.uib.no/en/quality-in-studies/78002/learning-environment-handbook>`__
+| `Internkontrollforskriften (NO) <https://lovdata.no/dokument/SF/forskrift/1996-12-06-1127>`__
+
+**Appendices (NO):**
+^^^^^^^^^^^^^^^^^^^^
+| `Sjekkliste ferdigbefaring <https://intern.filer.uib.no/poa/Hms/Nye%20arbeidsplasser/Sjekkliste%20ferdigbefaring.docx>`__
+| `Sjekkliste for nybygg eller rehabilitering laboratorier <https://intern.filer.uib.no/poa/Hms/Nye%20arbeidsplasser/HMS-sjekkliste%20for%20nybygg%20og%20rehabilitering.xlsx>`__
+
+
+
++-------------------------+-------------------------+---------------+
+| Date                    | Comment                 | Entered by    |
++=========================+=========================+===============+
+| 9. june 2023            | Change 1. appendice     | Mona Viksøy   |
+|                         | Oppdated 6.1.           |               |
++-------------------------+-------------------------+---------------+
+| 15. march 2022 	  | New rules               | Mona Viksøy   |
++-------------------------+-------------------------+---------------+
+|Friday 20 June 2014      | Updating an url.        | Olaug Eiksund |
+| 8:17:40 am              |                         |               |
++-------------------------+-------------------------+---------------+
+| Friday 20 June 2014     | Updating an url.        | Olaug Eiksund |
+| 8:16:52 am              |                         |               |
++-------------------------+-------------------------+---------------+
+| Friday 26 April 2013    | Updating names of       | Olaug Eiksund |
+| 11:18:45 am             | divisions and titles.   |               |
++-------------------------+-------------------------+---------------+
+| Tuesday 05 July 2011    | Translated to English   | Olaug Eiksund |
+| 9:54:45 am              | 05.07.2011.             |               |
++-------------------------+-------------------------+---------------+
+| Tuesday 05 July 2011    | Translated to English   | Olaug Eiksund |
+| 9:48:41 am              | 05.07.2011.             |               |
++-------------------------+-------------------------+---------------+
+| Tuesday 05 July 2011    | Translated to English   | Olaug Eiksund |
+| 9:49:41 am              | 05.07.2011.             |               |
++-------------------------+-------------------------+---------------+
+| Tuesday 05 July 2011    | Retningslinjen legges   | Olaug Eiksund |
+| 9:24:27 am              | over fra HMS-håndboken, |               |
+|                         | Del 5. Helse, miljø og  |               |
+|                         | sikkerhet i forbindelse |               |
+|                         | med ny Regelsamling.    |               |
++-------------------------+-------------------------+---------------+
+| Tuesday 05 July 2011    | Retningslinjen legges   | Olaug Eiksund |
+| 9:19:37 am              | over fra HMS-håndboken, |               |
+|                         | Del 5. Helse, miljø og  |               |
+|                         | sikkerhet i forbindelse |               |
+|                         | med ny Regelsamling.    |               |
++-------------------------+-------------------------+---------------+
+| Wednesday 06 April 2011 | Retningslinjen legges   | Olaug Eiksund |
+| 3:40:21 pm              | over fra HMS-håndboken, |               |
+|                         | Del 5. Helse, miljø og  |               |
+|                         | sikkerhet i forbindelse |               |
+|                         | med ny Regelsamling.    |               |
++-------------------------+-------------------------+---------------+
+| Wednesday 06 April 2011 | Retningslinjen legges   | Olaug Eiksund |
+| 3:39:16 pm              | over fra HMS-håndboken, |               |
+|                         | Del 5. Helse, miljø og  |               |
+|                         | sikkerhet i forbindelse |               |
+|                         | med ny Regelsamling.    |               |
++-------------------------+-------------------------+---------------+

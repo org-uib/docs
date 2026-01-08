@@ -1,0 +1,409 @@
+Beredskapsplan for Universitetet i Bergen
+=========================================
+
+Vedtatt i Universitetsstyret 26.11.15
+
+
+**1. Om beredskapsplanen**
+
+**1.1** **Formål**
+
+Beredskapsplan for Universitetet i Bergen (UiB) skal bidra til å:
+
+-  sikre liv og helse
+-  sikre verdier
+-  ivareta ansatte, studenter og pårørende
+-  ivareta intern og ekstern kommunikasjon
+-  ivareta det ytre miljø
+
+**1.2 Ansvar og prinsipper**
+
+Beredskapsarbeidet ved universitetet er basert på følgende prinsipper:
+
+-  Ansvarsprinsippet innebærer at personene som har ansvar i en
+   normalsituasjon også skal ha ansvaret i en ekstraordinær situasjon.
+-  Likhetsprinsippet innebærer at den organisasjonen man opererer med i
+   en beredskapssituasjon, skal være mest mulig lik den organisasjonen
+   man har til daglig.
+-  Nærhetsprinsippet innebærer at kriser og hendelser skal håndteres på
+   et lavest mulig nivå, hvor nødvendig kompetanse og ressurser er til
+   stede.
+-  Samvirkeprinsippet innebærer at universitetet har et selvstendig
+   ansvar for å sikre best mulig samvirke med relevante aktører og
+   virksomheter i arbeidet med forebygging, beredskap og
+   krisehåndtering.
+
+Rektor har det overordnede og strategiske ansvaret i en
+beredskapssituasjon og er universitetets talsperson.
+
+Universitetsdirektøren er operativ leder av den sentrale
+beredskapsledelsen og holder rektor løpende orientert.
+
+**1.3 Iverksetting**
+
+Beredskapsplanen iverksettes av universitetsdirektør ved:
+
+-  Stor skade på ytre miljø
+-  Større brann eller eksplosjon
+-  Større sykdomsutbrudd blant studenter eller ansatte
+-  Pågående livstruende voldshendelser
+-  Alvorlige trusler
+-  Skade/død på ansatt, student eller gjesteforsker i forbindelse med
+   aktiviteter i regi av UiB
+-  Større skade i bygninger som universitetet eier eller leier
+-  Sensitiv informasjon på avveie
+-  Alvorlig brudd på UiBs etiske retningslinjer, uredelighet i
+   forskning/utdanning, korrupsjon og lignende.
+-  Angrep på eller bortfall av sentrale IKT-tjenester
+-  Alvorlige hendelser som kan eskalere til en krise
+-  Tap av store materielle verdier
+
+Tiltakskort for de ulike hendelsene er tilgjengelige i `universitetets
+krisestøtteverktøy <https://uib-cim.no%20>`__.
+
+Intern samhandling mellom sentralt og lokalt nivå er beskrevet i punkt
+9.1–9.2.
+
+**1.4 Definisjoner**
+
+-  **Beredskapsplan for UiB**: Overordnet beredskapsplan for
+   krisesituasjoner innenfor UiBs ansvarsområder.
+-  **Krise**: En situasjon som truer eller kan true universitetets
+   verdier og kjernevirksomhet. Ikke alle alvorlige hendelser er kriser.
+   Det er først når hendelsen krever ressurser utover ordinær drift, at
+   beredskapsplanen iverksettes.
+-  **Risikovurdering**: En systematisk metode for å kartlegge og
+   beskrive risiko. Risikovurderingen gir grunnlag for beredskapsplaner.
+-  **Sentral beredskapsledelse**: Har det overordnede ansvaret i en
+   beredskapssituasjon ved universitetet og består av
+   universitetsdirektøren og avdelingsdirektører.
+
+**2. Varslingsrutiner ved beredskapssituasjoner**
+
+**2.1** **Første varsling**
+
+Den som først blir oppmerksom på en krise eller ulykke, er ansvarlig for
+å varsle.
+
+**Ring først nødetatene:**
+
+**BRANN:** 110
+
+**POLITI:** 112
+
+**AMBULANSE:** 113
+
+**Ring deretter:**
+
+**Universitetets vekter- og beredskapstelefon 55 58 80 81**
+
+Vaktselskapet ved universitetet varsler videre.
+
+**Gi beskjed om:**
+
+ Hvem du er
+
+ Hva som har skjedd
+
+ Hvor det har skjedd
+
+ Skadeomfang
+
+**2.2** **Varsling av beredskapsledelsen**
+
+Universitetsdirektøren skal varsle den sentrale beredskapsledelsen etter
+intern varslingsliste. Hvert medlem dimitterer egen stedfortreder.
+
+**3. Organisering av beredskapsarbeidet**
+
+**3.1 Beredskapsledelsen**
+
+| **Leder av sentral beredskapsledelse:**
+| Universitetsdirektøren
+
+**Medlemmer:**
+
+-  Avdelingsdirektør HR
+-  Avdelingsdirektør Kommunikasjon
+-  Avdelingsdirektør Eiendom
+-  Avdelingsdirektør Studieadministrasjon
+-  Avdelingsdirektør IT
+-  Rådgiver
+-  Loggfører
+
+| **3.2. Beredskapsledelsen oppgaver**
+| Tiltakskort for de ulike rollene er tilgjengelig i
+  krisestøtteverktøyet.
+
+**4. Kommunikasjonsarbeid i beredskapssituasjoner**
+
+Vår kommunikasjon skal være åpen og aktiv slik at den bidrar til et
+effektivt beredskapsarbeid, samt bevarer eller styrker UiBs omdømme.
+Målet er å gi et mest mulig korrekt og oppdatert bilde av hva som skjer
+og hvordan UiB håndterer situasjonen.
+
+**UiBs viktigste målgrupper** i en krise er:
+
+-  Personer som er direkte berørt av hendelsen (studenter, ansatte eller
+   andre)
+-  Pårørende
+-  Øvrige ansatte og studenter
+-  Samarbeidspartnere i forskning/utdanning
+-  Myndigheter
+-  Naboer og leietakere
+-  Media
+
+UiBs budskap skal bygge på bekreftede fakta og omsorg for de berørte. I
+første fase er det særlig viktig å avklare hva UiB skal uttale seg om,
+og å informere internt.
+
+Rektor er UiBs talsperson og avgjør eventuelt hvem andre som kan uttale
+seg i saken.
+
+Politiet uttaler seg om eventuelle omkomne og skadde, offentliggjøring
+av navn, årsaker til hendelser, redningsarbeid ved ulykker og siktelser
+ved mistanke om kriminelle handlinger. UiB holder seg orientert om
+politiets informasjonsarbeid og avklarer med dem hva UiB skal uttale seg
+om. UiB skal ikke formidle navn på berørte ansatte eller studenter,
+eller bilder av disse.
+
+Se ellers Tiltaksplan for krisekommunikasjon og aktuelle tiltakskort.
+
+**5. Oppfølging av involverte studenter og ansatte**
+
+Beredskapsplanen skal sikre at studenter og ansatte som blir rammet av
+en alvorlig hendelse/krise skal ivaretas på en forsvarlig og god måte,
+og at de skal følges opp ut fra den enkeltes behov.
+
+Ved hendelser som krever håndtering av pårørende, skal
+beredskapsledelsen opprette kontakttelefon for pårørende og eventuelt et
+pårørendesenter.
+
+Studenter og ansatte følges opp i tråd med Tiltaksplan for personal- og
+pårørendeomsorg, Beredskap for studenter ved UiB – planer og
+retningslinjer, Beredskapsplan for ansatte i utlandet og Beredskapsplan
+for studenter i utlandet.
+
+**6.** **Øvelser**
+
+En viktig forutsetning for god krisehåndtering er at alle involverte er
+godt kjent med beredskapsplanen, og at de kjenner sine roller og
+oppgaver i en krisesituasjon. Det er et lederansvar å sørge for at
+ansatte på alle nivåer får nødvendig opplæring og at det gjennomføres
+øvelser.
+
+Øvelser skal gjøre universitetet bedre rustet til å håndtere ulike typer
+kriser/beredskapssituasjoner og finne forbedringspunkter i planverk,
+krisestøtteverktøy og samhandling.
+
+Øvelser skal gjennomføres jevnlig. Hvert tredje til fjerde år skal det
+øves med andre aktuelle samarbeidspartnere og eksterne aktører.
+
+**7. Normalisering og oppfølging**
+
+Når hendelsen er under kontroll eller situasjonen er avklart, er
+universitetsdirektøren ansvarlig for å gjenopprette normal drift av
+virksomheten så raskt som mulig. Umiddelbart etter hendelsen skal det
+gjennomføres en kort debrief.
+
+Universitetsdirektøren er ansvarlig for etterarbeid og rapportering.
+
+Senest to uker etter hendelsen skal alle som har vært mobilisert delta i
+en oppsummering. Formålet er å evaluere, identifisere forbedringer og
+planlegge videre oppfølging.
+
+Følgende skal gjennomgås:
+
+-  Rutiner
+-  Ansvarsfordeling
+-  Utstyr
+-  Debriefing
+-  Oppfølging av berørte ansatte, studenter og pårørende
+-  Intern og ekstern kommunikasjon
+-  Samarbeid med eksterne
+
+Etter evalueringen skal det utarbeides en rapport.
+
+**8. Revisjon**
+
+Den sentrale beredskapsplanen revideres jevnlig, og minimum årlig.
+Varslingslister justeres fortløpende ved behov. Universitetsdirektørens
+kontor er ansvarlig for revisjon og oppdatering.
+
+**9. Samhandling**
+
+| **9.1 Lokal beredskap**
+| Fakulteter og avdelinger skal utarbeide lokale beredskapsplaner som
+  bygger på risikovurderinger og sentral beredskapsplan. De lokale
+  beredskapsplanene skal beskrive representanter i lokal
+  beredskapsgruppe, varslingslister, hendelser som krever lokal
+  beredskap og plan for øvelser.
+
+Beredskapsarbeid inngår som del av det systematiske HMS-arbeidet ved
+UiB.
+
+Universitetsdirektøren skal alltid varsles ved beredskapssituasjoner ved
+fakulteter og avdelinger, for å sikre enhetlig og samordnet beredskap.
+
+Når sentral beredskapsledelse setter stab, skal også beredskapsgruppen
+ved berørt fakultet/avdeling sette stab.
+
+Lokal beredskapsgruppe skal følge prinsippene om nærhet, ansvar, likhet
+og samordning, jf. punkt. 1.2.
+
+**9.2 Intern samhandling**
+
++-----------------------------------+-----------------------------------+
+| **Fakultet/avdeling**             | **Oppgaver**                      |
++-----------------------------------+-----------------------------------+
+| **Ansatt-dekan,                   | -  Bistå den sentrale             |
+| fakultets/-avdelingsdirektører**  |    bedredskapsledelsen ved behov  |
++-----------------------------------+-----------------------------------+
+
+**9.3 Ekstern samhandling**
+
++-----------------------------------+-----------------------------------+
+| **Samarbeidende institusjoner**   | **Oppgaver**                      |
++-----------------------------------+-----------------------------------+
+| | **Sammen Studentsamskipnaden**  | -  Gjensidig varsling og          |
+| | **på Vestlandet**               |    samarbeid om                   |
+|                                   |    beredskapsarbeidet.            |
+|                                   | -  UiB kan avgi personell ved     |
+|                                   |    behov.                         |
++-----------------------------------+-----------------------------------+
+| **Havforskningsinstituttet**      | -  Havforskningsinstituttet har   |
+|                                   |    rederansvar for                |
+|                                   |    forskningsfartøyene.           |
+|                                   | -  Gjensidig varsling og          |
+|                                   |    samarbeid om                   |
+|                                   |    beredskapsarbeidet.            |
+|                                   | -  UiB kan ved behov bistå og     |
+|                                   |    avgi personell.                |
++-----------------------------------+-----------------------------------+
+| | **Helse Bergen**                | -  Gjensidig varsling og          |
+|                                   |    samarbeid om                   |
+|                                   |    beredskapsarbeidet.            |
++-----------------------------------+-----------------------------------+
+| | **Uni Research**                | -  Gjensidig varsling og          |
+|                                   |    samarbeid om                   |
+|                                   |    beredskapsarbeidet.            |
+|                                   | -  UiB kan avgi personell ved     |
+|                                   |    behov.                         |
++-----------------------------------+-----------------------------------+
+| **Christian Michelsens            | -  Gjensidig varsling og          |
+| institutt**                       |    samarbeid om                   |
+|                                   |    beredskapsarbeidet.            |
++-----------------------------------+-----------------------------------+
+| **Marineholmen**                  | -  Gjensidig varsling og          |
+|                                   |    samarbeid om                   |
+|                                   |    beredskapsarbeidet.            |
++-----------------------------------+-----------------------------------+
+
+Kontaktinformasjon for eksterne samarbeidspartnere er tilgjengelig i
+universitetets krisestøtteverktøy.
+
+**9.4** **Ekstern varsling**
+
++-----------------------------------+-----------------------------------+
+| **Navn:**                         | **Telefon:**                      |
++-----------------------------------+-----------------------------------+
+| Ambulanse                         | 113                               |
++-----------------------------------+-----------------------------------+
+| Brannvesen                        | 110                               |
++-----------------------------------+-----------------------------------+
+| Politi                            | 112                               |
++-----------------------------------+-----------------------------------+
+| Vaktselskap (Nokas)               | 55 58 80 81                       |
++-----------------------------------+-----------------------------------+
+| Arbeidstilsynet Vestlandet        | 73 19 97 00                       |
++-----------------------------------+-----------------------------------+
+| | Bergen kommune, sentralbord     | | 05556                           |
+| | Vaktsentral (døgnbemannet)      | | 55 56 78 15                     |
++-----------------------------------+-----------------------------------+
+| Folkehelseinstituttet,            | 21 07 70 00                       |
+| sentralbord                       |                                   |
++-----------------------------------+-----------------------------------+
+| Fylkesmannen i Hordaland,         | 55 57 20 00                       |
+| beredskapstelefon                 |                                   |
++-----------------------------------+-----------------------------------+
+| Haukeland universitetssykehus,    | 05300                             |
+| sentralbord                       |                                   |
++-----------------------------------+-----------------------------------+
+| Hordaland politidistrikt,         | 55 55 63 00                       |
+| sentralbord                       |                                   |
+|                                   | 02800                             |
+| Direktenummer politi              |                                   |
++-----------------------------------+-----------------------------------+
+| Kunnskapsdepartementet,           | 22 24 77 01                       |
+| Universitets- og                  |                                   |
+| høyskoleavdelingen                |                                   |
++-----------------------------------+-----------------------------------+
+| Sivilforsvaret i Hordaland,       | 55 10 93 00                       |
+| sentralbord                       |                                   |
+|                                   | 48 88 93 00                       |
+| Vakttelefon - vakttelefon utenom  |                                   |
+| arbeidstid                        |                                   |
++-----------------------------------+-----------------------------------+
+| Statens strålevern, sentralbord   | 67 16 25 00                       |
+|                                   |                                   |
+| Vakttelefon (døgnbemannet)        | 67 16 26 00                       |
++-----------------------------------+-----------------------------------+
+
+Utfyllende kontaktinformasjon er tilgjengelig i universitetets
+krisestøtteverktøy.
+
+**9.5 Fakultet/avdelingers beredskapsplaner**
+
+| `Det humanistiske
+  fakultet <https://www.uib.no/hf/123743/beredskap-ved-det-humanistiske-fakultet#organisering>`__
+| `Det juridiske
+  fakultet <http://www.uib.no/jur/76626/helse-milj%c3%b8-og-sikkerhet-hms>`__
+| `Det matematisk-naturvitenskapelige
+  fakultet <https://w3.uib.no/sites/w3.uib.no/files/attachments/beredskapsplan_mn_nettside_0.pdf>`__
+| `Det medisinske
+  fakultet <http://www.uib.no/mofa/67392/helse-milj%c3%b8-og-sikkerhet-hms#beredskapsplan-for-fakultetet>`__
+| `Det psykologiske
+  fakultet <http://www.uib.no/psyfa/om-fakultetet/for-ansatte/beredskapsplan-for-det-psykologiske-fakultet>`__
+| `Det samfunnsvitenskapelige
+  fakultet <http://www.uib.no/svf/96177/beredskapsplan-det-samfunnsvitenskapelige-fakultet>`__
+| `Universitetsmuseet i
+  Bergen <http://www.uib.no/universitetsmuseet/65207/brannvern-og-beredskap>`__
+
++------------------------+------------------------+------------------+
+| Dato                   | Kommentar              | Lagt inn av      |
++========================+========================+==================+
+| 05. juli 2018 13:43:58 | Presieringer og nye    | Mona Viksøy      |
+|                        | punkter lagt til i     |                  |
+|                        | følgende punkt. 1.1.,  |                  |
+|                        | 1.2, 1.3., 2.2., 3.1., |                  |
+|                        | 4, 7, 9.1.             |                  |
++------------------------+------------------------+------------------+
+| 19. juni 2017 08:31:17 | 1.3. Oppdatert lenke   | Arne R. Ramslien |
+|                        | til krisestøtteverktøy |                  |
++------------------------+------------------------+------------------+
+| 31. mai 2017 12:52:21  | 1.3. Oppdatert lenke   | Mona Viksøy      |
+|                        | til krisestøtteverktøy |                  |
++------------------------+------------------------+------------------+
+| 16. januar 2017        | 3.1. Navn tatt ut,     | Mona Viksøy      |
+| 08:05:01               | 3.2. fjernet, 7.       |                  |
+|                        | Gjenoppretting normal  |                  |
+|                        | drift, 9.4.,           |                  |
+|                        | Oppdateringer av       |                  |
+|                        | telefonnumre           |                  |
++------------------------+------------------------+------------------+
+| 12. september 2016     | 3.1. Loggfører - navn  | Mona Viksøy      |
+| 10:25:58               | tatt ut                |                  |
++------------------------+------------------------+------------------+
+| 22. august 2016        | Ny stedfortreder       | Mona Viksøy      |
+| 14:24:57               | IT-avd., endring i     |                  |
+|                        | punktet intern         |                  |
+|                        | samhandling            |                  |
++------------------------+------------------------+------------------+
+| 05. juli 2016 08:34:16 | Ny beredskapsplan for  | Mona Viksøy      |
+|                        | MN-fakultetet          |                  |
++------------------------+------------------------+------------------+
+| 04. mai 2016 15:08:11  | Ny underdirektør HR    | Mona Viksøy      |
++------------------------+------------------------+------------------+
+| 07. april 2016         | Ny underdirektør HR    | Mona Viksøy      |
+| 08:56:02               |                        |                  |
++------------------------+------------------------+------------------+
